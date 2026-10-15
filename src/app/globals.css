@@ -1,26 +1,363 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #090908;
+  --foreground: #f3efe6;
+  --muted: #a39c90;
+  --ember: #ff4d1c;
+  --ember-deep: #e03d12;
+  --brass: #e2b15a;
+  --line: rgba(243, 239, 230, 0.12);
+  --surface: #121210;
+  --surface-2: #1c1c19;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-ember: var(--ember);
+  --color-ember-deep: var(--ember-deep);
+  --color-brass: var(--brass);
+  --color-line: var(--line);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
   --font-sans: var(--font-geist-sans);
+  --font-display: var(--font-syne);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+html {
+  color-scheme: dark;
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
   }
 }
 
 body {
-  background: var(--background);
+  background-color: var(--background);
+  background-image: radial-gradient(1200px 480px at 85% -10%, rgba(255, 77, 28, 0.09), transparent 55%);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+}
+
+::selection {
+  background: var(--ember);
+  color: var(--background);
+}
+
+:focus-visible {
+  outline: 2px solid var(--ember);
+  outline-offset: 3px;
+}
+
+[id] {
+  scroll-margin-top: 5.5rem;
+}
+
+/* Menus stay out of document flow so the 5rem header cannot grow. */
+header summary {
+  list-style: none;
+}
+
+header summary::-webkit-details-marker {
+  display: none;
+}
+
+.nav-panel {
+  display: none;
+}
+
+.nav-chevron {
+  transition: transform 150ms ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .nav-chevron {
+    transition: none;
+  }
+}
+
+@media (min-width: 80rem) {
+  details.desktop-item:hover > .nav-panel,
+  details.desktop-item:focus-within > .nav-panel,
+  details.desktop-item[open] > .nav-panel {
+    display: block;
+  }
+
+  details.desktop-item:hover > summary,
+  details.desktop-item:focus-within > summary,
+  details.desktop-item[open] > summary {
+    color: #b111e5;
+  }
+
+  details.desktop-item:hover > summary .nav-chevron,
+  details.desktop-item:focus-within > summary .nav-chevron,
+  details.desktop-item[open] > summary .nav-chevron {
+    transform: rotate(180deg);
+  }
+}
+
+details.mobile-section[open] > summary .nav-chevron {
+  transform: rotate(180deg);
+}
+
+body:has(details.mobile-nav[open]) {
+  overflow: hidden;
+}
+
+.mobile-nav .icon-close {
+  display: none;
+}
+
+.mobile-nav[open] .icon-open {
+  display: none;
+}
+
+.mobile-nav[open] .icon-close {
+  display: block;
+}
+
+/* Header quote control: flat magenta face with an isometric extrusion. */
+.quote-btn {
+  --quote-depth: 7px;
+  position: relative;
+  z-index: 0;
+  isolation: isolate;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.7rem;
+  background: #c218ef;
+  padding: 0.9rem 1.15rem;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #fff;
+  white-space: nowrap;
+  transition: transform 160ms ease, background-color 160ms ease;
+}
+
+.quote-btn::before,
+.quote-btn::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.quote-btn::before {
+  top: 0;
+  left: 100%;
+  width: var(--quote-depth);
+  height: calc(100% + 0.5px);
+  background: #9a16c0;
+  transform: skewY(45deg);
+  transform-origin: top left;
+  transition: width 160ms ease;
+}
+
+.quote-btn::after {
+  top: 100%;
+  left: 0;
+  width: calc(100% + 0.5px);
+  height: var(--quote-depth);
+  background: #741098;
+  transform: skewX(45deg);
+  transform-origin: top left;
+  transition: height 160ms ease;
+}
+
+.quote-btn:hover {
+  background: #ce2ff6;
+  transform: translate(3px, 3px);
+}
+
+.quote-btn:hover::before {
+  width: 4px;
+}
+
+.quote-btn:hover::after {
+  height: 4px;
+}
+
+.quote-btn:active {
+  transform: translate(5px, 5px);
+}
+
+.quote-btn:active::before {
+  width: 2px;
+}
+
+.quote-btn:active::after {
+  height: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .quote-btn,
+  .quote-btn::before,
+  .quote-btn::after {
+    transition: none;
+  }
+
+  .quote-btn:hover,
+  .quote-btn:active {
+    transform: none;
+  }
+
+  .quote-btn:hover::before,
+  .quote-btn:active::before {
+    width: var(--quote-depth);
+  }
+
+  .quote-btn:hover::after,
+  .quote-btn:active::after {
+    height: var(--quote-depth);
+  }
+}
+
+/* Full-bleed hero. Height comes from the image ratio and min-height, not from the text. */
+.hero-banner {
+  --hero-ratio: 1600 / 637;
+  position: relative;
+  isolation: isolate;
+  width: 100%;
+  min-height: 28rem;
+  overflow: hidden;
+  background-color: #070814;
+  aspect-ratio: var(--hero-ratio);
+}
+
+@media (min-width: 48rem) {
+  .hero-banner {
+    min-height: 26rem;
+  }
+}
+
+@media (min-width: 64rem) {
+  .hero-banner {
+    min-height: 0;
+  }
+}
+
+.hero-actions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1.75rem;
+}
+
+.hero-action {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3rem;
+  padding: 0.7rem 1.15rem;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  font-style: italic;
+  line-height: 1;
+  white-space: nowrap;
+  transform: skewX(-16deg);
+  transition: filter 160ms ease;
+}
+
+.hero-action:hover {
+  filter: brightness(1.08);
+}
+
+.hero-action-solid {
+  z-index: 1;
+  background: #c218ef;
+  padding-right: 1.5rem;
+  color: #fff;
+}
+
+.hero-action-light {
+  margin-left: 0.55rem;
+  background: #f4f1fb;
+  padding-left: 2.15rem;
+  color: #9a12e0;
+}
+
+.hero-action-marks {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0.35rem;
+  width: 1.15rem;
+  background: repeating-linear-gradient(90deg, #fff 0 3px, transparent 3px 7px);
+}
+
+.hero-talk {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  z-index: 20;
+  display: none;
+  translate: 0 -50%;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.45rem;
+  border-radius: 999px 0 0 999px;
+  background: #c218ef;
+  padding: 0.85rem 0.45rem;
+  color: #fff;
+}
+
+.hero-talk-label {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.hero-talk-icon {
+  display: flex;
+  width: 1.65rem;
+  height: 1.65rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: #25d366;
+  color: #fff;
+}
+
+@media (min-width: 40rem) {
+  .hero-action {
+    min-height: 3.25rem;
+    padding: 0.8rem 1.7rem;
+    font-size: 1rem;
+  }
+
+  .hero-action-solid {
+    padding-right: 2.15rem;
+  }
+
+  .hero-action-light {
+    padding-left: 2.6rem;
+  }
+
+  .hero-talk {
+    display: flex;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-action {
+    transition: none;
+  }
+}
+
+.grid-fade {
+  background-image:
+    linear-gradient(to right, rgba(243, 239, 230, 0.06) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(243, 239, 230, 0.06) 1px, transparent 1px);
+  background-size: 72px 72px;
+  mask-image: radial-gradient(ellipse at top left, black, transparent 72%);
 }

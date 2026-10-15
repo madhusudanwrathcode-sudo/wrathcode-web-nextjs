@@ -1,0 +1,394 @@
+{
+    "herosection": {
+        "id": "home-hero",
+        "eyebrow": "Web / App Development",
+        "title": "Building Smarter Tech For Your Growth",
+        "brand": "WrathCode",
+        "image": {
+            "src": "/home/banner_img.webp",
+            "width": 1600,
+            "height": 637,
+            "alt": "Tablet and desktop monitor with glowing orbs in a digital grid"
+        },
+        "actions": [
+            {
+                "href": "/contact",
+                "label": "Talk to Consultant"
+            },
+            {
+                "href": "/work",
+                "label": "Portfolio"
+            }
+        ],
+        "talk": {
+            "href": "/contact",
+            "label": "Let's Talk"
+        }
+    },
+    "services": {
+        "id": "services",
+        "kicker": "Our Services",
+        "title": "Custom Mobile App & Web Development Services",
+        "titleAccent": "build, launch and scale",
+        "description": "Our expert Mobile app developers create enterprise-grade AI-Powered web and mobile applications using modern frameworks and scalable architectures. We help businesses adopt futuristic technologies to improve performance, user experience, and market competitiveness.",
+        "exploreLabel": "Explore service",
+        "bookLabel": "Book a call",
+        "bookHref": "https://api.whatsapp.com/send?phone=919982141988&text=Hello,WrathCode",
+        "pointsLabel": "What you get",
+        "items": [
+            {
+                "id": "web",
+                "index": "01",
+                "title": "Website Development",
+                "chip": "Web & Apps",
+                "icon": "web",
+                "description": "Fast, visually engaging and user-friendly websites that reflect your brand and drive results. We deliver end-to-end, from startup landing pages to enterprise-grade platforms.",
+                "points": ["Custom website design & UI/UX", "Front-end and back-end development", "E-commerce and online stores", "CMS-based development", "Responsive, fast-loading pages", "SEO-ready structure"],
+                "tags": ["React", "Angular", "Laravel", "Node.js", "WordPress", "Shopify"],
+                "href": "/web-development"
+            },
+            {
+                "id": "mobile",
+                "index": "02",
+                "title": "Mobile App Development",
+                "chip": "Web & Apps",
+                "icon": "mobile",
+                "description": "Scalable, intuitive mobile apps for Android and iOS, built for performance and designed so your users love opening them.",
+                "points": ["Native Android and iOS apps", "Cross-platform development", "Clean, intuitive UI/UX design", "API, payment and chat integrations", "Rigorous testing before launch", "App store submission support"],
+                "tags": ["Android", "iOS", "React Native", "Flutter"],
+                "href": "/mobile-app-development"
+            },
+            {
+                "id": "software",
+                "index": "03",
+                "title": "Custom Software Development",
+                "chip": "Web & Apps",
+                "icon": "code",
+                "description": "Software shaped around the way your business actually works, built on clean architecture with strong backend security and room to grow.",
+                "points": ["ERP and CRM systems", "SaaS product development", "Admin panels and dashboards", "Third-party system integration", "Secure, scalable architecture", "Ongoing maintenance and updates"],
+                "tags": ["Python", "Node.js", "Laravel", "PHP", "Microsoft"],
+                "href": "/custom-software-development"
+            },
+            {
+                "id": "ondemand",
+                "index": "04",
+                "title": "On-Demand App Development",
+                "chip": "Web & Apps",
+                "icon": "pin",
+                "description": "Turn your business idea into a dynamic, revenue-generating app. We build high-performance on-demand platforms for food, travel, home services and more.",
+                "points": ["Real-time tracking", "Automated booking", "In-app chat", "Secure payment integration", "Customer, provider and admin apps", "Push notifications"],
+                "tags": ["Food delivery", "Car rental", "Travel", "Home services"],
+                "href": "/food-delivery-app-development"
+            },
+            {
+                "id": "healthcare",
+                "index": "05",
+                "title": "Healthcare App Development",
+                "chip": "Web & Apps",
+                "icon": "health",
+                "description": "Custom-built, HIPAA-compliant mobile and web applications that make care simpler for patients and providers.",
+                "points": ["Patient management", "Telemedicine and video consults", "Appointment scheduling", "Electronic health records", "Wellness and fitness tracking", "HIPAA-compliant security"],
+                "tags": ["Telemedicine", "EHR", "Fitness", "Wellness"],
+                "href": "/healthcare-app-development"
+            },
+            {
+                "id": "exchange",
+                "index": "06",
+                "title": "Crypto Exchange Development",
+                "chip": "Crypto",
+                "icon": "exchange",
+                "description": "Launch your own cryptocurrency exchange with a secure, scalable and feature-rich platform tailored to your business model.",
+                "points": ["High-performance trading engine", "White-label exchange solutions", "P2P exchange development", "Decentralized exchange (DEX)", "End-to-end encryption and 2FA", "Regular security audits"],
+                "tags": ["Spot trading", "Wallets", "KYC", "Admin panel"],
+                "href": "/crypto-exchange-development"
+            },
+            {
+                "id": "blockchain",
+                "index": "07",
+                "title": "Blockchain & Smart Contracts",
+                "chip": "Crypto",
+                "icon": "chain",
+                "description": "Decentralized applications that bring transparency, security and immutability to finance, healthcare, supply chain and more.",
+                "points": ["Smart contract development", "Crypto token development", "ICO platform development", "Decentralized app (dApp) building", "Cryptocurrency MLM software", "Secure, transparent architecture"],
+                "tags": ["Smart contracts", "Tokens", "ICO", "dApps"],
+                "href": "/blockchain-development-services"
+            },
+            {
+                "id": "nft",
+                "index": "08",
+                "title": "NFT Marketplace Development",
+                "chip": "Crypto",
+                "icon": "nft",
+                "description": "Custom NFT marketplaces where creators and collectors can mint, buy, sell and auction digital assets with confidence.",
+                "points": ["NFT minting and listings", "Auction and fixed-price sales", "Creator royalties", "Multi-wallet support", "Smart contract integration", "Secure payment flows"],
+                "tags": ["Minting", "Auctions", "Royalties", "Wallets"],
+                "href": "/nft-marketplace-development"
+            },
+            {
+                "id": "forex",
+                "index": "09",
+                "title": "Forex Trading Software",
+                "chip": "Crypto",
+                "icon": "chart",
+                "description": "Reliable trading platforms with live market data and real-time analytics, built for speed, accuracy and security.",
+                "points": ["Live market data feeds", "Order management system", "Trader and admin dashboards", "Real-time charts and analytics", "Secure account and fund handling", "Web and mobile trading apps"],
+                "tags": ["Live feeds", "Charts", "Orders", "Analytics"],
+                "href": "/forex-trading-development"
+            },
+            {
+                "id": "game",
+                "index": "10",
+                "title": "Game Development",
+                "chip": "Gaming",
+                "icon": "game",
+                "description": "Immersive, scalable multiplayer games for mobile, web and desktop, from ideation and design through development and deployment.",
+                "points": ["Ludo and Chess games", "Rummy, Poker and Teen Patti", "Multi-game platforms with unified wallet", "Fantasy apps with live data and leaderboards", "Real-time multiplayer gameplay", "Secure transactions"],
+                "tags": ["Ludo", "Rummy", "Poker", "Teen Patti", "Chess", "Fantasy"],
+                "href": "/multigame-development"
+            }
+        ]
+    },
+    "about": {
+        "id": "about",
+        "kicker": "About WrathCode",
+        "title": "Powering Businesses with Scalable Mobile App and Web Development",
+        "titleAccent": "software that moves your business forward",
+        "highlight": "WrathCode Technology",
+        "lead": "is a team of passionate innovators dedicated to delivering top-tier software. From a base in Jaipur, India, we help startups and growing businesses around the world turn ideas into secure, scalable digital products.",
+        "detail": "We specialize in web and app development, blockchain, NFT marketplaces, forex trading software and AI-driven technologies, with one goal: building future-ready technology that makes a real impact.",
+        "checks": [
+            "Dedicated team of 50+ skilled experts",
+            "Transparent process, from idea to launch",
+            "Security and scalability built in",
+            "Support that continues after launch"
+        ],
+        "primary": { "href": "/about", "label": "Know more about us" },
+        "secondary": { "href": "/work", "label": "See our work" },
+        "images": {
+            "main": {
+                "src": "/home/about.jpg",
+                "alt": "WrathCode Technology team"
+            },
+            "sub": {
+                "src": "https://wrathcode.com/wp-content/uploads/2025/03/about_img2.jpg",
+                "alt": "WrathCode Technology workspace"
+            }
+        },
+        "chips": [
+            { "title": "10+ countries", "label": "Clients worldwide", "icon": "globe", "place": "a" },
+            { "title": "Jaipur, India", "label": "Head office", "icon": "pin", "place": "b" }
+        ]
+    },
+    "process": {
+        "id": "process",
+        "title": "Our Mobile App and Website Development Process",
+        "description": "We follow a streamlined, transparent development process to transform your ideas into powerful digital experiences. From strategy and design to development and deployment, every step is focused on performance, scalability, and your business growth.",
+        "points": [
+            "Clear timelines and costs, agreed upfront",
+            "Regular updates, so you're never left guessing",
+            "Support that continues after launch"
+        ],
+        "cta": { "href": "/contact", "label": "Start with a free discovery call" },
+        "note": "Free consultation · No obligation",
+        "steps": [
+            {
+                "stage": "Discover",
+                "title": "Discovery & Strategy",
+                "description": "We start by understanding your business goals, target audience, project requirements, and vision to create a clear roadmap for success.",
+                "tags": ["Goals & requirements", "Expert recommendations"]
+            },
+            {
+                "stage": "Planning",
+                "title": "Planning & Architecture",
+                "description": "We define the project scope, select the right technologies, map user journeys, and build a scalable foundation for your website or mobile app.",
+                "tags": ["Cost estimate", "Timeline estimate"]
+            },
+            {
+                "stage": "Design",
+                "title": "UI/UX Design",
+                "description": "We create intuitive, visually engaging, and user-friendly designs that reflect your brand identity and deliver seamless experiences across devices.",
+                "tags": ["Product roadmap", "UI/UX design", "Brand-aligned look"]
+            },
+             {
+                "stage": "Development",
+                "title": "Development & Integration",
+                "description": "Our developers turn designs into functional digital products using modern technologies, robust architecture, and reliable third-party integrations.",
+                "tags": ["Agile development", "Testing & QA", "Launch"]
+            },
+            {
+                "stage": "Testing",
+                "title": "Testing & Quality Assurance",
+                "description": "We thoroughly test functionality, performance, security, responsiveness, and compatibility to ensure your product works reliably in real-world conditions.",
+                "tags": ["Testing & QA", "Bug fixes", "Performance optimization"]
+            },
+
+              {
+                "stage": "Launch",
+                "title": "Launch & Deployment",
+                "description": "We manage the deployment process, configure production environments, and help bring your website or mobile application to your audience smoothly.",
+                "tags": ["Deployment", "App store submission", "Monitoring"]
+            },
+           
+            {
+                "stage": "Support",
+                "title": "Support & Continuous Growth",
+                "description": "Our partnership doesn't end at launch. We provide continuous support, updates and improvements to keep your product secure, fast and ahead of the competition.",
+                "tags": ["Bug fixes", "Security updates", "New features"]
+            }
+        ]
+    },
+    "industries": {
+        "id": "industries",
+        "title": "Industries We Serve",
+        "description": "We partner with businesses across industries to build custom websites, mobile applications, and scalable software solutions that solve real-world challenges. By combining industry insights, modern technology, and user-focused design, we help businesses streamline operations, enhance customer experiences, and accelerate digital growth.",
+        "groups": [
+            {
+                "label": "Lifestyle & Services",
+                "items": [
+                    {
+                        "title": "Dating Apps",
+                        "icon": "heart",
+                        "description": "Smart matching, real-time chat and secure profiles that help people find real connections.",
+                        "href": "/dating-app-development",
+                        "built": "Flirture"
+                    },
+                    {
+                        "title": "Astrology",
+                        "icon": "stars",
+                        "description": "Horoscopes, live consultations and astrologer chat that keep users coming back daily.",
+                        "href": "/astrology-app-development"
+                    },
+                    {
+                        "title": "Home Services",
+                        "icon": "wrench",
+                        "description": "On-demand booking apps that connect plumbers and local service pros with customers.",
+                        "href": "/plumber-app-development"
+                    },
+                    {
+                        "title": "Tutor & Education",
+                        "icon": "tutor",
+                        "description": "Tutor discovery, scheduling and live learning sessions that make teaching easier to scale.",
+                        "href": "/tutor-app-development"
+                    },
+                    {
+                        "title": "Matrimonial",
+                        "icon": "gem",
+                        "description": "Profile matching, verified members and private messaging for meaningful matches.",
+                        "href": "/matrimonial-app-development"
+                    }
+                ]
+            },
+            {
+                "label": "Health & Wellness",
+                "items": [
+                    {
+                        "title": "Healthcare",
+                        "icon": "health",
+                        "description": "HIPAA-compliant apps that make care simpler for patients, clinics and care teams.",
+                        "href": "/healthcare-app-development"
+                    },
+                    {
+                        "title": "Telemedicine",
+                        "icon": "medic",
+                        "description": "Secure video consultations and easy appointment booking, bringing doctors to patients anywhere.",
+                        "href": "/telemedicine-app-development"
+                    },
+                    {
+                        "title": "Fitness",
+                        "icon": "fitness",
+                        "description": "Workout plans, progress tracking and wellness communities that keep members motivated.",
+                        "href": "/fitness-app-development"
+                    }
+                ]
+            },
+            {
+                "label": "Commerce & Travel",
+                "items": [
+                    {
+                        "title": "Travel",
+                        "icon": "plane",
+                        "description": "Booking, itineraries and seamless travel experiences, all in one easy-to-use app.",
+                        "href": "/travel-app-development"
+                    },
+                    {
+                        "title": "E-commerce",
+                        "icon": "cart",
+                        "description": "Fast, conversion-focused online stores and shopping apps built to sell on every screen.",
+                        "href": "/ecommerce-development-company",
+                        "built": "Shopprism"
+                    },
+                    {
+                        "title": "Food & Delivery",
+                        "icon": "food",
+                        "description": "Easy ordering, live delivery tracking and powerful tools for restaurants and couriers.",
+                        "href": "/food-delivery-app-development"
+                    },
+                    {
+                        "title": "Car Rental",
+                        "icon": "car",
+                        "description": "Fleet management, instant booking and secure payments for rental and ride businesses.",
+                        "href": "/car-rental-development"
+                    },
+                    {
+                        "title": "Real Estate",
+                        "icon": "building",
+                        "description": "Property listings, smart search and agent connections that help buyers find the right home.",
+                        "href": "/real-estate-app-development",
+                        "built": "Hometrace"
+                    }
+                ]
+            }
+        ],
+        "cta": {
+            "title": "Don't see your industry?",
+            "description": "We build custom solutions for any sector. Tell us about your idea and we'll share a free consultation, a ballpark estimate and a clear roadmap.",
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Let's build together"
+        }
+    },
+    "whyChoose": {
+        "id": "why-us",
+        "title": "Why Choose Us For Your Mobile App and Web Development Project?",
+        "description": "WrathCode builds high-quality web and mobile applications that drive real business growth. We combine modern technology, intuitive design and a proven development process to deliver secure, scalable and user-friendly products with measurable results.",
+        "cta": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Connect to an expert"
+        },
+        "highlight": {
+            "title": "Results-Driven, Outcome Focused",
+            "description": "Our 50+ experts stay focused on outcomes that move your business forward, from the first discovery call to long after launch.",
+            "href": "/contact",
+            "label": "Start your project",
+            "image": {
+                "src": "/home/about.jpg",
+                "alt": "The WrathCode team collaborating on a project"
+            }
+        },
+        "points": [
+            {
+                "title": "Expertise in Modern Technologies",
+                "description": "We work with React, Angular, Node.js, Laravel, Python and more, choosing the right stack for your goals so your web and mobile apps stay fast, secure and easy to evolve."
+            },
+            {
+                "title": "Focus on Security & Reliability",
+                "description": "Every build includes encryption, secure APIs, two-factor authentication and regular audits, so your data and your users are protected from day one."
+            },
+            {
+                "title": "Scalable & Future-Ready Solutions",
+                "description": "Your product is engineered to grow with you, handling more users, more data and more features without a costly rebuild."
+            },
+            {
+                "title": "User-Centric Approach",
+                "description": "We design around real user journeys, with clean interfaces and smooth experiences that boost engagement, retention and conversions."
+            },
+            {
+                "title": "Proven Track Record",
+                "description": "With 550+ projects delivered for startups and businesses in 10+ countries, we consistently ship solutions that meet goals, budgets and deadlines."
+            },
+            {
+                "title": "End-to-End Development & Support",
+                "description": "From discovery and design to development, launch and ongoing maintenance, one team handles it all and keeps your product improving after go-live."
+            }
+        ]
+    }
+}
