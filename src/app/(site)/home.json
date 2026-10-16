@@ -3,6 +3,7 @@
         "id": "home-hero",
         "eyebrow": "Web / App Development",
         "title": "Building Smarter Tech For Your Growth",
+        "description": "WrathCode is a web and mobile app development company helping startups and established businesses build modern websites, custom web applications, and scalable mobile solutions. We combine thoughtful design, reliable engineering, and business-focused technology to create digital experiences that engage users, streamline workflows, and support long-term growth",
         "brand": "WrathCode",
         "image": {
             "src": "/home/banner_img.webp",
@@ -30,7 +31,7 @@
         "kicker": "Our Services",
         "title": "Custom Mobile App & Web Development Services",
         "titleAccent": "build, launch and scale",
-        "description": "Our expert Mobile app developers create enterprise-grade AI-Powered web and mobile applications using modern frameworks and scalable architectures. We help businesses adopt futuristic technologies to improve performance, user experience, and market competitiveness.",
+        "description": "At WrathCode, we build custom websites, scalable web applications, and high-performance mobile apps tailored to your business goals. Our expert developers leverage modern frameworks, AI-powered technologies, and robust architectures to deliver secure, future-ready digital solutions that enhance user experiences, streamline operations, and accelerate business growth.",
         "exploreLabel": "Explore service",
         "bookLabel": "Book a call",
         "bookHref": "https://api.whatsapp.com/send?phone=919982141988&text=Hello,WrathCode",
@@ -42,9 +43,23 @@
                 "title": "Website Development",
                 "chip": "Web & Apps",
                 "icon": "web",
-                "description": "Fast, visually engaging and user-friendly websites that reflect your brand and drive results. We deliver end-to-end, from startup landing pages to enterprise-grade platforms.",
-                "points": ["Custom website design & UI/UX", "Front-end and back-end development", "E-commerce and online stores", "CMS-based development", "Responsive, fast-loading pages", "SEO-ready structure"],
-                "tags": ["React", "Angular", "Laravel", "Node.js", "WordPress", "Shopify"],
+                "description": "WrathCode delivers custom website development services to help businesses build a strong online presence. We create responsive, SEO-friendly, fast-loading websites and scalable web platforms designed to engage visitors, strengthen your brand, and turn traffic into customers.",
+                "points": [
+                    "Custom website design and UI/UX development",
+                    "Front-end and back-end web development",
+                    "E-commerce website and online store development",
+                    "CMS website development and integration",
+                    "Responsive design and performance optimization",
+                    "SEO-friendly website architecture and technical foundations"
+                ],
+                "tags": [
+                    "React",
+                    "Angular",
+                    "Laravel",
+                    "Node.js",
+                    "WordPress",
+                    "Shopify"
+                ],
                 "href": "/web-development"
             },
             {
@@ -53,9 +68,21 @@
                 "title": "Mobile App Development",
                 "chip": "Web & Apps",
                 "icon": "mobile",
-                "description": "Scalable, intuitive mobile apps for Android and iOS, built for performance and designed so your users love opening them.",
-                "points": ["Native Android and iOS apps", "Cross-platform development", "Clean, intuitive UI/UX design", "API, payment and chat integrations", "Rigorous testing before launch", "App store submission support"],
-                "tags": ["Android", "iOS", "React Native", "Flutter"],
+                "description": "Build powerful digital experiences with WrathCode's custom mobile app development services. We develop feature-rich Android and iOS applications with intuitive interfaces, reliable performance, and scalable architecture to help startups and enterprises engage users and grow their businesses.",
+                "points": [
+                    "Custom Android app development",
+                    "iOS application development for iPhone and iPad",
+                    "Cross-platform mobile app development",
+                    "Mobile app UI/UX design and prototyping",
+                    "API, payment gateway, and third-party integrations",
+                    "App testing, deployment, and store submission support"
+                ],
+                "tags": [
+                    "Android",
+                    "iOS",
+                    "React Native",
+                    "Flutter"
+                ],
                 "href": "/mobile-app-development"
             },
             {
@@ -64,9 +91,22 @@
                 "title": "Custom Software Development",
                 "chip": "Web & Apps",
                 "icon": "code",
-                "description": "Software shaped around the way your business actually works, built on clean architecture with strong backend security and room to grow.",
-                "points": ["ERP and CRM systems", "SaaS product development", "Admin panels and dashboards", "Third-party system integration", "Secure, scalable architecture", "Ongoing maintenance and updates"],
-                "tags": ["Python", "Node.js", "Laravel", "PHP", "Microsoft"],
+                "description": "Streamline operations and solve complex business challenges with custom software development from WrathCode. We build tailored business applications, SaaS platforms, ERP and CRM systems, and management dashboards using secure, maintainable, and scalable technologies.",
+                "points": [
+                    "Custom business software and workflow automation",
+                    "ERP and CRM software development",
+                    "SaaS product design and development",
+                    "Admin panels, reporting tools, and analytics dashboards",
+                    "Third-party API and enterprise system integration",
+                    "Software maintenance, upgrades, and scalability improvements"
+                ],
+                "tags": [
+                    "Python",
+                    "Node.js",
+                    "Laravel",
+                    "PHP",
+                    "Microsoft"
+                ],
                 "href": "/custom-software-development"
             },
             {
@@ -75,9 +115,21 @@
                 "title": "On-Demand App Development",
                 "chip": "Web & Apps",
                 "icon": "pin",
-                "description": "Turn your business idea into a dynamic, revenue-generating app. We build high-performance on-demand platforms for food, travel, home services and more.",
-                "points": ["Real-time tracking", "Automated booking", "In-app chat", "Secure payment integration", "Customer, provider and admin apps", "Push notifications"],
-                "tags": ["Food delivery", "Car rental", "Travel", "Home services"],
+                "description": "Launch your digital service business with custom on-demand app development solutions. WrathCode builds scalable booking and service delivery platforms for food delivery, transportation, travel, and home services, connecting customers, service providers, and administrators through seamless digital experiences.",
+                "points": [
+                    "Custom on-demand service app development",
+                    "Real-time GPS tracking and location-based services",
+                    "Online booking and automated scheduling",
+                    "Secure payment gateway integration",
+                    "Customer, service provider, and admin applications",
+                    "Push notifications, chat, and order management"
+                ],
+                "tags": [
+                    "Food Delivery",
+                    "Car Rental",
+                    "Travel",
+                    "Home Services"
+                ],
                 "href": "/food-delivery-app-development"
             },
             {
@@ -86,9 +138,21 @@
                 "title": "Healthcare App Development",
                 "chip": "Web & Apps",
                 "icon": "health",
-                "description": "Custom-built, HIPAA-compliant mobile and web applications that make care simpler for patients and providers.",
-                "points": ["Patient management", "Telemedicine and video consults", "Appointment scheduling", "Electronic health records", "Wellness and fitness tracking", "HIPAA-compliant security"],
-                "tags": ["Telemedicine", "EHR", "Fitness", "Wellness"],
+                "description": "Improve patient engagement and healthcare workflows with custom healthcare app development. We build digital health platforms for clinics, healthcare providers, and wellness businesses, including telemedicine applications, appointment systems, and patient management solutions with security and privacy requirements built into the development process.",
+                "points": [
+                    "Healthcare software and patient management systems",
+                    "Telemedicine and video consultation applications",
+                    "Online appointment scheduling and reminders",
+                    "Electronic health record (EHR) integrations",
+                    "Fitness, wellness, and remote patient monitoring apps",
+                    "Healthcare data security and privacy-focused development"
+                ],
+                "tags": [
+                    "Telemedicine",
+                    "EHR",
+                    "Fitness",
+                    "Wellness"
+                ],
                 "href": "/healthcare-app-development"
             },
             {
@@ -97,20 +161,44 @@
                 "title": "Crypto Exchange Development",
                 "chip": "Crypto",
                 "icon": "exchange",
-                "description": "Launch your own cryptocurrency exchange with a secure, scalable and feature-rich platform tailored to your business model.",
-                "points": ["High-performance trading engine", "White-label exchange solutions", "P2P exchange development", "Decentralized exchange (DEX)", "End-to-end encryption and 2FA", "Regular security audits"],
-                "tags": ["Spot trading", "Wallets", "KYC", "Admin panel"],
+                "description": "Build a feature-rich cryptocurrency trading platform with WrathCode's crypto exchange development services. We develop customizable centralized and peer-to-peer exchange solutions with trading interfaces, digital wallet integrations, liquidity connectivity, and security-focused architecture tailored to your business requirements.",
+                "points": [
+                    "Centralized cryptocurrency exchange development",
+                    "White-label crypto exchange solutions",
+                    "Peer-to-peer (P2P) trading platform development",
+                    "Decentralized exchange (DEX) development",
+                    "Trading engines, wallets, and API integrations",
+                    "Security controls, authentication, and audit support"
+                ],
+                "tags": [
+                    "Spot Trading",
+                    "Wallets",
+                    "KYC",
+                    "Admin Panel"
+                ],
                 "href": "/crypto-exchange-development"
             },
             {
                 "id": "blockchain",
                 "index": "07",
-                "title": "Blockchain & Smart Contracts",
+                "title": "Blockchain & Smart Contract Development",
                 "chip": "Crypto",
                 "icon": "chain",
-                "description": "Decentralized applications that bring transparency, security and immutability to finance, healthcare, supply chain and more.",
-                "points": ["Smart contract development", "Crypto token development", "ICO platform development", "Decentralized app (dApp) building", "Cryptocurrency MLM software", "Secure, transparent architecture"],
-                "tags": ["Smart contracts", "Tokens", "ICO", "dApps"],
+                "description": "Unlock blockchain technology with custom blockchain development and smart contract solutions. WrathCode helps businesses build decentralized applications, digital token ecosystems, and blockchain-powered platforms with transparent transaction logic, carefully designed integrations, and security-focused development practices.",
+                "points": [
+                    "Custom blockchain application development",
+                    "Smart contract design, development, and testing",
+                    "Cryptocurrency and utility token development",
+                    "Decentralized application (dApp) development",
+                    "Tokenization and blockchain platform integration",
+                    "Smart contract security testing and optimization"
+                ],
+                "tags": [
+                    "Smart Contracts",
+                    "Tokens",
+                    "dApps",
+                    "Blockchain"
+                ],
                 "href": "/blockchain-development-services"
             },
             {
@@ -119,20 +207,44 @@
                 "title": "NFT Marketplace Development",
                 "chip": "Crypto",
                 "icon": "nft",
-                "description": "Custom NFT marketplaces where creators and collectors can mint, buy, sell and auction digital assets with confidence.",
-                "points": ["NFT minting and listings", "Auction and fixed-price sales", "Creator royalties", "Multi-wallet support", "Smart contract integration", "Secure payment flows"],
-                "tags": ["Minting", "Auctions", "Royalties", "Wallets"],
+                "description": "Create a digital asset marketplace with custom NFT marketplace development services from WrathCode. We build platforms for creators, collectors, and businesses to mint, showcase, buy, sell, and auction NFTs with smart contract integration, digital wallet connectivity, and flexible marketplace features.",
+                "points": [
+                    "Custom NFT marketplace design and development",
+                    "NFT minting, listing, and collection management",
+                    "Fixed-price sales, auctions, and bidding systems",
+                    "Smart contracts and creator royalty integration",
+                    "Multi-wallet connectivity and blockchain integration",
+                    "Secure transactions and marketplace administration"
+                ],
+                "tags": [
+                    "NFT Minting",
+                    "Auctions",
+                    "Royalties",
+                    "Wallets"
+                ],
                 "href": "/nft-marketplace-development"
             },
             {
                 "id": "forex",
                 "index": "09",
-                "title": "Forex Trading Software",
+                "title": "Forex Trading Software Development",
                 "chip": "Crypto",
                 "icon": "chart",
-                "description": "Reliable trading platforms with live market data and real-time analytics, built for speed, accuracy and security.",
-                "points": ["Live market data feeds", "Order management system", "Trader and admin dashboards", "Real-time charts and analytics", "Secure account and fund handling", "Web and mobile trading apps"],
-                "tags": ["Live feeds", "Charts", "Orders", "Analytics"],
+                "description": "Power your trading business with custom forex trading software development. WrathCode builds web-based and mobile trading platforms with market data integrations, trading dashboards, order management, real-time charts, and administrative tools designed around performance, reliability, and security requirements.",
+                "points": [
+                    "Custom forex trading platform development",
+                    "Real-time market data and price feed integration",
+                    "Trading dashboards and interactive charting",
+                    "Order management and trade monitoring systems",
+                    "Trader accounts, administration, and reporting tools",
+                    "Web and mobile trading application development"
+                ],
+                "tags": [
+                    "Market Data",
+                    "Trading Charts",
+                    "Order Management",
+                    "Analytics"
+                ],
                 "href": "/forex-trading-development"
             },
             {
@@ -141,9 +253,23 @@
                 "title": "Game Development",
                 "chip": "Gaming",
                 "icon": "game",
-                "description": "Immersive, scalable multiplayer games for mobile, web and desktop, from ideation and design through development and deployment.",
-                "points": ["Ludo and Chess games", "Rummy, Poker and Teen Patti", "Multi-game platforms with unified wallet", "Fantasy apps with live data and leaderboards", "Real-time multiplayer gameplay", "Secure transactions"],
-                "tags": ["Ludo", "Rummy", "Poker", "Teen Patti", "Chess", "Fantasy"],
+                "description": "Bring your gaming ideas to life with custom mobile, web, and multiplayer game development. WrathCode creates engaging gaming experiences and multi-game platforms with interactive gameplay, real-time features, player accounts, leaderboards, and scalable backend systems tailored to your product goals.",
+                "points": [
+                    "Ludo, chess, and casual game development",
+                    "Rummy, poker, and Teen Patti game development",
+                    "Multi-game platforms and centralized game management",
+                    "Fantasy sports applications and leaderboards",
+                    "Real-time multiplayer features and matchmaking",
+                    "Player accounts, wallet integrations, and admin dashboards"
+                ],
+                "tags": [
+                    "Ludo",
+                    "Rummy",
+                    "Poker",
+                    "Teen Patti",
+                    "Chess",
+                    "Fantasy Sports"
+                ],
                 "href": "/multigame-development"
             }
         ]
@@ -151,19 +277,25 @@
     "about": {
         "id": "about",
         "kicker": "About WrathCode",
-        "title": "Powering Businesses with Scalable Mobile App and Web Development",
+        "title": "Building Innovative Digital Solutions That Drive Business Growth",
         "titleAccent": "software that moves your business forward",
         "highlight": "WrathCode Technology",
-        "lead": "is a team of passionate innovators dedicated to delivering top-tier software. From a base in Jaipur, India, we help startups and growing businesses around the world turn ideas into secure, scalable digital products.",
-        "detail": "We specialize in web and app development, blockchain, NFT marketplaces, forex trading software and AI-driven technologies, with one goal: building future-ready technology that makes a real impact.",
+        "lead": "WrathCode Technology is a software development company based in Jaipur, India, helping startups, enterprises, and growing businesses transform ideas into innovative digital solutions. We specialize in custom web development, mobile app development, enterprise software, blockchain technology, cryptocurrency platforms, and AI-powered solutions designed to solve real business challenges.",
+        "detail": "At WrathCode, we believe technology should do more than power applications — it should create opportunities, improve efficiency, and accelerate business growth. Our goal is to deliver future-ready software solutions that adapt to changing market demands, enhance customer experiences, and help businesses stay competitive in the digital world. ",
         "checks": [
-            "Dedicated team of 50+ skilled experts",
-            "Transparent process, from idea to launch",
-            "Security and scalability built in",
-            "Support that continues after launch"
+            "Experienced Development Team",
+            "End-to-End Development",
+            "Security and Scalability",
+            "Long-Term Technical Support"
         ],
-        "primary": { "href": "/about", "label": "Know more about us" },
-        "secondary": { "href": "/work", "label": "See our work" },
+        "primary": {
+            "href": "/about",
+            "label": "Know more about us"
+        },
+        "secondary": {
+            "href": "/work",
+            "label": "See our work"
+        },
         "images": {
             "main": {
                 "src": "/home/about.jpg",
@@ -175,72 +307,110 @@
             }
         },
         "chips": [
-            { "title": "10+ countries", "label": "Clients worldwide", "icon": "globe", "place": "a" },
-            { "title": "Jaipur, India", "label": "Head office", "icon": "pin", "place": "b" }
+            {
+                "title": "10+ countries",
+                "label": "Clients worldwide",
+                "icon": "globe",
+                "place": "a"
+            },
+            {
+                "title": "Jaipur, India",
+                "label": "Head office",
+                "icon": "pin",
+                "place": "b"
+            }
         ]
     },
     "process": {
         "id": "process",
         "title": "Our Mobile App and Website Development Process",
-        "description": "We follow a streamlined, transparent development process to transform your ideas into powerful digital experiences. From strategy and design to development and deployment, every step is focused on performance, scalability, and your business growth.",
+        "description": "At WrathCode, we follow a structured and transparent web and mobile app development process to turn your ideas into reliable, high-performance digital products. From initial discovery and strategic planning to UI/UX design, development, testing, and deployment, every stage is focused on your business objectives, user experience, and long-term growth.",
         "points": [
             "Clear timelines and costs, agreed upfront",
+            "Transparent Communication",
             "Regular updates, so you're never left guessing",
             "Support that continues after launch"
         ],
-        "cta": { "href": "/contact", "label": "Start with a free discovery call" },
+        "cta": {
+            "href": "/contact",
+            "label": "Start with a free discovery call"
+        },
         "note": "Free consultation · No obligation",
         "steps": [
             {
                 "stage": "Discover",
                 "title": "Discovery & Strategy",
-                "description": "We start by understanding your business goals, target audience, project requirements, and vision to create a clear roadmap for success.",
-                "tags": ["Goals & requirements", "Expert recommendations"]
+                "description": "We begin by understanding your business goals, target audience, challenges, and project vision. Our team evaluates your requirements and identifies the right approach to transform your idea into a practical digital solution.",
+                "tags": [
+                    "Goals & requirements",
+                    "Expert recommendations"
+                ]
             },
             {
                 "stage": "Planning",
                 "title": "Planning & Architecture",
-                "description": "We define the project scope, select the right technologies, map user journeys, and build a scalable foundation for your website or mobile app.",
-                "tags": ["Cost estimate", "Timeline estimate"]
+                "description": "We turn your requirements into a detailed development roadmap. Our team defines the project scope, selects suitable technologies, establishes milestones, and plans a scalable architecture for your website or mobile application.",
+                "tags": [
+                    "Cost estimate",
+                    "Timeline estimate"
+                ]
             },
             {
                 "stage": "Design",
                 "title": "UI/UX Design",
-                "description": "We create intuitive, visually engaging, and user-friendly designs that reflect your brand identity and deliver seamless experiences across devices.",
-                "tags": ["Product roadmap", "UI/UX design", "Brand-aligned look"]
+                "description": "We design intuitive, engaging, and user-friendly interfaces that reflect your brand identity. Through wireframes, prototypes, and visual design, we create seamless experiences that help users navigate your website or app effortlessly across devices.",
+                "tags": [
+                    "Product roadmap",
+                    "UI/UX design",
+                    "Brand-aligned look"
+                ]
             },
-             {
+            {
                 "stage": "Development",
                 "title": "Development & Integration",
-                "description": "Our developers turn designs into functional digital products using modern technologies, robust architecture, and reliable third-party integrations.",
-                "tags": ["Agile development", "Testing & QA", "Launch"]
+                "description": "Our developers transform approved designs into functional digital products using modern frameworks, reliable coding practices, and scalable architecture. We integrate the required APIs, databases, payment gateways, and third-party services to support your business workflows.",
+                "tags": [
+                    "Agile development",
+                    "Testing & QA",
+                    "Launch"
+                ]
             },
             {
                 "stage": "Testing",
                 "title": "Testing & Quality Assurance",
-                "description": "We thoroughly test functionality, performance, security, responsiveness, and compatibility to ensure your product works reliably in real-world conditions.",
-                "tags": ["Testing & QA", "Bug fixes", "Performance optimization"]
+                "description": "Before launch, we thoroughly test your website or application to identify issues and improve reliability. Our quality assurance process evaluates functionality, responsiveness, performance, security, and compatibility across supported devices and environments.",
+                "tags": [
+                    "Testing & QA",
+                    "Bug fixes",
+                    "Performance optimization"
+                ]
             },
-
-              {
+            {
                 "stage": "Launch",
                 "title": "Launch & Deployment",
-                "description": "We manage the deployment process, configure production environments, and help bring your website or mobile application to your audience smoothly.",
-                "tags": ["Deployment", "App store submission", "Monitoring"]
+                "description": "Once your product meets the agreed quality standards, we prepare it for release. Our team configures production environments, deploys your website or application, and supports the launch process to help ensure a smooth transition from development to live operation.",
+                "tags": [
+                    "Deployment",
+                    "App store submission",
+                    "Monitoring"
+                ]
             },
-           
             {
                 "stage": "Support",
                 "title": "Support & Continuous Growth",
-                "description": "Our partnership doesn't end at launch. We provide continuous support, updates and improvements to keep your product secure, fast and ahead of the competition.",
-                "tags": ["Bug fixes", "Security updates", "New features"]
+                "description": "Our partnership continues after launch. We provide ongoing technical support, maintenance, updates, and feature enhancements to help your digital product remain reliable, secure, and aligned with evolving business needs.",
+                "tags": [
+                    "Bug fixes",
+                    "Security updates",
+                    "New features"
+                ]
             }
         ]
     },
     "industries": {
         "id": "industries",
         "title": "Industries We Serve",
-        "description": "We partner with businesses across industries to build custom websites, mobile applications, and scalable software solutions that solve real-world challenges. By combining industry insights, modern technology, and user-focused design, we help businesses streamline operations, enhance customer experiences, and accelerate digital growth.",
+        "description": "WrathCode delivers custom web development, mobile app development, and software solutions tailored to the unique needs of businesses across diverse industries. We combine industry expertise, modern technologies, and user-focused design to solve complex challenges, streamline business operations, and create seamless digital experiences. From startups to established enterprises, we help organizations embrace digital transformation, improve efficiency, and build scalable solutions that support long-term growth.",
         "groups": [
             {
                 "label": "Lifestyle & Services",
@@ -346,10 +516,21 @@
             "label": "Let's build together"
         }
     },
+    "cta": {
+        "id": "cta",
+        "title": "Ready to Build Your Next Big Digital Idea?",
+        "titleAccent": "Big Product",
+        "titleRest": "Together",
+        "description": "Partner with WrathCode to turn your vision into powerful digital solutions. From custom websites and mobile apps to enterprise software and innovative technology platforms, we build secure, scalable products designed to support your business growth.",
+        "button": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Get Started"
+        }
+    },
     "whyChoose": {
         "id": "why-us",
-        "title": "Why Businesses Choose Wrathcode",
-        "description": "WrathCode builds high-quality web and mobile applications that drive real business growth. We combine modern technology, intuitive design and a proven development process to deliver secure, scalable and user-friendly products with measurable results.",
+        "title": "Why Choose WrathCode for Web and Mobile App Development?",
+        "description": "At WrathCode, we focus on understanding your business challenges and transforming your ideas into practical digital solutions. From initial discovery and planning to development, deployment, and ongoing improvements, we work to deliver technology aligned with your goals.",
         "cta": {
             "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
             "label": "Connect to an expert"
@@ -367,40 +548,29 @@
         "points": [
             {
                 "title": "Expertise in Modern Technologies",
-                "description": "We work with React, Angular, Node.js, Laravel, Python and more, choosing the right stack for your goals so your web and mobile apps stay fast, secure and easy to evolve."
+                "description": "We use modern frameworks and development technologies, including React, Angular, Node.js, Laravel, and Python, to build custom websites, mobile applications, and business software tailored to your technical requirements."
             },
             {
                 "title": "Focus on Security & Reliability",
-                "description": "Every build includes encryption, secure APIs, two-factor authentication and regular audits, so your data and your users are protected from day one."
+                "description": "We incorporate security-conscious coding practices, appropriate authentication, access controls, and secure API integrations into our development process to help protect applications, business data, and user information"
             },
             {
                 "title": "Scalable & Future-Ready Solutions",
-                "description": "Your product is engineered to grow with you, handling more users, more data and more features without a costly rebuild."
+                "description": "Our solutions are designed with maintainability, performance, and future expansion in mind. We help businesses adapt their digital products to growing user numbers, evolving requirements, and new market opportunities."
             },
             {
-                "title": "User-Centric Approach",
-                "description": "We design around real user journeys, with clean interfaces and smooth experiences that boost engagement, retention and conversions."
+                "title": "User-Centered Design and Experiences",
+                "description": "We prioritize intuitive navigation, responsive interfaces, accessibility, and seamless user journeys to create engaging digital experiences across desktop, tablet, and mobile devices."
             },
             {
-                "title": "Proven Track Record",
-                "description": "With 550+ projects delivered for startups and businesses in 10+ countries, we consistently ship solutions that meet goals, budgets and deadlines."
+                "title": "Quality-Driven Project Delivery",
+                "description": "From requirement analysis and project planning to testing and deployment, we follow a structured development process focused on clear communication, reliable quality, and alignment with agreed project objectives."
             },
             {
                 "title": "End-to-End Development & Support",
-                "description": "From discovery and design to development, launch and ongoing maintenance, one team handles it all and keeps your product improving after go-live."
+                "description": "We support your project throughout its lifecycle, including strategy, UI/UX design, web and mobile app development, integrations, testing, deployment, maintenance, and future enhancements."
             }
         ]
-    },
-    "cta": {
-        "id": "cta",
-        "title": "Let's Build Your Next",
-        "titleAccent": "Big Product",
-        "titleRest": "Together",
-        "description": "At WrathCode, we combine creativity, strong engineering and teamwork to turn ideas into secure, scalable web and mobile products. Share your vision and let's build something that helps your business lead.",
-        "button": {
-            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
-            "label": "Get Started"
-        }
     },
     "techstack": {
         "id": "technology",
@@ -417,50 +587,128 @@
                 "id": "frontend",
                 "title": "Frontend",
                 "items": [
-                    { "name": "HTML5", "mark": "5" },
-                    { "name": "CSS3", "mark": "3" },
-                    { "name": "React", "mark": "Re", "featured": true, "logo": "https://wrathcode.com/wp-content/uploads/2025/05/react-logo.png" },
-                    { "name": "Angular", "mark": "Ng", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/angular_logo.png" },
-                    { "name": "JavaScript", "mark": "JS" }
+                    {
+                        "name": "HTML5",
+                        "mark": "5"
+                    },
+                    {
+                        "name": "CSS3",
+                        "mark": "3"
+                    },
+                    {
+                        "name": "React",
+                        "mark": "Re",
+                        "featured": true,
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/react-logo.png"
+                    },
+                    {
+                        "name": "Angular",
+                        "mark": "Ng",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/angular_logo.png"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "mark": "JS"
+                    }
                 ]
             },
             {
                 "id": "backend",
                 "title": "Backend",
                 "items": [
-                    { "name": "Node.js", "mark": "No", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/nodejs_logo.png" },
-                    { "name": "Python", "mark": "Py", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/python_logo.png" },
-                    { "name": "PHP", "mark": "Php", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/php_logo.png" },
-                    { "name": "Laravel", "mark": "La", "featured": true, "logo": "https://wrathcode.com/wp-content/uploads/2025/05/laravel_logo.png" },
-                    { "name": "CodeIgniter", "mark": "CI", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/CodeIgniter_logo.png" },
-                    { "name": "CakePHP", "mark": "Ck", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/cake_php_logo.png" },
-                    { "name": "Microsoft", "mark": "Ms", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/microsoft_logo.png" }
+                    {
+                        "name": "Node.js",
+                        "mark": "No",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/nodejs_logo.png"
+                    },
+                    {
+                        "name": "Python",
+                        "mark": "Py",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/python_logo.png"
+                    },
+                    {
+                        "name": "PHP",
+                        "mark": "Php",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/php_logo.png"
+                    },
+                    {
+                        "name": "Laravel",
+                        "mark": "La",
+                        "featured": true,
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/laravel_logo.png"
+                    },
+                    {
+                        "name": "CodeIgniter",
+                        "mark": "CI",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/CodeIgniter_logo.png"
+                    },
+                    {
+                        "name": "CakePHP",
+                        "mark": "Ck",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/cake_php_logo.png"
+                    },
+                    {
+                        "name": "Microsoft",
+                        "mark": "Ms",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/microsoft_logo.png"
+                    }
                 ]
             },
             {
                 "id": "mobile",
                 "title": "Mobile App",
                 "items": [
-                    { "name": "Android", "mark": "An", "featured": true },
-                    { "name": "iOS", "mark": "iOS", "featured": true }
+                    {
+                        "name": "Android",
+                        "mark": "An",
+                        "featured": true
+                    },
+                    {
+                        "name": "iOS",
+                        "mark": "iOS",
+                        "featured": true
+                    }
                 ]
             },
             {
                 "id": "database",
                 "title": "Database",
                 "items": [
-                    { "name": "MySQL", "mark": "My" },
-                    { "name": "PostgreSQL", "mark": "Pg", "featured": true },
-                    { "name": "MongoDB", "mark": "Mo" }
+                    {
+                        "name": "MySQL",
+                        "mark": "My"
+                    },
+                    {
+                        "name": "PostgreSQL",
+                        "mark": "Pg",
+                        "featured": true
+                    },
+                    {
+                        "name": "MongoDB",
+                        "mark": "Mo"
+                    }
                 ]
             },
             {
                 "id": "cms",
                 "title": "CMS & E-commerce",
                 "items": [
-                    { "name": "WordPress", "mark": "Wp", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/wordpress_logo.png" },
-                    { "name": "Shopify", "mark": "Sh", "featured": true, "logo": "https://wrathcode.com/wp-content/uploads/2025/05/shopify_logo.png" },
-                    { "name": "Magento", "mark": "Mg", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/magento_logo.png" }
+                    {
+                        "name": "WordPress",
+                        "mark": "Wp",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/wordpress_logo.png"
+                    },
+                    {
+                        "name": "Shopify",
+                        "mark": "Sh",
+                        "featured": true,
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/shopify_logo.png"
+                    },
+                    {
+                        "name": "Magento",
+                        "mark": "Mg",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/magento_logo.png"
+                    }
                 ]
             }
         ]
@@ -481,10 +729,22 @@
             "duration": ""
         },
         "stats": [
-            { "value": "550+", "label": "Projects delivered" },
-            { "value": "10+", "label": "Countries" },
-            { "value": "35", "label": "Startups launched" },
-            { "value": "5+", "label": "Years of experience" }
+            {
+                "value": "550+",
+                "label": "Projects delivered"
+            },
+            {
+                "value": "10+",
+                "label": "Countries"
+            },
+            {
+                "value": "35",
+                "label": "Startups launched"
+            },
+            {
+                "value": "5+",
+                "label": "Years of experience"
+            }
         ],
         "reviewsTitle": "Verified Words from",
         "reviewsTitleStrong": "Real Clients",

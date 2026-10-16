@@ -144,17 +144,17 @@ export function Services({ content }: { content: ServicesContent }) {
                                         <span aria-hidden="true" className="pointer-events-none absolute top-1.5 right-7 font-display text-[clamp(4.5rem,12vw,9rem)] leading-none font-bold text-transparent [-webkit-text-stroke:1px_rgba(255,255,255,.07)] select-none">
                                             {item.index}
                                         </span>
-                                        <div className="flex items-center gap-3.5">
+                                        {/* <div className="flex items-center gap-3.5">
                                             <div className="grid size-14 place-items-center rounded-2xl bg-linear-to-br from-[#ff4d2e] to-[#ff9a3c] text-white shadow-[0_12px_30px_-10px_#ff4d2e]">
                                                 <ServiceIcon name={item.icon} />
                                             </div>
                                             <p className="rounded-full border border-[#ff9a3c]/35 px-3 py-1.5 text-[0.72rem] font-semibold tracking-[0.1em] text-[#ff9a3c] uppercase">
                                                 {item.chip}
                                             </p>
-                                        </div>
+                                        </div> */}
                                         <H3 id={titleId}>{item.title}</H3>
                                         <Paragraph className="max-w-[620px]">{item.description}</Paragraph>
-                                        <h4 className="text-[0.76rem] font-semibold tracking-[0.14em] text-white/45 uppercase">{content.pointsLabel}</h4>
+                                        {/* <h4 className="text-[0.76rem] font-semibold tracking-[0.14em] text-white/45 uppercase">{content.pointsLabel}</h4> */}
                                         <ul className="grid grid-cols-1 gap-3 sm:grid-cols-2">
                                             {item.points.map((point) => (
                                                 <li key={point} className="flex items-start gap-3 rounded-[14px] border border-white/10 bg-white/4 px-4 py-3.5 text-[0.95rem] leading-snug font-medium">

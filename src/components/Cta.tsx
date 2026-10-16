@@ -25,7 +25,7 @@ export function Cta({ content }: { content: CtaContent }) {
         <div className="grid items-center gap-10 overflow-hidden rounded-[32px] bg-[#0b0d16] bg-[radial-gradient(ellipse_45%_90%_at_92%_50%,rgba(194,24,239,0.22),transparent_70%)] px-7 py-10 sm:px-12 sm:py-14 lg:grid-cols-[minmax(0,1fr)_auto] lg:gap-16 lg:px-16 lg:py-16">
           <div className="min-w-0">
             <H2 id={headingId} className="max-w-3xl !font-sans">
-              {content.title} <span className="text-[#c218ef]">{content.titleAccent}</span> {content.titleRest}
+              {content.title} 
             </H2>
             <Paragraph className="mt-5 max-w-2xl !text-[#b3b8cc]">{content.description}</Paragraph>
             <div className="mt-8">

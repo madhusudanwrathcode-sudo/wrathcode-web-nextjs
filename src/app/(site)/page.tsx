@@ -131,19 +131,9 @@ const schema = `{
         "@id": "https://wrathcode.com/#organization"
       },
       "url": "https://wrathcode.com/crypto-exchange-development/"
-    },
-
-
-
-
-
-
-
-
-    
+    }, 
   ]
 }`;
-
 
 export default function HomePage() {
   return (
@@ -197,7 +187,6 @@ export default function HomePage() {
       <Techstack content={homeData.techstack} />
       <Testimonials content={homeData.testimonials} />
       <Faq content={homeData.faq} />
-
     </>
   );
 }

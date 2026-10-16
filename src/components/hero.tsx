@@ -4,6 +4,8 @@ import Link from "next/link";
 import { MessageCircle } from "lucide-react";
 import { Container } from "./ui/container";
 import { Button } from "./ui/button";
+import { H1 } from "@/components/ui/h1";
+import { Paragraph } from "@/components/ui/paragraph";
 
 export type HeroAction = {
   href: string;
@@ -38,10 +40,15 @@ export function Hero({
       <div className="absolute inset-0 z-10 flex items-center justify-center px-4 sm:px-16">
         <Container>
           <div className="flex w-full flex-col items-center text-center">
-            <p className="border border-[#d7a4ff]/80 px-3 py-1 text-[11px] leading-none font-medium tracking-wide text-[#e4c6ff] sm:text-xs">
+            {/* <p className="border border-[#d7a4ff]/80 px-3 py-1 text-[11px] leading-none font-medium tracking-wide text-[#e4c6ff] sm:text-xs">
               {homeHero?.eyebrow}
-            </p>
-            <h1
+            </p> */}
+            <H1 id={headingId} className="mx-auto max-w-8xl">
+              {homeHero?.title}
+            </H1>
+
+              <Paragraph className="mx-auto mt-4 max-w-3xl">{homeHero?.description}</Paragraph>
+            {/* <h1
               id={headingId}
               className="mt-4 text-[clamp(1.45rem,4.2vw,3rem)] leading-[1.12] font-bold tracking-tight text-balance text-white [text-shadow:0_2px_18px_rgba(0,0,0,0.65)]"
             >
@@ -49,7 +56,7 @@ export function Hero({
               <span className="mt-1 block text-[clamp(1.6rem,4.4vw,3rem)] leading-none font-extrabold text-[#c218ef]">
                 {homeHero?.brand}
               </span>
-            </h1>
+            </h1> */}
             {primary ? (
               <div className="hero-actions">
 

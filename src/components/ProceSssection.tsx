@@ -78,7 +78,7 @@ export function ProcessSection({ content }: { content: ProcessContent }) {
                   <p className="text-xs font-medium tracking-wide text-[#c218ef] uppercase">{step.stage}</p>
                   <H3 className="mt-1 !font-sans text-xl">{step.title}</H3>
                   <Paragraph className="mt-3">{step.description}</Paragraph>
-                  <p className="mt-3 text-sm text-muted">{step.tags.join(" · ")}</p>
+                  {/* <p className="mt-3 text-sm text-muted">{step.tags.join(" · ")}</p> */}
                 </div>
               </li>
             ))}

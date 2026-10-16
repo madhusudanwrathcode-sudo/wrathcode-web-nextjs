@@ -79,7 +79,7 @@ export function WhyChoose({ content }: { content: WhyChooseContent }) {
             const Icon = pointIcons[index] ?? CodeXml;
             return (
               <article key={point.title} className="flex min-h-[270px] flex-col gap-3 rounded-3xl border border-line bg-[#0f1220] p-7">
-                <Icon aria-hidden className="size-6 text-[#c218ef]" />
+                {/* <Icon aria-hidden className="size-6 text-[#c218ef]" /> */}
                 <H3 className="!font-sans !text-xl">{point.title}</H3>
                 <Paragraph>{point.description}</Paragraph>
               </article>
