@@ -1,8 +1,13 @@
 import { About } from "@/components/About";
+import { Faq } from "@/components/Faq";
+import { Cta } from "@/components/Cta";
+import { Techstack } from "@/components/Techstack";
+import { Testimonials } from "@/components/Testimonials";
 import { Hero } from "@/components/hero";
 import { Industries } from "@/components/Industries";
 import { ProcessSection } from "@/components/ProceSssection";
 import { Services } from "@/components/Services";
+import { TrustBar } from "@/components/TrustBar";
 import { WhyChoose } from "@/components/WhyChoose";
 import homeData from "./home.json";
 
@@ -144,49 +149,55 @@ export default function HomePage() {
   return (
     <>
       <title>Wrathcode — Product engineering studio</title>
-        <meta
-          name="description"
-          content="Web and app development by Wrathcode. Building smarter tech for your growth — talk to a consultant or view the portfolio."
-        />
-        <meta
-          name="keywords"
-          content="Wrathcode, web development, app development, product engineering, software studio"
-        />
-        <meta name="author" content="Wrathcode" />
-        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-        <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-        <link rel="canonical" href="https://wrathcode.dev/" />
-        <meta property="og:title" content="Wrathcode — Building Smarter Tech For Your Growth" />
-        <meta
-          property="og:description"
-          content="Web and app development by Wrathcode. Building smarter tech for your growth."
-        />
-        <meta property="og:url" content="https://wrathcode.dev/" />
-        <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Wrathcode" />
-        <meta property="og:locale" content="en_US" />
-        <meta property="og:image" content="https://wrathcode.dev/home/banner_img.webp" />
-        <meta property="og:image:width" content="1600" />
-        <meta property="og:image:height" content="637" />
-        <meta
-          property="og:image:alt"
-          content="Tablet and desktop monitor with glowing orbs in a digital grid"
-        />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Wrathcode — Building Smarter Tech For Your Growth" />
-        <meta
-          name="twitter:description"
-          content="Web and app development by Wrathcode. Building smarter tech for your growth."
-        />
-        <meta name="twitter:image" content="https://wrathcode.dev/home/banner_img.webp" />
-        <meta name="twitter:image:alt" content="Tablet and desktop monitor with glowing orbs in a digital grid" />
+      <meta
+        name="description"
+        content="Web and app development by Wrathcode. Building smarter tech for your growth — talk to a consultant or view the portfolio."
+      />
+      <meta
+        name="keywords"
+        content="Wrathcode, web development, app development, product engineering, software studio"
+      />
+      <meta name="author" content="Wrathcode" />
+      <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+      <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+      <link rel="canonical" href="https://wrathcode.dev/" />
+      <meta property="og:title" content="Wrathcode — Building Smarter Tech For Your Growth" />
+      <meta
+        property="og:description"
+        content="Web and app development by Wrathcode. Building smarter tech for your growth."
+      />
+      <meta property="og:url" content="https://wrathcode.dev/" />
+      <meta property="og:type" content="website" />
+      <meta property="og:site_name" content="Wrathcode" />
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:image" content="https://wrathcode.dev/home/banner_img.webp" />
+      <meta property="og:image:width" content="1600" />
+      <meta property="og:image:height" content="637" />
+      <meta
+        property="og:image:alt"
+        content="Tablet and desktop monitor with glowing orbs in a digital grid"
+      />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content="Wrathcode — Building Smarter Tech For Your Growth" />
+      <meta
+        name="twitter:description"
+        content="Web and app development by Wrathcode. Building smarter tech for your growth."
+      />
+      <meta name="twitter:image" content="https://wrathcode.dev/home/banner_img.webp" />
+      <meta name="twitter:image:alt" content="Tablet and desktop monitor with glowing orbs in a digital grid" />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: schema }} />
       <Hero homeHero={homeData.herosection} />
       <Services content={homeData.services} />
+      <TrustBar />
       <About content={homeData.about} />
       <ProcessSection content={homeData.process} />
       <Industries content={homeData.industries} />
+      <Cta content={homeData.cta} />
       <WhyChoose content={homeData.whyChoose} />
+      <Techstack content={homeData.techstack} />
+      <Testimonials content={homeData.testimonials} />
+      <Faq content={homeData.faq} />
+
     </>
   );
 }

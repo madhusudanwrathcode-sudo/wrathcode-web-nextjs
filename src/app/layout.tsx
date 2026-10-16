@@ -1,5 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono, Syne } from "next/font/google";
+import { GetInTouch } from "@/components/GetInTouch";
+import { ContactModal } from "@/components/layout/contact-modal";
 import { SiteFooter } from "@/components/layout/site-footer";
 import { SiteHeader } from "@/components/layout/site-header";
 import { siteConfig } from "@/config/site";
@@ -44,10 +46,12 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           Skip to content
         </a>
         <SiteHeader />
-        <main id="content" tabIndex={-1} className="flex-1 outline-none">
+        <main id="content" tabIndex={-1} className="min-w-0 flex-1 outline-none">
           {children}
         </main>
+        <GetInTouch />
         <SiteFooter />
+        <ContactModal />
       </body>
     </html>
   );

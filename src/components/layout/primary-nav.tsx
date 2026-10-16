@@ -52,19 +52,30 @@ function MenuPanel({ menu }: { menu: NavMenu }) {
                 {menu.heading}
               </p>
               <ul className={cn("mt-3", menu.columns === 2 && "grid grid-cols-2 gap-x-3")}>
-                {menu.items.map((item) => (
-                  <li key={item.href}>
-                    <Link
-                      href={item.href}
-                      className="flex items-center gap-3 rounded-lg px-2 py-2 text-sm leading-snug font-medium text-[#1c1b18] hover:bg-[#f3efe6]"
-                    >
+                {menu.items.map((item) => {
+                  const itemClass = "flex items-center gap-3 rounded-lg px-2 py-2 text-sm leading-snug font-medium text-[#1c1b18] hover:bg-[#f3efe6]";
+                  const inner = (
+                    <>
                       <span className="flex size-9 shrink-0 items-center justify-center rounded-md border border-[#e6e1d8] bg-[#faf8f5] text-[#1c1b18]">
                         <NavIcon name={item.icon} className="size-4" />
                       </span>
                       <span className="min-w-0 ">{item.label}</span>
-                    </Link>
-                  </li>
-                ))}
+                    </>
+                  );
+                  return (
+                    <li key={item.href}>
+                      {item.href === "/contact" ? (
+                        <label htmlFor="contact-open" className={`${itemClass} cursor-pointer`}>
+                          {inner}
+                        </label>
+                      ) : (
+                        <Link href={item.href} className={itemClass}>
+                          {inner}
+                        </Link>
+                      )}
+                    </li>
+                  );
+                })}
               </ul>
             </div>
             {menu.feature ? <FeatureCard feature={menu.feature} /> : null}
@@ -137,13 +148,20 @@ export function MobileNav() {
                 <ul className="pb-3">
                   {entry.items.map((item) => (
                     <li key={item.href}>
-                      <Link
-                        href={item.href}
-                        className="flex items-center gap-3 rounded-md px-1 py-2.5 text-sm text-muted hover:text-foreground"
-                      >
-                        <NavIcon name={item.icon} className="size-4 shrink-0 text-brass" />
-                        {item.label}
-                      </Link>
+                      {item.href === "/contact" ? (
+                        <label htmlFor="contact-open" className="flex cursor-pointer items-center gap-3 rounded-md px-1 py-2.5 text-sm text-muted hover:text-foreground">
+                          <NavIcon name={item.icon} className="size-4 shrink-0 text-brass" />
+                          {item.label}
+                        </label>
+                      ) : (
+                        <Link
+                          href={item.href}
+                          className="flex items-center gap-3 rounded-md px-1 py-2.5 text-sm text-muted hover:text-foreground"
+                        >
+                          <NavIcon name={item.icon} className="size-4 shrink-0 text-brass" />
+                          {item.label}
+                        </Link>
+                      )}
                     </li>
                   ))}
                   {entry.feature ? (
@@ -160,7 +178,7 @@ export function MobileNav() {
               </details>
             ),
           )}
-          <Button href={quoteLink.href} variant="quote" className="mt-5">
+          <Button variant="quote" htmlFor="contact-open" className="mt-5">
             {quoteLink.label}
           </Button>
         </nav>

@@ -57,7 +57,7 @@ export function About({ content }:any) {
               ))}
             </ul>
             <div className="mt-8 flex flex-wrap items-center gap-4 pb-2">
-              <Button href={content.primary.href} variant="quote">
+              <Button variant="quote" htmlFor="contact-open">
                 {content.primary.label}
               </Button>
             </div>

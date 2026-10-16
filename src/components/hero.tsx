@@ -3,6 +3,7 @@ import { Image } from "@/components/ui/image";
 import Link from "next/link";
 import { MessageCircle } from "lucide-react";
 import { Container } from "./ui/container";
+import { Button } from "./ui/button";
 
 export type HeroAction = {
   href: string;
@@ -51,15 +52,11 @@ export function Hero({
             </h1>
             {primary ? (
               <div className="hero-actions">
-                <Link href={primary.href} className="hero-action hero-action-solid">
+
+                <Button variant="quote" htmlFor="contact-open">
                   {primary.label}
-                </Link>
-                {/* {secondary ? (
-                <Link href={secondary.href} className="hero-action hero-action-light">
-                  <span className="hero-action-marks" aria-hidden />
-                  {secondary.label}
-                </Link>
-              ) : null} */}
+                </Button>
+
               </div>
             ) : null}
           </div>

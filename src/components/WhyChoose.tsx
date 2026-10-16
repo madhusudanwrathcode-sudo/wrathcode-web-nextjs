@@ -47,7 +47,7 @@ export function WhyChoose({ content }: { content: WhyChooseContent }) {
             <Paragraph className="mt-5">{content.description}</Paragraph>
           </div>
           <div className="pb-2">
-            <Button href={content.cta.href} variant="quote">
+            <Button htmlFor="contact-open" variant="quote">
               {content.cta.label}
             </Button>
           </div>

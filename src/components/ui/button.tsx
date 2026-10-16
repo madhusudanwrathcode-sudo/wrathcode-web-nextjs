@@ -24,26 +24,42 @@ export function Button({
   icon = false,
   className,
   current = false,
+  htmlFor,
 }: {
-  href: string;
+  href?: string;
   children: ReactNode;
   variant?: keyof typeof variants;
   icon?: boolean;
   className?: string;
   current?: boolean;
+  htmlFor?: string;
 }) {
-  return (
-    <Link
-      href={href}
-      aria-current={current ? "page" : undefined}
-      className={cn(buttonStyles(variant), className)}
-    >
+  const content = (
+    <>
       {children}
       {variant === "quote" ? (
         <Send className="size-4" fill="currentColor" strokeWidth={0} aria-hidden />
       ) : icon ? (
         <ArrowUpRight className="size-4" aria-hidden />
       ) : null}
+    </>
+  );
+
+  if (htmlFor) {
+    return (
+      <label htmlFor={htmlFor} className={cn(buttonStyles(variant), "cursor-pointer", className)}>
+        {content}
+      </label>
+    );
+  }
+
+  return (
+    <Link
+      href={href ?? "/"}
+      aria-current={current ? "page" : undefined}
+      className={cn(buttonStyles(variant), className)}
+    >
+      {content}
     </Link>
   );
 }

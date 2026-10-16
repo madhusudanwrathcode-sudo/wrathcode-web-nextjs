@@ -348,7 +348,7 @@
     },
     "whyChoose": {
         "id": "why-us",
-        "title": "Why Choose Us For Your Mobile App and Web Development Project?",
+        "title": "Why Businesses Choose Wrathcode",
         "description": "WrathCode builds high-quality web and mobile applications that drive real business growth. We combine modern technology, intuitive design and a proven development process to deliver secure, scalable and user-friendly products with measurable results.",
         "cta": {
             "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
@@ -388,6 +388,224 @@
             {
                 "title": "End-to-End Development & Support",
                 "description": "From discovery and design to development, launch and ongoing maintenance, one team handles it all and keeps your product improving after go-live."
+            }
+        ]
+    },
+    "cta": {
+        "id": "cta",
+        "title": "Let's Build Your Next",
+        "titleAccent": "Big Product",
+        "titleRest": "Together",
+        "description": "At WrathCode, we combine creativity, strong engineering and teamwork to turn ideas into secure, scalable web and mobile products. Share your vision and let's build something that helps your business lead.",
+        "button": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Get Started"
+        }
+    },
+    "techstack": {
+        "id": "technology",
+        "title": "Get Solutions Built with the",
+        "titleStrong": "Right",
+        "titleAccent": "Technologies",
+        "note": "Not sure which stack suits your idea?",
+        "button": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Ask our experts"
+        },
+        "groups": [
+            {
+                "id": "frontend",
+                "title": "Frontend",
+                "items": [
+                    { "name": "HTML5", "mark": "5" },
+                    { "name": "CSS3", "mark": "3" },
+                    { "name": "React", "mark": "Re", "featured": true, "logo": "https://wrathcode.com/wp-content/uploads/2025/05/react-logo.png" },
+                    { "name": "Angular", "mark": "Ng", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/angular_logo.png" },
+                    { "name": "JavaScript", "mark": "JS" }
+                ]
+            },
+            {
+                "id": "backend",
+                "title": "Backend",
+                "items": [
+                    { "name": "Node.js", "mark": "No", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/nodejs_logo.png" },
+                    { "name": "Python", "mark": "Py", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/python_logo.png" },
+                    { "name": "PHP", "mark": "Php", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/php_logo.png" },
+                    { "name": "Laravel", "mark": "La", "featured": true, "logo": "https://wrathcode.com/wp-content/uploads/2025/05/laravel_logo.png" },
+                    { "name": "CodeIgniter", "mark": "CI", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/CodeIgniter_logo.png" },
+                    { "name": "CakePHP", "mark": "Ck", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/cake_php_logo.png" },
+                    { "name": "Microsoft", "mark": "Ms", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/microsoft_logo.png" }
+                ]
+            },
+            {
+                "id": "mobile",
+                "title": "Mobile App",
+                "items": [
+                    { "name": "Android", "mark": "An", "featured": true },
+                    { "name": "iOS", "mark": "iOS", "featured": true }
+                ]
+            },
+            {
+                "id": "database",
+                "title": "Database",
+                "items": [
+                    { "name": "MySQL", "mark": "My" },
+                    { "name": "PostgreSQL", "mark": "Pg", "featured": true },
+                    { "name": "MongoDB", "mark": "Mo" }
+                ]
+            },
+            {
+                "id": "cms",
+                "title": "CMS & E-commerce",
+                "items": [
+                    { "name": "WordPress", "mark": "Wp", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/wordpress_logo.png" },
+                    { "name": "Shopify", "mark": "Sh", "featured": true, "logo": "https://wrathcode.com/wp-content/uploads/2025/05/shopify_logo.png" },
+                    { "name": "Magento", "mark": "Mg", "logo": "https://wrathcode.com/wp-content/uploads/2025/05/magento_logo.png" }
+                ]
+            }
+        ]
+    },
+    "testimonials": {
+        "id": "client-stories",
+        "title": "Empowered by Our",
+        "titleRest": "Clients'",
+        "titleAccent": "Stories",
+        "description": "Every project we ship starts as someone's idea. Hear how founders and teams across the globe turned theirs into live products with WrathCode.",
+        "button": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Start your project"
+        },
+        "video": {
+            "href": "https://www.youtube.com/watch?v=kxwuXiJPt2U",
+            "label": "Watch: Wrathcode Technology",
+            "duration": ""
+        },
+        "stats": [
+            { "value": "550+", "label": "Projects delivered" },
+            { "value": "10+", "label": "Countries" },
+            { "value": "35", "label": "Startups launched" },
+            { "value": "5+", "label": "Years of experience" }
+        ],
+        "reviewsTitle": "Verified Words from",
+        "reviewsTitleStrong": "Real Clients",
+        "work": {
+            "href": "https://wrathcode.com/portfolio",
+            "label": "View our work"
+        },
+        "reviews": [
+            {
+                "tag": "Custom ERP",
+                "quote": "WrathCode's custom-built ERP system revolutionized our business operations. Their team is incredibly skilled and reliable.",
+                "name": "Rohan Mehta",
+                "location": "India",
+                "initials": "RM"
+            },
+            {
+                "tag": "AI marketing",
+                "quote": "Their AI-driven insights helped us optimize our digital marketing campaigns. A game-changer for our brand!",
+                "name": "Priya Sharma",
+                "location": "India",
+                "initials": "PS"
+            },
+            {
+                "tag": "E-learning",
+                "quote": "We trusted WrathCode for our e-learning platform, and they delivered a feature-rich, scalable solution on time.",
+                "name": "Amit Rajput",
+                "location": "India",
+                "initials": "AR"
+            },
+            {
+                "tag": "Health-tech app",
+                "quote": "Our mobile app for health tech was developed flawlessly by WrathCode. Their attention to detail is commendable!",
+                "name": "Neha Kapoor",
+                "location": "India",
+                "initials": "NK"
+            },
+            {
+                "tag": "Fintech dashboard",
+                "quote": "They built our fintech dashboard with seamless UI/UX and strong backend security. Highly impressed with their work!",
+                "name": "Vikram Desai",
+                "location": "India",
+                "initials": "VD"
+            },
+            {
+                "tag": "Fintech platform",
+                "quote": "WrathCode delivered a seamless and innovative solution for our fintech platform. Their expertise in blockchain and AI-driven software is outstanding!",
+                "name": "William Conaghan",
+                "location": "United States",
+                "initials": "WC"
+            },
+            {
+                "tag": "E-commerce",
+                "quote": "The team at WrathCode exceeded our expectations. Their ReactJS expertise helped us scale our e-commerce business effortlessly!",
+                "name": "Sophia Müller",
+                "location": "Germany",
+                "initials": "SM"
+            },
+            {
+                "tag": "Analytics tool",
+                "quote": "From concept to execution, WrathCode was exceptional. Their AI-powered social media analytics tool has transformed our marketing strategies.",
+                "name": "Daniel Smith",
+                "location": "United Kingdom",
+                "initials": "DS"
+            },
+            {
+                "tag": "Crypto exchange",
+                "quote": "We needed a secure crypto exchange platform, and WrathCode built a robust and user-friendly system. Highly recommended!",
+                "name": "Maria Rodríguez",
+                "location": "Spain",
+                "initials": "MR"
+            },
+            {
+                "tag": "On-demand app",
+                "quote": "Their mobile app development expertise helped us launch a successful on-demand service app. A fantastic experience!",
+                "name": "James Wilson",
+                "location": "Australia",
+                "initials": "JW"
+            }
+        ]
+    },
+    "faq": {
+        "id": "faq",
+        "title": "Frequently Asked",
+        "titleAccent": "Questions",
+        "footer": "Still have questions?",
+        "button": {
+            "href": "mailto:sales@wrathcode.com",
+            "label": "Talk to our team"
+        },
+        "items": [
+            {
+                "question": "What services does WrathCode Technology offer?",
+                "answer": "We build custom websites, web apps, mobile apps, crypto and blockchain platforms, games and AI-powered software. One team handles design, development, testing and support, so you don't have to juggle multiple vendors."
+            },
+            {
+                "question": "Which industries does WrathCode serve?",
+                "answer": "We work with healthcare, fintech, e-commerce, education, crypto, gaming, on-demand services and more. Our team has delivered 550+ projects for clients in 10+ countries, so we've likely solved a problem close to yours."
+            },
+            {
+                "question": "Does WrathCode provide custom software development services?",
+                "answer": "Yes. Every product is built around your goals and users, from custom ERP systems and dashboards to full web and mobile platforms. We don't force your idea into a ready-made template."
+            },
+            {
+                "question": "How long does WrathCode take to develop an app or software?",
+                "answer": "A simple app typically takes 2–4 weeks. A more complex product with custom features and integrations takes 4–8 weeks. We confirm the exact timeline in the scoping step, once we know what's being built."
+            },
+            {
+                "question": "Does WrathCode provide post-launch support and maintenance?",
+                "answer": "Yes. Support is the last step of our process. We help with bug fixes, updates and new features after launch, so your product keeps improving as your business grows."
+            },
+            {
+                "question": "How much does it cost to develop a mobile app with WrathCode?",
+                "answer": "The cost depends on features, platforms and complexity, so we don't quote a one-size-fits-all price. After a short discovery call we give you a ballpark figure, then a detailed scope and quote before development begins."
+            },
+            {
+                "question": "Which technologies does WrathCode work with?",
+                "answer": "React, Angular, Node.js, Python, PHP, Laravel, CodeIgniter, CakePHP and Microsoft technologies, plus WordPress, Shopify and Magento for content and e-commerce. We recommend the stack that fits your product."
+            },
+            {
+                "question": "Can WrathCode build HIPAA-compliant healthcare apps?",
+                "answer": "Yes. We build HIPAA-compliant healthcare apps and have delivered fintech, crypto and e-commerce products where security and data protection matter from day one."
             }
         ]
     }

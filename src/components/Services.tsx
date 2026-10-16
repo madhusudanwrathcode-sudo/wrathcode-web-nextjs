@@ -90,7 +90,7 @@ export function Services({ content }: { content: ServicesContent }) {
             <style>{selectionCss(content.items, content.id)}</style>
             <div
                 aria-hidden="true"
-                className="pointer-events-none absolute top-[10%] -right-[180px] -z-10 size-[620px] rounded-full bg-[radial-gradient(circle,rgba(255,77,46,.22),transparent_65%)]"
+                className="pointer-events-none absolute top-[10%] -right-[180px] -z-10 size-[620px] rounded-full"
             />
 
             <Container>
