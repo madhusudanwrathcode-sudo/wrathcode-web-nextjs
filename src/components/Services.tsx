@@ -8,11 +8,8 @@ export type ServiceItem = {
     id: string;
     index: string;
     title: string;
-    chip: string;
-    icon: string;
     description: string;
     points: string[];
-    tags: string[];
     href: string;
 };
 

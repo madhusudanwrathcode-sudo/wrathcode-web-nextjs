@@ -4,7 +4,7 @@ import { GetInTouch } from "@/components/GetInTouch";
 import { ContactModal } from "@/components/layout/contact-modal";
 import { SiteFooter } from "@/components/layout/site-footer";
 import { SiteHeader } from "@/components/layout/site-header";
-import { siteConfig } from "@/config/site";
+// import { siteConfig } from "@/config/site";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -23,9 +23,9 @@ const syne = Syne({
   weight: ["500", "600", "700", "800"],
 });
 
-export const metadata: Metadata = {
-  metadataBase: new URL(siteConfig.url),
-};
+// export const metadata: Metadata = {
+//   metadataBase: new URL(siteConfig.url),
+// };
 
 export const viewport: Viewport = {
   themeColor: "#090908",

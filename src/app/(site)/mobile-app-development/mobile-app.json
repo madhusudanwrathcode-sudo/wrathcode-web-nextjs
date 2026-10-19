@@ -1,0 +1,736 @@
+{
+    "herosection": {
+        "id": "home-hero",
+        "eyebrow": "Web / App Development",
+        "title": "Custom Mobile App Development Services for Business Growth",
+        "description": "Looking for reliable Android app development services? WrathCode Technology builds custom Android applications tailored to your business goals. We specialize in intuitive app design, scalable development, API integration, performance optimization, and ongoing support to help businesses launch high-quality mobile experiences and reach more customers.",
+        "brand": "WrathCode",
+        "image": {
+            "src": "/home/banner_img.webp",
+            "width": 1600,
+            "height": 637,
+            "alt": "Tablet and desktop monitor with glowing orbs in a digital grid"
+        },
+        "actions": [
+            {
+                "href": "/contact",
+                "label": "Talk to Consultant"
+            },
+            {
+                "href": "/work",
+                "label": "Portfolio"
+            }
+        ],
+        "talk": {
+            "href": "/contact",
+            "label": "Let's Talk"
+        }
+    },
+    "services": {
+        "id": "services",
+        "kicker": "Our Services",
+        "title": "Custom Android App Development Services",
+        "titleAccent": "built to grow your business",
+        "description": "WrathCode Technology delivers custom Android app development services, building secure, scalable, and user-friendly mobile applications. From intuitive UI/UX design and native development to API integration, testing, and Play Store deployment, we create innovative Android solutions that enhance engagement, streamline operations, and accelerate business growth.",
+        "exploreLabel": "Explore service",
+        "bookLabel": "Book a call",
+        "bookHref": "https://api.whatsapp.com/send?phone=919982141988&text=Hello,WrathCode",
+        "pointsLabel": "What you get",
+        "items": [
+            {
+                "id": "android",
+                "index": "01",
+                "title": "Custom Android App Development",
+                "description": "Establish a strong online presence with custom website development services from WrathCode. We design and develop professional, responsive, and SEO-friendly websites that reflect your brand identity, deliver seamless user experiences, and help convert visitors into customers. Every website is built around your business objectives, target audience, and long-term growth plans.",
+                "points": [
+                    " Custom Android application design and development",
+                    "Business-focused mobile app solutions",
+                    "Responsive interfaces for different Android devices",
+                    "Scalable application architecture",
+                    "Third-party services and API integration"
+                ],
+                "href": "/web-development"
+            },
+            {
+                "id": "Native",
+                "index": "02",
+                "title": "Native Android App Development",
+                "description": "Create high-performance mobile applications with native Android app development. Our team uses modern Android technologies to build responsive, reliable, and maintainable applications with access to device features, smooth navigation, and platform-specific functionality. We focus on code quality, performance, and usability to deliver Android apps aligned with your product requirements.",
+                "points": [
+                    " Native Android apps using Kotlin and Java",
+                    "Modern Android application architecture",
+                    "Android SDK and device feature integration",
+                    "User-friendly navigation and interface development",
+                    "Performance and memory optimization",
+                    "Compatibility testing across Android devices"
+                ],
+                "href": "/web-application-development"
+            },
+            {
+                "id": "Business",
+                "index": "03",
+                "title": "Business Android App Development",
+                "description": "Improve business efficiency with custom Android applications designed around your operational needs. WrathCode develops business mobile apps that help organizations manage workflows, connect with customers, access real-time information, and simplify everyday processes. Our solutions integrate with existing business systems to support productivity, collaboration, and informed decision-making.",
+                "points": [
+                    " Custom business and employee mobile applications",
+                    "Workflow automation and process management",
+                    "Customer and account management features",
+                    "Dashboard and reporting integration",
+                    "Backend systems and business API connectivity",
+                    "Secure access control and data management"
+                ],
+                "href": "/ecommerce-website-development"
+            },
+            {
+                "id": "eCommerce",
+                "index": "04",
+                "title": "eCommerce Android App Development",
+                "description": "Grow your online business with custom eCommerce Android app development services. We build mobile shopping applications with intuitive product discovery, secure payment integrations, streamlined checkout experiences, and order management functionality. Our Android eCommerce solutions help businesses deliver convenient shopping experiences while supporting customer engagement and online sales growth.",
+                "points": [
+                    " Custom mobile shopping app development",
+                    "Product catalogs, search, and category filters",
+                    "Shopping carts and simplified checkout",
+                    "Payment gateway integration",
+                    "Order tracking and customer account features",
+                    "Inventory, shipping, and backend integration"
+                ],
+                "href": "/ecommerce-android-app-development"
+            },
+            {
+                "id": "saas",
+                "index": "05",
+                "title": "On-Demand Android App Development",
+                "description": "Launch an on-demand service platform with Android applications built for customers, service providers, and administrators. WrathCode develops on-demand mobile solutions with booking workflows, location-based functionality, notifications, and payment integrations. We tailor each application to your service model, helping you coordinate operations and deliver convenient digital experiences.",
+                "points": [
+                    "On-demand service booking applications",
+                    "Customer, provider, and admin app functionality",
+                    "Location and map integration",
+                    "Booking, scheduling, and order management",
+                    "Push notifications and status updates",
+                    "Payment integration and backend connectivity"
+                ],
+                "href": "/saas-development"
+            },
+            {
+                "id": "UI/UX",
+                "index": "06",
+                "title": "Android UI/UX Design",
+                "description": "Create engaging mobile experiences with Android UI/UX design services focused on usability, accessibility, and clear navigation. We design user journeys, interactive prototypes, and platform-appropriate interfaces that help users complete tasks efficiently. Our design process aligns your brand identity with Android interface conventions and your application's functional requirements.",
+                "points": [
+                    "Mobile app research and user journey mapping",
+                    "Android wireframes and interactive prototypes",
+                    "User-focused interface and visual design",
+                    "Material Design and platform conventions",
+                    "Usability and accessibility improvements",
+                    "Design systems and developer handoff"
+                ],
+                "href": "/ui-ux-design"
+            },
+            {
+                "id": "api",
+                "index": "07",
+                "title": "Android API Development and Integration",
+                "description": "Connect Android applications with reliable backend services through custom API development and integration. We help mobile apps exchange data securely with databases, payment providers, authentication systems, and third-party platforms. Our integration approach focuses on dependable communication, efficient data handling, and scalable functionality to support your application's evolving needs.",
+                "points": [
+                    "REST API development and integration",
+                    "Secure user authentication and authorization",
+                    "Backend and database connectivity",
+                    "Payment gateway and third-party integrations",
+                    "Real-time data synchronization where required",
+                    "API testing, documentation, and optimization"
+                ],
+                "href": "/api-development"
+            },
+            {
+                "id": "Maintenance",
+                "index": "08",
+                "title": "Android App Maintenance and Optimization",
+                "description": "Keep your Android application reliable, secure, and up to date with ongoing maintenance and optimization services. We help identify performance issues, resolve bugs, improve compatibility, and update app functionality as business needs evolve. Our support focuses on app stability, loading performance, usability, and a consistent experience across supported Android devices.",
+                "points": [
+                    "Android app bug fixing and troubleshooting",
+                    "Performance and startup time optimization",
+                    "Android OS and device compatibility updates",
+                    "Security and dependency updates",
+                    "Crash monitoring and stability improvements",
+                    "Feature enhancements and ongoing technical support"
+                ],
+                "href": "/website-redesign"
+            }
+        ]
+    },
+    "about": {
+        "id": "about",
+        "title": " Building Custom Android Apps That Drive Business Growth",
+        "lead": "WrathCode Technology is a Jaipur-based Android app development company helping startups, businesses, and enterprises build powerful mobile solutions. We specialize in custom Android apps, native applications, eCommerce platforms, and on-demand solutions. Our expert developers combine modern technologies, intuitive UI/UX design, and scalable architecture to deliver secure, high-performance apps that drive engagement and business growth.",
+        "detail": "At WrathCode, we build Android applications that solve real business challenges and deliver exceptional user experiences. Using Kotlin, Java, modern APIs, and secure integrations, our developers create high-performance, scalable mobile solutions. From planning and UI/UX design to testing and Play Store deployment, we help businesses launch reliable apps that drive growth.",
+        "checks": [
+            " Custom Android App Design and Development",
+            "Native Android Apps Using Kotlin and Java",
+            "Secure, Scalable, and High-Performance Applications",
+            "API Integration, Testing, and Ongoing Support"
+        ],
+        "primary": {
+            "href": "/about",
+            "label": "Know More About Us"
+        },
+        "secondary": {
+            "href": "/work",
+            "label": "Explore Our Work"
+        },
+        "images": {
+            "main": {
+                "src": "/home/about.jpg",
+                "alt": "WrathCode Technology Android app development team"
+            },
+            "sub": {
+                "src": "https://wrathcode.com/wp-content/uploads/2025/03/about_img2.jpg",
+                "alt": "WrathCode Technology mobile app design and development workspace"
+            }
+        },
+        "chips": [
+            {
+                "title": "10+ Countries",
+                "label": "Clients Worldwide",
+                "icon": "globe",
+                "place": "a"
+            },
+            {
+                "title": "Jaipur, India",
+                "label": "Head Office",
+                "icon": "pin",
+                "place": "b"
+            }
+        ]
+    },
+    "process": {
+        "id": "process",
+        "title": "Our Android App Development Process",
+        "description": "At WrathCode Technology, we follow a structured Android app development process to transform your ideas into secure, high-performance, and scalable mobile applications. From requirement analysis and UI/UX design to custom Android development, API integration, quality testing, and Google Play Store deployment, every stage focuses on your business objectives, user experience, and long-term growth.",
+        "points": [
+            "Clear project scope, timelines, and development costs.",
+            "Transparent communication throughout development.",
+            "Regular progress updates, demos, and client feedback.",
+            "Ongoing Android app maintenance and technical support."
+        ],
+        "cta": {
+            "href": "/contact",
+            "label": "Start Your Website Project"
+        },
+        "note": "Free consultation · No obligation",
+        "steps": [
+            {
+                "stage": "Discover",
+                "title": "Requirement Analysis & App Discovery",
+                "description": "We begin by understanding your business goals, target audience, app concept, and functional requirements. Our Android app development team identifies essential features, user expectations, technical requirements, and market opportunities to define a clear development strategy for your mobile application."
+            },
+            {
+                "stage": "Planning",
+                "title": "Android App Planning & Technical Strategy",
+                "description": "We create a detailed development roadmap covering app features, user flows, project scope, delivery milestones, and technology selection. Our team determines the appropriate Android architecture, backend infrastructure, database requirements, and API integrations to build a scalable foundation for your application."
+            },
+            {
+                "stage": "Design",
+                "title": "Android UI/UX Design & Prototyping",
+                "description": "Our designers create intuitive, visually engaging, and user-focused mobile interfaces that align with your brand identity. Using wireframes, interactive prototypes, and Android design principles, we refine navigation, accessibility, and user journeys to deliver a consistent experience across supported Android devices."
+            },
+            {
+                "stage": "Development",
+                "title": "Custom Android App Development",
+                "description": "We transform approved designs into functional mobile applications using modern Android technologies such as Kotlin, Java, and Jetpack Compose, where appropriate. Our developers implement core features, integrate backend APIs and third-party services, and follow reliable coding practices to create secure, maintainable, and scalable Android applications."
+            },
+            {
+                "stage": "Testing",
+                "title": "Android App Testing & Quality Assurance",
+                "description": "We test your Android application across supported devices and Android versions to identify bugs and ensure reliable functionality. Our quality assurance process evaluates app performance, responsiveness, usability, security, and API communication while addressing crashes, compatibility issues, and other problems before release."
+            },
+            {
+                "stage": "Launch",
+                "title": "Google Play Store Deployment & App Launch",
+                "description": "After testing and final approval, we prepare your Android application for release. Our team assists with production builds, app signing, release configuration, store listing preparation, and Google Play Console submission requirements. We also help configure essential analytics and monitoring tools to support a smooth launch and ongoing app performance tracking."
+            },
+            {
+                "stage": "Support",
+                "title": "Android App Maintenance & Continuous Improvement",
+                "description": "Our support continues after your Android app is launched. We provide bug fixes, security and dependency updates, performance improvements, compatibility enhancements, and new feature development as your business evolves. Through ongoing maintenance and optimization, we help keep your mobile application reliable, secure, and aligned with changing user expectations."
+            }
+        ]
+    },
+    "industries": {
+        "id": "industries",
+        "title": "Industries We Serve",
+        "description": "WrathCode delivers custom web development, mobile app development, and software solutions tailored to the unique needs of businesses across diverse industries. We combine industry expertise, modern technologies, and user-focused design to solve complex challenges, streamline business operations, and create seamless digital experiences. From startups to established enterprises, we help organizations embrace digital transformation, improve efficiency, and build scalable solutions that support long-term growth.",
+        "groups": [
+            {
+                "label": "Lifestyle & Services",
+                "items": [
+                    {
+                        "title": "Dating Apps",
+                        "icon": "heart",
+                        "description": "Smart matching, real-time chat and secure profiles that help people find real connections.",
+                        "href": "/dating-app-development",
+                        "built": "Flirture"
+                    },
+                    {
+                        "title": "Astrology",
+                        "icon": "stars",
+                        "description": "Horoscopes, live consultations and astrologer chat that keep users coming back daily.",
+                        "href": "/astrology-app-development"
+                    },
+                    {
+                        "title": "Home Services",
+                        "icon": "wrench",
+                        "description": "On-demand booking apps that connect plumbers and local service pros with customers.",
+                        "href": "/plumber-app-development"
+                    },
+                    {
+                        "title": "Tutor & Education",
+                        "icon": "tutor",
+                        "description": "Tutor discovery, scheduling and live learning sessions that make teaching easier to scale.",
+                        "href": "/tutor-app-development"
+                    },
+                    {
+                        "title": "Matrimonial",
+                        "icon": "gem",
+                        "description": "Profile matching, verified members and private messaging for meaningful matches.",
+                        "href": "/matrimonial-app-development"
+                    }
+                ]
+            },
+            {
+                "label": "Health & Wellness",
+                "items": [
+                    {
+                        "title": "Healthcare",
+                        "icon": "health",
+                        "description": "HIPAA-compliant apps that make care simpler for patients, clinics and care teams.",
+                        "href": "/healthcare-app-development"
+                    },
+                    {
+                        "title": "Telemedicine",
+                        "icon": "medic",
+                        "description": "Secure video consultations and easy appointment booking, bringing doctors to patients anywhere.",
+                        "href": "/telemedicine-app-development"
+                    },
+                    {
+                        "title": "Fitness",
+                        "icon": "fitness",
+                        "description": "Workout plans, progress tracking and wellness communities that keep members motivated.",
+                        "href": "/fitness-app-development"
+                    }
+                ]
+            },
+            {
+                "label": "Commerce & Travel",
+                "items": [
+                    {
+                        "title": "Travel",
+                        "icon": "plane",
+                        "description": "Booking, itineraries and seamless travel experiences, all in one easy-to-use app.",
+                        "href": "/travel-app-development"
+                    },
+                    {
+                        "title": "E-commerce",
+                        "icon": "cart",
+                        "description": "Fast, conversion-focused online stores and shopping apps built to sell on every screen.",
+                        "href": "/ecommerce-development-company",
+                        "built": "Shopprism"
+                    },
+                    {
+                        "title": "Food & Delivery",
+                        "icon": "food",
+                        "description": "Easy ordering, live delivery tracking and powerful tools for restaurants and couriers.",
+                        "href": "/food-delivery-app-development"
+                    },
+                    {
+                        "title": "Car Rental",
+                        "icon": "car",
+                        "description": "Fleet management, instant booking and secure payments for rental and ride businesses.",
+                        "href": "/car-rental-development"
+                    },
+                    {
+                        "title": "Real Estate",
+                        "icon": "building",
+                        "description": "Property listings, smart search and agent connections that help buyers find the right home.",
+                        "href": "/real-estate-app-development",
+                        "built": "Hometrace"
+                    }
+                ]
+            }
+        ],
+        "cta": {
+            "title": "Don't see your industry?",
+            "description": "We build custom solutions for any sector. Tell us about your idea and we'll share a free consultation, a ballpark estimate and a clear roadmap.",
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Let's build together"
+        }
+    },
+    "cta": {
+        "id": "cta",
+        "title": "Ready to Build an Android App That Grows Your Business?",
+        "titleAccent": "Big Product",
+        "titleRest": "Together",
+        "description": "Turn your ideas into powerful Android apps with WrathCode Technology. We build secure, scalable, high-performance mobile solutions that enhance user experiences and accelerate business growth.",
+        "button": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Start Your Website Project "
+        }
+    },
+    "whyChoose": {
+        "id": "why-us",
+        "title": "Why Choose WrathCode for Android App Development?",
+        "description": "WrathCode Technology delivers custom Android app development services, combining intuitive UI/UX design, advanced technologies, seamless API integration, and secure architecture to build scalable, high-performance mobile applications that enhance customer engagement, streamline operations, and accelerate business growth.",
+        "cta": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Connect to an expert"
+        },
+        "highlight": {
+            "title": "Business-Focused Android App Solutions",
+            "description": "We develop Android applications with your business objectives and users in mind. From improving customer engagement and simplifying daily workflows to enabling digital services and supporting revenue growth, every feature is planned to deliver practical value and a smooth mobile experience.",
+            "href": "/contact",
+            "label": "Start your project",
+            "image": {
+                "src": "/home/about.jpg",
+                "alt": "The WrathCode team collaborating on a project"
+            }
+        },
+        "points": [
+            {
+                "title": "Expertise in Modern Android Technologies",
+                "description": "Our Android developers leverage Kotlin, Java, Android SDK, and Jetpack Compose to create secure, scalable applications with modern architecture, seamless performance, easy maintenance, and flexible features aligned with your business goals."
+            },
+            {
+                "title": "Secure and High-Performance Applications",
+                "description": "We prioritize Android app security, speed, and stability through robust authentication, secure API integration, optimized performance, and rigorous testing, delivering reliable applications that protect user data and ensure seamless experiences across Android devices."
+            },
+            {
+                "title": "Scalable and Future-Ready Android Apps",
+                "description": "We develop scalable Android applications that grow with your business, featuring flexible architecture, seamless integrations, and adaptable functionality to support increasing users, evolving requirements, new features, and long-term business success."
+            },
+            {
+                "title": "Intuitive Android UI/UX Design",
+                "description": "We create intuitive Android applications with seamless navigation, modern UI/UX design, and accessible interfaces, ensuring effortless interactions, improved user engagement, and enjoyable mobile experiences that keep customers connected to your business."
+            },
+            {
+                "title": "Structured Development and Quality Testing",
+                "description": "We follow a streamlined Android development process, from planning and design to coding, testing, and deployment, ensuring transparent communication, device compatibility, optimal performance, and reliable delivery aligned with your business goals."
+            },
+            {
+                "title": "End-to-End Android App Development and Support",
+                "description": "WrathCode provides end-to-end Android app development, from concept and UI/UX design to deployment and ongoing maintenance, ensuring secure performance, seamless updates, continuous improvements, and long-term business growth."
+            }
+        ]
+    },
+    "techstack": {
+        "id": "technology",
+        "title": "Get Solutions Built with the",
+        "titleStrong": "Right",
+        "titleAccent": "Technologies",
+        "note": "Not sure which stack suits your idea?",
+        "button": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Ask our experts"
+        },
+        "groups": [
+            {
+                "id": "frontend",
+                "title": "Frontend",
+                "items": [
+                    {
+                        "name": "HTML5",
+                        "mark": "5"
+                    },
+                    {
+                        "name": "CSS3",
+                        "mark": "3"
+                    },
+                    {
+                        "name": "React",
+                        "mark": "Re",
+                        "featured": true,
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/react-logo.png"
+                    },
+                    {
+                        "name": "Angular",
+                        "mark": "Ng",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/angular_logo.png"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "mark": "JS"
+                    }
+                ]
+            },
+            {
+                "id": "backend",
+                "title": "Backend",
+                "items": [
+                    {
+                        "name": "Node.js",
+                        "mark": "No",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/nodejs_logo.png"
+                    },
+                    {
+                        "name": "Python",
+                        "mark": "Py",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/python_logo.png"
+                    },
+                    {
+                        "name": "PHP",
+                        "mark": "Php",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/php_logo.png"
+                    },
+                    {
+                        "name": "Laravel",
+                        "mark": "La",
+                        "featured": true,
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/laravel_logo.png"
+                    },
+                    {
+                        "name": "CodeIgniter",
+                        "mark": "CI",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/CodeIgniter_logo.png"
+                    },
+                    {
+                        "name": "CakePHP",
+                        "mark": "Ck",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/cake_php_logo.png"
+                    },
+                    {
+                        "name": "Microsoft",
+                        "mark": "Ms",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/microsoft_logo.png"
+                    }
+                ]
+            },
+            {
+                "id": "mobile",
+                "title": "Mobile App",
+                "items": [
+                    {
+                        "name": "Android",
+                        "mark": "An",
+                        "featured": true
+                    },
+                    {
+                        "name": "iOS",
+                        "mark": "iOS",
+                        "featured": true
+                    }
+                ]
+            },
+            {
+                "id": "database",
+                "title": "Database",
+                "items": [
+                    {
+                        "name": "MySQL",
+                        "mark": "My"
+                    },
+                    {
+                        "name": "PostgreSQL",
+                        "mark": "Pg",
+                        "featured": true
+                    },
+                    {
+                        "name": "MongoDB",
+                        "mark": "Mo"
+                    }
+                ]
+            },
+            {
+                "id": "cms",
+                "title": "CMS & E-commerce",
+                "items": [
+                    {
+                        "name": "WordPress",
+                        "mark": "Wp",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/wordpress_logo.png"
+                    },
+                    {
+                        "name": "Shopify",
+                        "mark": "Sh",
+                        "featured": true,
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/shopify_logo.png"
+                    },
+                    {
+                        "name": "Magento",
+                        "mark": "Mg",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/magento_logo.png"
+                    }
+                ]
+            }
+        ]
+    },
+    "testimonials": {
+        "id": "client-stories",
+        "title": "Empowered by Our",
+        "titleRest": "Clients'",
+        "titleAccent": "Stories",
+        "description": "Every project we ship starts as someone's idea. Hear how founders and teams across the globe turned theirs into live products with WrathCode.",
+        "button": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Start your project"
+        },
+        "video": {
+            "href": "https://www.youtube.com/watch?v=kxwuXiJPt2U",
+            "label": "Watch: Wrathcode Technology",
+            "duration": ""
+        },
+        "stats": [
+            {
+                "value": "550+",
+                "label": "Projects delivered"
+            },
+            {
+                "value": "10+",
+                "label": "Countries"
+            },
+            {
+                "value": "35",
+                "label": "Startups launched"
+            },
+            {
+                "value": "5+",
+                "label": "Years of experience"
+            }
+        ],
+        "reviewsTitle": "Verified Words from",
+        "reviewsTitleStrong": "Real Clients",
+        "work": {
+            "href": "https://wrathcode.com/portfolio",
+            "label": "View our work"
+        },
+        "reviews": [
+            {
+                "tag": "Custom ERP",
+                "quote": "WrathCode's custom-built ERP system revolutionized our business operations. Their team is incredibly skilled and reliable.",
+                "name": "Rohan Mehta",
+                "location": "India",
+                "initials": "RM"
+            },
+            {
+                "tag": "AI marketing",
+                "quote": "Their AI-driven insights helped us optimize our digital marketing campaigns. A game-changer for our brand!",
+                "name": "Priya Sharma",
+                "location": "India",
+                "initials": "PS"
+            },
+            {
+                "tag": "E-learning",
+                "quote": "We trusted WrathCode for our e-learning platform, and they delivered a feature-rich, scalable solution on time.",
+                "name": "Amit Rajput",
+                "location": "India",
+                "initials": "AR"
+            },
+            {
+                "tag": "Health-tech app",
+                "quote": "Our mobile app for health tech was developed flawlessly by WrathCode. Their attention to detail is commendable!",
+                "name": "Neha Kapoor",
+                "location": "India",
+                "initials": "NK"
+            },
+            {
+                "tag": "Fintech dashboard",
+                "quote": "They built our fintech dashboard with seamless UI/UX and strong backend security. Highly impressed with their work!",
+                "name": "Vikram Desai",
+                "location": "India",
+                "initials": "VD"
+            },
+            {
+                "tag": "Fintech platform",
+                "quote": "WrathCode delivered a seamless and innovative solution for our fintech platform. Their expertise in blockchain and AI-driven software is outstanding!",
+                "name": "William Conaghan",
+                "location": "United States",
+                "initials": "WC"
+            },
+            {
+                "tag": "E-commerce",
+                "quote": "The team at WrathCode exceeded our expectations. Their ReactJS expertise helped us scale our e-commerce business effortlessly!",
+                "name": "Sophia Müller",
+                "location": "Germany",
+                "initials": "SM"
+            },
+            {
+                "tag": "Analytics tool",
+                "quote": "From concept to execution, WrathCode was exceptional. Their AI-powered social media analytics tool has transformed our marketing strategies.",
+                "name": "Daniel Smith",
+                "location": "United Kingdom",
+                "initials": "DS"
+            },
+            {
+                "tag": "Crypto exchange",
+                "quote": "We needed a secure crypto exchange platform, and WrathCode built a robust and user-friendly system. Highly recommended!",
+                "name": "Maria Rodríguez",
+                "location": "Spain",
+                "initials": "MR"
+            },
+            {
+                "tag": "On-demand app",
+                "quote": "Their mobile app development expertise helped us launch a successful on-demand service app. A fantastic experience!",
+                "name": "James Wilson",
+                "location": "Australia",
+                "initials": "JW"
+            }
+        ]
+    },
+    "faq": {
+        "id": "faq",
+        "title": "Frequently Asked",
+        "titleAccent": "Questions",
+        "footer": "Still have questions?",
+        "button": {
+            "href": "mailto:sales@wrathcode.com",
+            "label": "Talk to our team"
+        },
+        "items": [
+            {
+                "question": "What Android app development services does WrathCode Technology offer?",
+                "answer": "WrathCode Technology offers custom Android app development, native Android applications, business mobile apps, eCommerce apps, on-demand applications, Android UI/UX design, API integration, app testing, and ongoing maintenance. We develop mobile solutions tailored to your business goals, target audience, and technical requirements."
+            },
+            {
+                "question": "How much does it cost to develop an Android app?",
+                "answer": "The cost of Android app development depends on your app's complexity, features, design requirements, backend infrastructure, and third-party integrations. A simple application typically costs less than a feature-rich platform with real-time functionality, payment processing, or custom APIs. Contact WrathCode Technology for a project consultation and a tailored estimate."
+            },
+            {
+                "question": "How long does it take to develop an Android application?",
+                "answer": "Android app development timelines depend on the scope, functionality, design, and complexity of your project. A basic application may take several weeks, while a more advanced application can require several months. We define project milestones and development timelines after understanding your requirements."
+            },
+            {
+                "question": "Which technologies do you use for Android app development?",
+                "answer": "Our Android development solutions can use Kotlin, Java, Android SDK, and Jetpack Compose, depending on project requirements. We also work with backend technologies, databases, REST APIs, and third-party services to build connected, scalable, and reliable mobile applications."
+            },
+            {
+                "question": "Can you develop a custom Android app for my business?",
+                "answer": "Yes. We develop custom Android applications for startups, small businesses, and enterprises across different industries. Whether you need an employee management app, customer-facing platform, eCommerce application, booking system, or business automation solution, we tailor the features and functionality to your operational needs."
+            },
+            {
+                "question": "Can you integrate APIs and payment gateways into an Android app?",
+                "answer": "Yes. We integrate Android applications with REST APIs, backend systems, databases, authentication services, payment gateways, maps, and other third-party platforms. We focus on reliable data exchange, appropriate security measures, and smooth functionality to deliver a connected mobile experience."
+            },
+            {
+                "question": "Will my Android application be secure and scalable?",
+                "answer": "We follow security-conscious development practices and scalable architecture principles to support application reliability and future growth. Depending on your requirements, this can include secure API communication, authentication, access control, input validation, data protection, and performance testing."
+            },
+            {
+                "question": "Do you help publish Android apps on the Google Play Store?",
+                "answer": "Yes. We can assist with release preparation, app signing, production builds, store listing assets, and Google Play Console submission requirements. Publishing depends on meeting Google's current policies, testing requirements, and approval process."
+            },
+            {
+                "question": "Do you provide Android app maintenance and support after launch?",
+                "answer": "Yes. We provide ongoing Android app maintenance and support, including bug fixes, performance optimization, compatibility updates, security improvements, and new feature development. Our goal is to help your application remain reliable and adapt to changing user expectations and business requirements."
+            },
+            {
+                "question": "Can you upgrade or improve an existing Android application?",
+                "answer": "Yes. We can help improve existing Android applications by updating their design, resolving technical issues, optimizing performance, integrating new features, modernizing code, and improving compatibility with supported Android versions. We first assess your current application and recommend suitable improvements."
+            },
+            {
+                "question": "Do you develop Android apps for startups and small businesses?",
+                "answer": "Yes. We work with startups, small businesses, and established enterprises to develop Android applications aligned with their budgets, priorities, and growth plans. We help identify essential features and plan a practical development approach that can evolve as your business expands."
+            },
+            {
+                "question": "How can I start an Android app development project with WrathCode Technology?",
+                "answer": "You can start by contacting WrathCode Technology to discuss your app idea, target audience, required features, budget, and expected timeline. Our team will help evaluate your requirements, recommend a suitable technical approach, and outline the next steps for your Android app development project."
+            }
+        ]
+    }
+}

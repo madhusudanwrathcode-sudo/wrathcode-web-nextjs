@@ -9,7 +9,7 @@ export type ProcessStep = {
   stage: string;
   title: string;
   description: string;
-  tags: string[];
+ 
 };
 
 export type ProcessContent = {
@@ -18,7 +18,6 @@ export type ProcessContent = {
   description: string;
   points: string[];
   cta: { href: string; label: string };
-  note: string;
   steps: ProcessStep[];
 };
 

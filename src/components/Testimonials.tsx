@@ -106,11 +106,8 @@ export function Testimonials({ content }: { content: TestimonialsContent }) {
             {content.reviews.map((review) => (
               <article
                 key={review.name}
-                itemScope
-                itemType="https://schema.org/Review"
                 className="flex w-[85%] shrink-0 snap-start flex-col overflow-hidden rounded-[22px] border border-white/10 bg-[#151930] transition-[transform,border-color] duration-300 hover:-translate-y-1 hover:border-[#c218ef]/45 motion-reduce:transition-none sm:w-[calc((100%-18px)/2)] lg:w-[calc((100%-36px)/3)]"
               >
-                <meta itemProp="itemReviewed" content="WrathCode" />
                 <div className="flex flex-1 flex-col gap-4 px-6 pt-6 pb-5">
                   <div className="flex items-center justify-between gap-3">
                     <p className="text-xs font-semibold tracking-[0.1em] text-[#c218ef] uppercase">{review.tag}</p>
@@ -119,18 +116,18 @@ export function Testimonials({ content }: { content: TestimonialsContent }) {
                       <span className="sr-only">Rated 5 out of 5</span>
                     </p>
                   </div>
-                  <blockquote itemProp="reviewBody" className="flex-1">
+                  <blockquote className="flex-1">
                     <Paragraph className="!text-[#dfe2f0]">“{review.quote}”</Paragraph>
                   </blockquote>
-                  <footer itemProp="author" itemScope itemType="https://schema.org/Person" className="flex items-center gap-3 pt-1">
+                  <footer className="flex items-center gap-3 pt-1">
                     <span aria-hidden="true" className="grid size-11 shrink-0 place-items-center rounded-full bg-linear-to-br from-[#c218ef] to-[#e879f9] text-sm font-semibold text-white">
                       {review.initials}
                     </span>
                     <div>
-                      <cite itemProp="name" className="block text-[0.95rem] font-semibold not-italic">
+                      <cite className="block text-[0.95rem] font-semibold not-italic">
                         {review.name}
                       </cite>
-                      <span itemProp="address" className="text-sm text-[#9fa5bd]">
+                      <span className="text-sm text-[#9fa5bd]">
                         {review.location}
                       </span>
                     </div>
