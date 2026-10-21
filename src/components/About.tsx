@@ -19,10 +19,7 @@ export type AboutContent = {
   detail: string;
   checks: string[];
   primary: { href: string; label: string };
-  secondary: { href: string; label: string };
   images: { main: AboutImage; sub: AboutImage };
-  chips: { title: string; label: string; icon: string; place: string }[];
-  stats: { value: string; label: string }[];
   valuesKicker: string;
   valuesTitle: string;
   valuesLead: string;
