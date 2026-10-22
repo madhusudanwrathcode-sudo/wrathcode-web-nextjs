@@ -43,7 +43,7 @@ export function Hero({
             {/* <p className="border border-[#d7a4ff]/80 px-3 py-1 text-[11px] leading-none font-medium tracking-wide text-[#e4c6ff] sm:text-xs">
               {homeHero?.eyebrow}
             </p> */}
-            <H1 id={headingId} className="mx-auto max-w-8xl">
+            <H1 id={headingId} className="mx-auto  max-w-8xl">
               {homeHero?.title}
             </H1>
 

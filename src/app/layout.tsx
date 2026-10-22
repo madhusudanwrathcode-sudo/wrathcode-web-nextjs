@@ -1,5 +1,7 @@
 import type { Metadata, Viewport } from "next";
-import { Geist, Geist_Mono, Syne } from "next/font/google";
+import { GeistMono } from "geist/font/mono";
+import { GeistSans } from "geist/font/sans";
+import localFont from "next/font/local";
 import { GetInTouch } from "@/components/GetInTouch";
 import { ContactModal } from "@/components/layout/contact-modal";
 import { SiteFooter } from "@/components/layout/site-footer";
@@ -7,20 +9,11 @@ import { SiteHeader } from "@/components/layout/site-header";
 // import { siteConfig } from "@/config/site";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
-const syne = Syne({
+const syne = localFont({
+  src: "../fonts/syne-latin-wght-normal.woff2",
   variable: "--font-syne",
-  subsets: ["latin"],
-  weight: ["500", "600", "700", "800"],
+  weight: "500 800",
+  display: "swap",
 });
 
 // export const metadata: Metadata = {
@@ -36,7 +29,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} ${syne.variable} h-full antialiased`}
+      className={`${GeistSans.variable} ${GeistMono.variable} ${syne.variable} h-full antialiased`}
     >
       <body className="flex min-h-full flex-col bg-background font-sans text-foreground">
         <a

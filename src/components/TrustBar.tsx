@@ -35,9 +35,9 @@ function Mark({ name }: { name: (typeof reviews)[number]["mark"] }) {
   if (name === "topdevelopers") {
     return (
       <span className="inline-flex items-center gap-2 text-[0.95rem] font-semibold">
-        <svg viewBox="0 0 24 24" aria-hidden className="size-5 fill-current">
+        {/* <svg viewBox="0 0 24 24" aria-hidden className="size-5 fill-current">
           <path d="M4 5h16v3h-6.2v11h-3.6V8H4V5z" />
-        </svg>
+        </svg> */}
         TopDevelopers
       </span>
     );
