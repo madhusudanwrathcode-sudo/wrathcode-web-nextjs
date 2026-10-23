@@ -1,0 +1,838 @@
+{
+    "herosection": {
+        "id": "home-hero",
+        "eyebrow": "Web / App Development",
+        "title": "Custom Astrology App Development Company",
+        "description": "WrathCode delivers custom astrology app development solutions featuring horoscope predictions, birth chart analysis, astrologer consultations, kundli matching, and live chat to create engaging, personalized, and scalable astrology platforms..",
+        "brand": "WrathCode",
+        "image": {
+            "src": "/home/banner_img.webp",
+            "width": 1600,
+            "height": 637,
+            "alt": "Tablet and desktop monitor with glowing orbs in a digital grid"
+        },
+        "actions": [
+            {
+                "href": "/contact",
+                "label": "Talk to Consultant"
+            },
+            {
+                "href": "/work",
+                "label": "Portfolio"
+            }
+        ],
+        "talk": {
+            "href": "/contact",
+            "label": "Let's Talk"
+        }
+    },
+    "services": {
+        "id": "services",
+        "kicker": "Our Services",
+        "title": "Astrology App Development Services We Offer",
+        "titleAccent": "built to grow your business",
+        "description": "We develop feature-rich astrology applications with personalized horoscopes, birth chart analysis, kundli matching, live astrologer consultations, compatibility reports, secure payments, and AI-powered predictions for seamless user experiences.",
+        "exploreLabel": "Explore service",
+        "bookLabel": "Book a call",
+        "bookHref": "https://api.whatsapp.com/send?phone=919982141988&text=Hello,WrathCode",
+        "pointsLabel": "What you get",
+        "items": [
+            {
+                "id": "custom",
+                "index": "01",
+                "title": "Custom Astrology App Development",
+                "description": "Build a personalized astrology platform tailored to your business goals, target audience, and service model. WrathCode Technology develops scalable astrology applications with intuitive interfaces, personalized user experiences, and reliable backend architecture to support your digital astrology business.",
+                "points": [
+                    "Custom astrology app design and development",
+                    "Personalized user profiles and preferences",
+                    "Horoscope and birth chart features",
+                    "Secure user registration and authentication",
+                    "Scalable backend development and API integration"
+                ],
+                "href": "/custom-astrology-app-development"
+            },
+            {
+                "id": "horoscope",
+                "index": "02",
+                "title": "Horoscope App Development",
+                "description": "Deliver personalized astrological insights with horoscope app development services. We create applications that provide daily, weekly, monthly, and yearly horoscope predictions based on zodiac signs and individual user preferences, helping businesses deliver engaging astrology experiences.",
+                "points": [
+                    "Daily, weekly, and monthly horoscopes",
+                    "Zodiac sign profiles and compatibility",
+                    "Personalized horoscope recommendations",
+                    "Push notifications for horoscope updates",
+                    "Zodiac-based insights and predictions"
+                ],
+                "href": "/horoscope-app-development"
+            },
+            {
+                "id": "uiux",
+                "index": "03",
+                "title": "Astrology App UI/UX Design",
+                "description": "Create engaging astrology applications with intuitive UI/UX design. We design user-friendly interfaces that simplify horoscope discovery, birth chart access, astrologer consultations, and account management across mobile devices, delivering seamless navigation and an engaging user experience.",
+                "points": [
+                    "Astrology app user research and wireframes",
+                    "Interactive prototypes and modern interface design",
+                    "Simple onboarding and profile management",
+                    "Intuitive horoscope and kundli navigation",
+                    "Usability testing and responsive design"
+                ],
+                "href": "/astrology-app-ui-ux-design"
+            },
+            {
+                "id": "kundli",
+                "index": "04",
+                "title": "Kundli and Birth Chart App Development",
+                "description": "Help users explore their astrological profiles through customized kundli and birth chart applications. We develop features that generate charts from birth details, display planetary positions, and provide personalized astrological interpretations for a comprehensive astrology experience.",
+                "points": [
+                    "Online kundli generation",
+                    "Birth date, time, and location inputs",
+                    "Planetary positions and birth chart visualization",
+                    "Kundli matching and compatibility reports",
+                    "Personalized astrological analysis"
+                ],
+                "href": "/kundli-birth-chart-app-development"
+            },
+            {
+                "id": "consultation",
+                "index": "05",
+                "title": "Live Astrologer Consultation App Development",
+                "description": "Connect users with professional astrologers through interactive consultation platforms. We build astrology applications with real-time communication, appointment scheduling, and flexible consultation options to help businesses deliver convenient and personalized astrology services.",
+                "points": [
+                    "Live audio and video consultations",
+                    "Real-time astrologer chat",
+                    "Astrologer profiles and availability",
+                    "Appointment booking and scheduling",
+                    "Consultation history and session management"
+                ],
+                "href": "/live-astrologer-consultation-app-development"
+            },
+            {
+                "id": "ai",
+                "index": "06",
+                "title": "AI-Powered Astrology App Development",
+                "description": "Enhance astrology applications with AI-powered features that deliver personalized insights and interactive user experiences. We integrate intelligent recommendation systems and conversational tools to help users explore astrology-related information through engaging, preference-based digital experiences.",
+                "points": [
+                    "AI-powered horoscope recommendations",
+                    "Personalized astrology insights",
+                    "AI astrology chatbot integration",
+                    "Conversational astrology assistance",
+                    "User preference-based content suggestions"
+                ],
+                "href": "/ai-astrology-app-development"
+            },
+            {
+                "id": "payments",
+                "index": "07",
+                "title": "Astrology App Payment Integration",
+                "description": "Simplify transactions and create flexible revenue opportunities with secure astrology app payment integration. We implement payment gateways and monetization features that help businesses manage consultations, premium reports, subscriptions, and digital services through convenient and reliable payment experiences.",
+                "points": [
+                    "Secure payment gateway integration",
+                    "Paid astrologer consultations",
+                    "Subscription and membership plans",
+                    "Premium horoscope and kundli reports",
+                    "Transaction history and refund management"
+                ],
+                "href": "/astrology-app-payment-integration"
+            },
+            {
+                "id": "marketplace",
+                "index": "08",
+                "title": "Astrology Marketplace App Development",
+                "description": "Launch an astrology marketplace that connects users with astrologers through a centralized digital platform. We develop solutions that support astrologer registration, service discovery, appointment management, and business administration to streamline operations and support marketplace growth.",
+                "points": [
+                    "Astrologer registration and verification workflows",
+                    "Astrologer profiles and service listings",
+                    "Search, filters, and astrologer discovery",
+                    "Appointment and consultation management",
+                    "Admin dashboard and commission management"
+                ],
+                "href": "/astrology-marketplace-app-development"
+            },
+            {
+                "id": "maintenance",
+                "index": "09",
+                "title": "Astrology App Maintenance and Optimization",
+                "description": "Keep your astrology application secure, reliable, and up to date with ongoing maintenance and optimization services from WrathCode Technology. We improve application performance, resolve technical issues, maintain compatibility, and support new features as your astrology business grows.",
+                "points": [
+                    "Bug fixing and troubleshooting",
+                    "App speed and performance optimization",
+                    "Security updates and dependency maintenance",
+                    "Android and iOS compatibility updates",
+                    "Feature enhancements and ongoing technical support"
+                ],
+                "href": "/astrology-app-maintenance"
+            }
+        ]
+    },
+    "about": {
+        "id": "about",
+        "title": "Building Custom Astrology Apps for Personalized Cosmic Insights",
+        "lead": "WrathCode Technology is a Jaipur-based astrology app development company creating personalized astrology platforms with horoscope predictions, kundli matching, birth chart analysis, and secure astrologer consultations.",
+        "detail": "We develop scalable astrology applications featuring AI-powered predictions, personalized horoscopes, live consultations, compatibility reports, secure payments, intuitive UI/UX, and ongoing support to help astrology businesses grow.",
+        "checks": [
+            "Custom Astrology App Design and Development",
+            "Horoscope Predictions and Personalized Astrology Insights",
+            "Kundli Matching and Birth Chart Analysis",
+            "Secure Astrologer Consultations and Real-Time Communication",
+            "AI-Powered Astrology Features and API Integration",
+            "Application Testing, Maintenance, and Ongoing Support"
+        ],
+        "primary": {
+            "href": "/about",
+            "label": "Know More About Us"
+        },
+        "images": {
+            "main": {
+                "src": "/home/about.jpg",
+                "alt": "WrathCode Technology Android app development team"
+            },
+            "sub": {
+                "src": "https://wrathcode.com/wp-content/uploads/2025/03/about_img2.jpg",
+                "alt": "WrathCode Technology mobile app design and development workspace"
+            }
+        },
+        "chips": [
+            {
+                "title": "10+ Countries",
+                "label": "Clients Worldwide",
+                "icon": "globe",
+                "place": "a"
+            },
+            {
+                "title": "Jaipur, India",
+                "label": "Head Office",
+                "icon": "pin",
+                "place": "b"
+            }
+        ]
+    },
+    "process": {
+        "id": "process",
+        "title": "Our Astrology App Development Process",
+        "description": "Our astrology app development process transforms your vision into a scalable digital platform through strategic planning, intuitive design, feature development, rigorous testing, secure deployment, and ongoing support.",
+        "points": [
+            " Clear astrology app project scope, features, timelines, and development costs.",
+            "Transparent communication throughout the astrology app development lifecycle.",
+            "Regular progress updates, app demos, and client feedback.",
+            "Ongoing astrology app maintenance, security updates, and technical support."
+        ],
+        "cta": {
+            "href": "/contact",
+            "label": "Start Your Website Project"
+        },
+        "note": "Free consultation · No obligation",
+        "steps": [
+            {
+                "stage": "Discover",
+                "title": "Astrology App Discovery & Requirement Analysis",
+                "description": "We understand your astrology app concept, business goals, target audience, and monetization strategy while identifying essential features, market opportunities, and user expectations to establish a clear development roadmap."
+            },
+            {
+                "stage": "Planning",
+                "title": "Astrology App Planning & Technical Strategy",
+                "description": "We create a detailed development roadmap covering project scope, features, user journeys, technology selection, architecture, database structure, astrology integrations, and delivery milestones to build a secure, scalable application.."
+            },
+            {
+                "stage": "Design",
+                "title": "Astrology App UI/UX Design & Prototyping",
+                "description": "Our designers create intuitive astrology app interfaces using wireframes, interactive prototypes, and user journey mapping to simplify horoscope discovery, kundli generation, astrologer consultations, navigation, and accessibility across mobile devices."
+            },
+            {
+                "stage": "Development",
+                "title": "Custom Astrology App Development",
+                "description": "We build feature-rich astrology applications with horoscope predictions, kundli matching, birth chart analysis, real-time consultations, secure payments, and backend integrations using modern technologies and scalable development practices."
+            },
+            {
+                "stage": "Testing",
+                "title": "Astrology App Testing & Quality Assurance",
+                "description": "We thoroughly test astrology calculations, kundli matching, consultation features, payment workflows, security controls, and application responsiveness to identify issues and ensure reliable functionality across supported devices before launch."
+            },
+            {
+                "stage": "Launch",
+                "title": "Astrology App Deployment & Launch",
+                "description": "We prepare your astrology application for launch through production builds, release configuration, app signing, store listing preparation, and Google Play Store or Apple App Store submission support."
+            },
+            {
+                "stage": "Support",
+                "title": " Astrology App Maintenance & Continuous Improvement",
+                "description": "We provide ongoing bug fixes, security updates, performance optimization, compatibility improvements, and feature enhancements to improve user engagement, maintain application reliability, and support your astrology business's long-term growth."
+            }
+        ]
+    },
+    "industries": {
+        "id": "industries",
+        "title": "Industries We Serve",
+        "description": "WrathCode delivers custom web development, mobile app development, and software solutions using modern technologies, industry expertise, and user-focused design to improve efficiency, accelerate digital transformation, and drive business growth.",
+        "groups": [
+            {
+                "label": "Lifestyle & Services",
+                "items": [
+                    {
+                        "title": "Dating Apps",
+                        "icon": "heart",
+                        "description": "Smart matching, real-time chat and secure profiles that help people find real connections.",
+                        "href": "/dating-app-development",
+                        "built": "Flirture"
+                    },
+                    {
+                        "title": "Astrology",
+                        "icon": "stars",
+                        "description": "Horoscopes, live consultations and astrologer chat that keep users coming back daily.",
+                        "href": "/astrology-app-development"
+                    },
+                    {
+                        "title": "Home Services",
+                        "icon": "wrench",
+                        "description": "On-demand booking apps that connect plumbers and local service pros with customers.",
+                        "href": "/plumber-app-development"
+                    },
+                    {
+                        "title": "Tutor & Education",
+                        "icon": "tutor",
+                        "description": "Tutor discovery, scheduling and live learning sessions that make teaching easier to scale.",
+                        "href": "/tutor-app-development"
+                    },
+                    {
+                        "title": "Matrimonial",
+                        "icon": "gem",
+                        "description": "Profile matching, verified members and private messaging for meaningful matches.",
+                        "href": "/matrimonial-app-development"
+                    }
+                ]
+            },
+            {
+                "label": "Health & Wellness",
+                "items": [
+                    {
+                        "title": "Healthcare",
+                        "icon": "health",
+                        "description": "HIPAA-compliant apps that make care simpler for patients, clinics and care teams.",
+                        "href": "/healthcare-app-development"
+                    },
+                    {
+                        "title": "Telemedicine",
+                        "icon": "medic",
+                        "description": "Secure video consultations and easy appointment booking, bringing doctors to patients anywhere.",
+                        "href": "/telemedicine-app-development"
+                    },
+                    {
+                        "title": "Fitness",
+                        "icon": "fitness",
+                        "description": "Workout plans, progress tracking and wellness communities that keep members motivated.",
+                        "href": "/fitness-app-development"
+                    }
+                ]
+            },
+            {
+                "label": "Commerce & Travel",
+                "items": [
+                    {
+                        "title": "Travel",
+                        "icon": "plane",
+                        "description": "Booking, itineraries and seamless travel experiences, all in one easy-to-use app.",
+                        "href": "/travel-app-development"
+                    },
+                    {
+                        "title": "E-commerce",
+                        "icon": "cart",
+                        "description": "Fast, conversion-focused online stores and shopping apps built to sell on every screen.",
+                        "href": "/ecommerce-development-company",
+                        "built": "Shopprism"
+                    },
+                    {
+                        "title": "Food & Delivery",
+                        "icon": "food",
+                        "description": "Easy ordering, live delivery tracking and powerful tools for restaurants and couriers.",
+                        "href": "/food-delivery-app-development"
+                    },
+                    {
+                        "title": "Car Rental",
+                        "icon": "car",
+                        "description": "Fleet management, instant booking and secure payments for rental and ride businesses.",
+                        "href": "/car-rental-development"
+                    },
+                    {
+                        "title": "Real Estate",
+                        "icon": "building",
+                        "description": "Property listings, smart search and agent connections that help buyers find the right home.",
+                        "href": "/real-estate-app-development",
+                        "built": "Hometrace"
+                    }
+                ]
+            }
+        ],
+        "cta": {
+            "title": "Don't see your industry?",
+            "description": "We build custom solutions for any sector. Tell us about your idea and we'll share a free consultation, a ballpark estimate and a clear roadmap.",
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Let's build together"
+        }
+    },
+    "cta": {
+        "id": "cta",
+        "title": "Ready to Build a Dating App That Connects People?",
+        "titleAccent": "Big Product",
+        "titleRest": "Together",
+        "description": "WrathCode builds secure, scalable dating apps featuring smart matchmaking, real-time chat, intuitive design, and personalized user experiences.",
+        "button": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Start Your Website Project "
+        }
+    },
+    "whyChoose": {
+        "id": "why-us",
+        "title": "Why Choose WrathCode for Astrology App Development?",
+        "description": "WrathCode Technology delivers custom astrology app development solutions featuring personalized horoscopes, kundli matching, AI-powered predictions, secure consultations, intuitive UI/UX, and scalable architecture to support business growth.",
+        "cta": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Connect to an expert"
+        },
+        "highlight": {
+            "title": "Business-Focused Astrology App Solutions",
+            "description": "We develop custom astrology apps with horoscope predictions, birth chart analysis, kundli matching, live consultations, and premium subscriptions to enhance user engagement, personalize experiences, and drive sustainable business growth.",
+            "href": "/contact",
+            "label": "Start your project",
+            "image": {
+                "src": "/home/about.jpg",
+                "alt": "The WrathCode team collaborating on a project"
+            }
+        },
+        "points": [
+            {
+                "title": "Expertise in Modern Astrology App Technologies",
+                "description": "Our developers build scalable astrology applications with horoscope predictions, kundli generation, birth chart analysis, AI-powered insights, and real-time consultations to deliver personalized user experiences."
+            },
+            {
+                "title": "Secure and High-Performance Applications",
+                "description": "We build secure astrology apps with robust authentication, data encryption, privacy controls, protected user profiles, and secure payment integrations to safeguard personal information and build user trust."
+            },
+            {
+                "title": "Scalable and Future-Ready Astrology Apps",
+                "description": "We develop scalable astrology platforms with flexible architecture, personalized predictions, consultation management, subscription features, and seamless integrations to support business expansion and evolving user requirements."
+            },
+            {
+                "title": "Intuitive Astrology App UI/UX Design",
+                "description": "We design intuitive astrology app interfaces with seamless onboarding, personalized horoscopes, interactive birth charts, easy kundli access, and user-friendly navigation to improve engagement and customer satisfaction."
+            },
+            {
+                "title": "Structured Development and Quality Testing",
+                "description": "We follow a structured astrology app development process covering planning, UI/UX design, development, testing, and deployment to ensure accurate functionality, reliable performance, and seamless user experiences."
+            },
+            {
+                "title": "End-to-End Astrology App Development and Support",
+                "description": "WrathCode Technology delivers end-to-end astrology app development, including planning, UI/UX design, mobile development, backend integration, deployment, and maintenance to optimize performance and support long-term business growth."
+            }
+        ]
+    },
+    "techstack": {
+        "id": "technology",
+        "title": "Get Solutions Built with the",
+        "titleStrong": "Right",
+        "titleAccent": "Technologies",
+        "note": "Not sure which stack suits your idea?",
+        "button": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Ask our experts"
+        },
+        "groups": [
+            {
+                "id": "frontend",
+                "title": "Frontend",
+                "items": [
+                    {
+                        "name": "HTML5",
+                        "mark": "5"
+                    },
+                    {
+                        "name": "CSS3",
+                        "mark": "3"
+                    },
+                    {
+                        "name": "React",
+                        "mark": "Re",
+                        "featured": true,
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/react-logo.png"
+                    },
+                    {
+                        "name": "Angular",
+                        "mark": "Ng",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/angular_logo.png"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "mark": "JS"
+                    }
+                ]
+            },
+            {
+                "id": "backend",
+                "title": "Backend",
+                "items": [
+                    {
+                        "name": "Node.js",
+                        "mark": "No",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/nodejs_logo.png"
+                    },
+                    {
+                        "name": "Python",
+                        "mark": "Py",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/python_logo.png"
+                    },
+                    {
+                        "name": "PHP",
+                        "mark": "Php",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/php_logo.png"
+                    },
+                    {
+                        "name": "Laravel",
+                        "mark": "La",
+                        "featured": true,
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/laravel_logo.png"
+                    },
+                    {
+                        "name": "CodeIgniter",
+                        "mark": "CI",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/CodeIgniter_logo.png"
+                    },
+                    {
+                        "name": "CakePHP",
+                        "mark": "Ck",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/cake_php_logo.png"
+                    },
+                    {
+                        "name": "Microsoft",
+                        "mark": "Ms",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/microsoft_logo.png"
+                    }
+                ]
+            },
+            {
+                "id": "mobile",
+                "title": "Mobile App",
+                "items": [
+                    {
+                        "name": "Android",
+                        "mark": "An",
+                        "featured": true
+                    },
+                    {
+                        "name": "iOS",
+                        "mark": "iOS",
+                        "featured": true
+                    }
+                ]
+            },
+            {
+                "id": "database",
+                "title": "Database",
+                "items": [
+                    {
+                        "name": "MySQL",
+                        "mark": "My"
+                    },
+                    {
+                        "name": "PostgreSQL",
+                        "mark": "Pg",
+                        "featured": true
+                    },
+                    {
+                        "name": "MongoDB",
+                        "mark": "Mo"
+                    }
+                ]
+            },
+            {
+                "id": "cms",
+                "title": "CMS & E-commerce",
+                "items": [
+                    {
+                        "name": "WordPress",
+                        "mark": "Wp",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/wordpress_logo.png"
+                    },
+                    {
+                        "name": "Shopify",
+                        "mark": "Sh",
+                        "featured": true,
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/shopify_logo.png"
+                    },
+                    {
+                        "name": "Magento",
+                        "mark": "Mg",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/magento_logo.png"
+                    }
+                ]
+            }
+        ]
+    },
+    "testimonials": {
+        "id": "client-stories",
+        "title": "Empowered by Our",
+        "titleRest": "Clients'",
+        "titleAccent": "Stories",
+        "description": "Every project we ship starts as someone's idea. Hear how founders and teams across the globe turned theirs into live products with WrathCode.",
+        "button": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Start your project"
+        },
+        "video": {
+            "href": "https://www.youtube.com/watch?v=kxwuXiJPt2U",
+            "label": "Watch: Wrathcode Technology",
+            "duration": ""
+        },
+        "stats": [
+            {
+                "value": "550+",
+                "label": "Projects delivered"
+            },
+            {
+                "value": "10+",
+                "label": "Countries"
+            },
+            {
+                "value": "35",
+                "label": "Startups launched"
+            },
+            {
+                "value": "5+",
+                "label": "Years of experience"
+            }
+        ],
+        "reviewsTitle": "Verified Words from",
+        "reviewsTitleStrong": "Real Clients",
+        "work": {
+            "href": "https://wrathcode.com/portfolio",
+            "label": "View our work"
+        },
+        "reviews": [
+            {
+                "tag": "Custom ERP",
+                "quote": "WrathCode's custom-built ERP system revolutionized our business operations. Their team is incredibly skilled and reliable.",
+                "name": "Rohan Mehta",
+                "location": "India",
+                "initials": "RM"
+            },
+            {
+                "tag": "AI marketing",
+                "quote": "Their AI-driven insights helped us optimize our digital marketing campaigns. A game-changer for our brand!",
+                "name": "Priya Sharma",
+                "location": "India",
+                "initials": "PS"
+            },
+            {
+                "tag": "E-learning",
+                "quote": "We trusted WrathCode for our e-learning platform, and they delivered a feature-rich, scalable solution on time.",
+                "name": "Amit Rajput",
+                "location": "India",
+                "initials": "AR"
+            },
+            {
+                "tag": "Health-tech app",
+                "quote": "Our mobile app for health tech was developed flawlessly by WrathCode. Their attention to detail is commendable!",
+                "name": "Neha Kapoor",
+                "location": "India",
+                "initials": "NK"
+            },
+            {
+                "tag": "Fintech dashboard",
+                "quote": "They built our fintech dashboard with seamless UI/UX and strong backend security. Highly impressed with their work!",
+                "name": "Vikram Desai",
+                "location": "India",
+                "initials": "VD"
+            },
+            {
+                "tag": "Fintech platform",
+                "quote": "WrathCode delivered a seamless and innovative solution for our fintech platform. Their expertise in blockchain and AI-driven software is outstanding!",
+                "name": "William Conaghan",
+                "location": "United States",
+                "initials": "WC"
+            },
+            {
+                "tag": "E-commerce",
+                "quote": "The team at WrathCode exceeded our expectations. Their ReactJS expertise helped us scale our e-commerce business effortlessly!",
+                "name": "Sophia Müller",
+                "location": "Germany",
+                "initials": "SM"
+            },
+            {
+                "tag": "Analytics tool",
+                "quote": "From concept to execution, WrathCode was exceptional. Their AI-powered social media analytics tool has transformed our marketing strategies.",
+                "name": "Daniel Smith",
+                "location": "United Kingdom",
+                "initials": "DS"
+            },
+            {
+                "tag": "Crypto exchange",
+                "quote": "We needed a secure crypto exchange platform, and WrathCode built a robust and user-friendly system. Highly recommended!",
+                "name": "Maria Rodríguez",
+                "location": "Spain",
+                "initials": "MR"
+            },
+            {
+                "tag": "On-demand app",
+                "quote": "Their mobile app development expertise helped us launch a successful on-demand service app. A fantastic experience!",
+                "name": "James Wilson",
+                "location": "Australia",
+                "initials": "JW"
+            }
+        ]
+    },
+    "faq": {
+        "id": "faq",
+        "title": "Frequently Asked",
+        "titleAccent": "Questions",
+        "footer": "Still have questions?",
+        "button": {
+            "href": "mailto:sales@wrathcode.com",
+            "label": "Talk to our team"
+        },
+        "items": [
+            {
+                "question": "What is astrology app development?",
+                "answer": "Astrology app development involves creating mobile or web applications that provide horoscope predictions, kundli generation, birth chart analysis, zodiac compatibility, and online astrologer consultations. WrathCode Technology develops customized astrology applications tailored to your business goals and target audience."
+            },
+            {
+                "question": "What features should an astrology app include?",
+                "answer": "An astrology app can include daily horoscopes, kundli matching, birth chart generation, zodiac compatibility, astrologer chat, audio and video consultations, push notifications, secure payments, and subscription plans. We customize features according to your business model and user requirements."
+            },
+            {
+                "question": "How much does it cost to develop an astrology app?",
+                "answer": "The cost of astrology app development depends on app complexity, platform selection, design requirements, feature integrations, and backend infrastructure. Basic astrology apps generally cost less than advanced platforms with AI-powered predictions and live consultations. Contact WrathCode Technology for a customized project estimate."
+            },
+            {
+                "question": "How long does it take to develop an astrology app?",
+                "answer": "Astrology app development timelines depend on project scope, design complexity, integrations, and testing requirements. A basic application may take a few weeks to several months, while advanced platforms with AI features, kundli calculations, and live consultations can require additional development time."
+            },
+            {
+                "question": "Can you develop an AI-powered astrology app?",
+                "answer": "Yes, WrathCode Technology develops AI-powered astrology applications with personalized recommendations, conversational chatbots, automated horoscope insights, and intelligent content delivery based on user preferences and available astrological data."
+            },
+            {
+                "question": "Can an astrology app support live astrologer consultations?",
+                "answer": "Yes, astrology applications can include real-time chat, audio calls, video consultations, appointment scheduling, astrologer profiles, availability management, and secure payment options. We build consultation features that help users connect conveniently with astrologers online."
+            },
+            {
+                "question": "Can you develop astrology apps for Android and iOS?",
+                "answer": "Yes, we develop astrology applications for Android and iOS using native or cross-platform technologies, depending on your business requirements, budget, performance expectations, and target audience. Our solutions focus on reliable performance, intuitive interfaces, and scalable architecture."
+            },
+            {
+                "question": "How can an astrology app generate revenue?",
+                "answer": "Astrology apps can generate revenue through paid consultations, premium horoscope reports, subscription plans, kundli analysis, compatibility reports, in-app purchases, and other paid astrology services. We integrate suitable monetization features based on your business model."
+            },
+            {
+                "question": "Is it possible to integrate kundli matching and birth chart calculations?",
+                "answer": "Yes, we can integrate kundli matching, birth chart generation, planetary position calculations, and compatibility reports using suitable astrology calculation engines, APIs, or custom-developed solutions. These features can be tailored to your application's requirements and user experience."
+            },
+            {
+                "question": "Do you provide astrology app maintenance and support?",
+                "answer": "Yes, WrathCode Technology provides ongoing astrology app maintenance and support, including bug fixes, security updates, performance optimization, compatibility improvements, and feature enhancements to keep your astrology application reliable, secure, and up to date."
+            }
+        ]
+    },
+    "JsonLdData": [
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://wrathcode.com/#localbusiness",
+            "name": "WrathCode Technology Pvt Ltd",
+            "image": "https://wrathcode.com/home/banner_img.webp",
+            "url": "https://wrathcode.com/custom-software-development/",
+            "telephone": "+91-9982-14-1988",
+            "email": "sales@wrathcode.com",
+            "priceRange": "$$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1st Floor, JDA Complex, Plot No. 11, Sector 4, Vidhyadhar Nagar",
+                "addressLocality": "Jaipur",
+                "addressRegion": "Rajasthan",
+                "postalCode": "302039",
+                "addressCountry": "IN"
+            },
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday"
+                ],
+                "opens": "10:00",
+                "closes": "19:00"
+            },
+            "sameAs": [
+                "https://www.linkedin.com/company/wrathcode-technology/"
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "@id": "https://wrathcode.com/#organization",
+            "name": "WrathCode Technology Pvt Ltd",
+            "alternateName": "WrathCode",
+            "url": "https://wrathcode.com/",
+            "description": "WrathCode Technology Pvt Ltd provides custom software development, enterprise applications, SaaS platforms, CRM and ERP systems, and business process automation.",
+            "email": "sales@wrathcode.com",
+            "telephone": [
+                "+91-8000-83-6145",
+                "+91-9982-14-1988",
+                "+91-6376-74-7457"
+            ],
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1st Floor, JDA Complex, Plot No. 11, Sector 4, Vidhyadhar Nagar",
+                "addressLocality": "Jaipur",
+                "addressRegion": "Rajasthan",
+                "postalCode": "302039",
+                "addressCountry": "IN"
+            },
+            "sameAs": [
+                "https://www.linkedin.com/company/wrathcode-technology/"
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://wrathcode.com/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Astrology App Development",
+                    "item": "https://wrathcode.com/astrology-app-development/"
+                }
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Service",
+            "@id": "https://wrathcode.com/astrology-app-development/#service",
+            "name": "Astrology App Development Services",
+            "serviceType": [
+                "Custom Astrology App Development",
+                "Horoscope App Development",
+                "Astrology App UI/UX Design",
+                "Kundli and Birth Chart App Development",
+                "Live Astrologer Consultation App Development",
+                "AI-Powered Astrology App Development",
+                "Astrology App Payment Integration",
+                "Astrology Marketplace App Development",
+                "Astrology App Testing and Quality Assurance",
+                "Astrology App Maintenance and Optimization"
+            ],
+            "provider": {
+                "@id": "https://wrathcode.com/#organization"
+            },
+            "description": "WrathCode Technology provides custom astrology app development services for startups and businesses, including horoscope predictions, kundli generation, birth chart analysis, zodiac compatibility, AI-powered astrology features, live astrologer consultations, secure payment integration, and scalable astrology platform development.",
+            "url": "https://wrathcode.com/astrology-app-development/",
+            "areaServed": "Worldwide"
+        }
+    ]
+}
