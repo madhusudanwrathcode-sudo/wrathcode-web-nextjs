@@ -1,0 +1,835 @@
+{
+    "herosection": {
+        "id": "home-hero",
+        "eyebrow": "Web / App Development",
+        "title": "Custom Mobile App Development Services for Business Growth",
+        "description": "WrathCode Technology delivers custom mobile app development services to help startups, growing businesses, and enterprises turn ideas into powerful digital solutions. Our expert developers build secure, scalable, and high-performance Android and iOS applications with intuitive UI/UX, seamless API integration, and advanced features to enhance user engagement and accelerate business growth.",
+        "brand": "WrathCode",
+        "image": {
+            "src": "/home/banner_img.webp",
+            "width": 1600,
+            "height": 637,
+            "alt": "Tablet and desktop monitor with glowing orbs in a digital grid"
+        },
+        "actions": [
+            {
+                "href": "/contact",
+                "label": "Talk to Consultant"
+            },
+            {
+                "href": "/work",
+                "label": "Portfolio"
+            }
+        ],
+        "talk": {
+            "href": "/contact",
+            "label": "Let's Talk"
+        }
+    },
+    "services": {
+        "id": "services",
+        "kicker": "Our Services",
+        "title": "Custom Mobile App Development Services",
+        "titleAccent": "built to grow your business",
+        "description": "WrathCode Technology develops secure, scalable, and user-friendly mobile applications for startups and enterprises, offering Android, iOS, UI/UX design, API integration, testing, and maintenance to drive business growth.",
+        "exploreLabel": "Explore service",
+        "bookLabel": "Book a call",
+        "bookHref": "https://api.whatsapp.com/send?phone=919982141988&text=Hello,WrathCode",
+        "pointsLabel": "What you get",
+        "items": [
+            {
+                "id": "custom",
+                "index": "01",
+                "title": "Custom Mobile App Development",
+                "description": "Turn your business ideas into powerful mobile applications with scalable architecture, secure functionality, intuitive design, and integrations tailored to your business goals and user requirements.",
+                "points": [
+                    "Custom mobile application design and development",
+                    "Business-focused mobile app solutions",
+                    "Android and iOS application development",
+                    "Scalable and maintainable app architecture",
+                    "Third-party service and API integration"
+                ],
+                "href": "/custom-mobile-app-development"
+            },
+            {
+                "id": "android",
+                "index": "02",
+                "title": "Native Android App Development",
+                "description": "Build reliable, high-performance Android applications using Kotlin and Java, featuring smooth navigation, device-specific functionality, optimized performance, and compatibility across supported Android devices.",
+                "points": [
+                    "Native Android apps using Kotlin and Java",
+                    "Modern Android application architecture",
+                    "Android SDK and device feature integration",
+                    "User-friendly navigation and interface development",
+                    "Performance optimization and device compatibility testing"
+                ],
+                "href": "/android-app-development"
+            },
+            {
+                "id": "ios",
+                "index": "03",
+                "title": "iOS App Development",
+                "description": "Reach Apple users with custom iOS applications featuring intuitive interfaces, reliable functionality, secure integrations, and optimized performance across iPhone and iPad devices.",
+                "points": [
+                    "Custom iOS application development",
+                    "iPhone and iPad app solutions",
+                    "Swift-based native app development",
+                    "Apple ecosystem and API integration",
+                    "Performance testing and App Store preparation"
+                ],
+                "href": "/ios-app-development"
+            },
+            {
+                "id": "business",
+                "index": "04",
+                "title": "Business Mobile App Development",
+                "description": "Improve productivity with custom business applications that automate workflows, manage customer relationships, connect existing systems, and support collaboration and informed decision-making.",
+                "points": [
+                    "Custom business and employee applications",
+                    "Workflow automation and process management",
+                    "Customer and account management features",
+                    "Dashboard and reporting integration",
+                    "Secure authentication and business system connectivity"
+                ],
+                "href": "/business-mobile-app-development"
+            },
+            {
+                "id": "ecommerce",
+                "index": "05",
+                "title": "eCommerce Mobile App Development",
+                "description": "Grow your online store with mobile shopping applications featuring product discovery, secure payments, streamlined checkout, real-time order tracking, and convenient shopping experiences.",
+                "points": [
+                    "Custom mobile shopping applications",
+                    "Product catalogs, search, and category filters",
+                    "Shopping cart and checkout functionality",
+                    "Payment gateway integration",
+                    "Order tracking, inventory, and shipping integration"
+                ],
+                "href": "/ecommerce-mobile-app-development"
+            },
+            {
+                "id": "ondemand",
+                "index": "06",
+                "title": "On-Demand Mobile App Development",
+                "description": "Launch service platforms with customer, provider, and admin applications featuring booking management, GPS integration, scheduling, notifications, and payment processing.",
+                "points": [
+                    "On-demand service booking applications",
+                    "Customer, provider, and admin functionality",
+                    "GPS and map integration",
+                    "Booking, scheduling, and order management",
+                    "Push notifications and payment integration"
+                ],
+                "href": "/on-demand-mobile-app-development"
+            },
+            {
+                "id": "uiux",
+                "index": "07",
+                "title": "Mobile App UI/UX Design",
+                "description": "Create engaging mobile experiences through user research, intuitive navigation, interactive prototypes, accessible interfaces, and visually consistent designs aligned with your brand.",
+                "points": [
+                    "User research and journey mapping",
+                    "Mobile app wireframes and prototypes",
+                    "Intuitive interface and visual design",
+                    "Responsive layouts and accessibility improvements",
+                    "Design systems and developer handoff"
+                ],
+                "href": "/mobile-app-ui-ux-design"
+            },
+            {
+                "id": "api",
+                "index": "08",
+                "title": "API Development and Integration",
+                "description": "Connect mobile applications with reliable backend services through secure APIs, database connectivity, authentication systems, payment gateways, and third-party platform integrations.",
+                "points": [
+                    "REST API development and integration",
+                    "Secure authentication and authorization",
+                    "Backend and database connectivity",
+                    "Payment gateway and third-party integrations",
+                    "API testing, documentation, and optimization"
+                ],
+                "href": "/api-development-integration"
+            },
+            {
+                "id": "maintenance",
+                "index": "09",
+                "title": "Mobile App Maintenance and Optimization",
+                "description": "Maintain secure, stable, and efficient mobile applications through bug fixes, performance improvements, compatibility updates, security enhancements, and ongoing technical support.",
+                "points": [
+                    "Bug fixing and technical troubleshooting",
+                    "App performance and loading speed optimization",
+                    "Operating system and device compatibility updates",
+                    "Security and dependency updates",
+                    "Feature enhancements and ongoing technical support"
+                ],
+                "href": "/mobile-app-maintenance"
+            }
+        ]
+    },
+    "about": {
+        "id": "about",
+        "title": "Building Custom Mobile Apps That Drive Business Growth",
+        "lead": "WrathCode Technology, a Jaipur-based mobile app development company, builds secure, scalable Android and iOS applications with intuitive UI/UX, modern technologies, and tailored solutions that drive business growth.",
+        "detail": "WrathCode Technology develops high-performance mobile applications with custom functionality, Android and iOS development, API integration, secure payments, intuitive design, thorough testing, and deployment to support evolving business needs.",
+        "checks": [
+            "Custom Android and iOS App Design and Development",
+            "Business, eCommerce, and On-Demand Mobile Applications",
+            "Secure, Scalable, and High-Performance App Solutions",
+            "API Integration, Quality Testing, and Ongoing Support"
+        ],
+        "primary": {
+            "href": "/about",
+            "label": "Know More About Us"
+        },
+        "images": {
+            "main": {
+                "src": "/home/about.jpg",
+                "alt": "WrathCode Technology Android app development team"
+            },
+            "sub": {
+                "src": "https://wrathcode.com/wp-content/uploads/2025/03/about_img2.jpg",
+                "alt": "WrathCode Technology mobile app design and development workspace"
+            }
+        }
+    },
+    "process": {
+        "id": "process",
+        "title": "Our Mobile App Development Process",
+        "description": "WrathCode Technology follows a structured mobile app development process covering requirement analysis, UI/UX design, Android and iOS development, API integration, testing, and deployment to deliver scalable solutions.",
+        "points": [
+            "Clear project scope, development milestones, and timelines.",
+            "Transparent communication throughout the development lifecycle.",
+            "Regular progress updates, demos, and client feedback.",
+            "Ongoing mobile app maintenance and technical support."
+        ],
+        "cta": {
+            "href": "/contact",
+            "label": "Start Your Website Project"
+        },
+        "note": "Free consultation · No obligation",
+        "steps": [
+            {
+                "stage": "Discover",
+                "title": "Requirement Analysis and App Discovery",
+                "description": "We analyze your business goals, target audience, app concept, and technical requirements to define essential features, establish project scope, and create a strong foundation for successful mobile application development."
+            },
+            {
+                "stage": "Planning",
+                "title": "Mobile App Planning and Technical Strategy",
+                "description": "We create a development roadmap covering features, user journeys, timelines, and technology selection, designing scalable app architecture, backend infrastructure, databases, and APIs for future business growth."
+            },
+            {
+                "stage": "Design",
+                "title": "Mobile App UI/UX Design and Prototyping",
+                "description": "We design intuitive mobile interfaces using wireframes, interactive prototypes, and usability testing, ensuring consistent branding, accessible navigation, seamless user journeys, and engaging experiences across supported devices."
+            },
+            {
+                "stage": "Development",
+                "title": "Custom Android and iOS App Development",
+                "description": "We develop secure, scalable Android and iOS applications using modern technologies, integrating custom features, backend APIs, payment gateways, and third-party services while prioritizing performance, clean code, and reliability."
+            },
+            {
+                "stage": "Testing",
+                "title": "Mobile App Testing and Quality Assurance",
+                "description": "We test mobile applications across supported devices and operating systems, evaluating functionality, performance, usability, security, and integrations to resolve issues and deliver reliable, user-friendly experiences."
+            },
+            {
+                "stage": "Launch",
+                "title": "App Store and Google Play Store Deployment",
+                "description": "We prepare mobile apps for launch through production builds, app signing, release configuration, store listings, and submission support for Google Play and Apple App Store, including analytics setup."
+            },
+            {
+                "stage": "Support",
+                "title": "Mobile App Maintenance and Continuous Improvement",
+                "description": "We provide ongoing mobile app maintenance, bug fixes, security updates, performance optimization, compatibility improvements, and feature enhancements to keep applications secure, reliable, and competitive as businesses grow."
+            }
+        ]
+    },
+    "industries": {
+        "id": "industries",
+        "title": "Industries We Serve",
+        "description": "WrathCode delivers custom web development, mobile app development, and software solutions using modern technologies, industry expertise, and user-focused design to improve efficiency, accelerate digital transformation, and drive business growth.",
+        "groups": [
+            {
+                "label": "Lifestyle & Services",
+                "items": [
+                    {
+                        "title": "Dating Apps",
+                        "icon": "heart",
+                        "description": "Smart matching, real-time chat and secure profiles that help people find real connections.",
+                        "href": "/dating-app-development",
+                        "built": "Flirture"
+                    },
+                    {
+                        "title": "Astrology",
+                        "icon": "stars",
+                        "description": "Horoscopes, live consultations and astrologer chat that keep users coming back daily.",
+                        "href": "/astrology-app-development"
+                    },
+                    {
+                        "title": "Home Services",
+                        "icon": "wrench",
+                        "description": "On-demand booking apps that connect plumbers and local service pros with customers.",
+                        "href": "/plumber-app-development"
+                    },
+                    {
+                        "title": "Tutor & Education",
+                        "icon": "tutor",
+                        "description": "Tutor discovery, scheduling and live learning sessions that make teaching easier to scale.",
+                        "href": "/tutor-app-development"
+                    },
+                    {
+                        "title": "Matrimonial",
+                        "icon": "gem",
+                        "description": "Profile matching, verified members and private messaging for meaningful matches.",
+                        "href": "/matrimonial-app-development"
+                    }
+                ]
+            },
+            {
+                "label": "Health & Wellness",
+                "items": [
+                    {
+                        "title": "Healthcare",
+                        "icon": "health",
+                        "description": "HIPAA-compliant apps that make care simpler for patients, clinics and care teams.",
+                        "href": "/healthcare-app-development"
+                    },
+                    {
+                        "title": "Telemedicine",
+                        "icon": "medic",
+                        "description": "Secure video consultations and easy appointment booking, bringing doctors to patients anywhere.",
+                        "href": "/telemedicine-app-development"
+                    },
+                    {
+                        "title": "Fitness",
+                        "icon": "fitness",
+                        "description": "Workout plans, progress tracking and wellness communities that keep members motivated.",
+                        "href": "/fitness-app-development"
+                    }
+                ]
+            },
+            {
+                "label": "Commerce & Travel",
+                "items": [
+                    {
+                        "title": "Travel",
+                        "icon": "plane",
+                        "description": "Booking, itineraries and seamless travel experiences, all in one easy-to-use app.",
+                        "href": "/travel-app-development"
+                    },
+                    {
+                        "title": "E-commerce",
+                        "icon": "cart",
+                        "description": "Fast, conversion-focused online stores and shopping apps built to sell on every screen.",
+                        "href": "/ecommerce-development-company",
+                        "built": "Shopprism"
+                    },
+                    {
+                        "title": "Food & Delivery",
+                        "icon": "food",
+                        "description": "Easy ordering, live delivery tracking and powerful tools for restaurants and couriers.",
+                        "href": "/food-delivery-app-development"
+                    },
+                    {
+                        "title": "Car Rental",
+                        "icon": "car",
+                        "description": "Fleet management, instant booking and secure payments for rental and ride businesses.",
+                        "href": "/car-rental-development"
+                    },
+                    {
+                        "title": "Real Estate",
+                        "icon": "building",
+                        "description": "Property listings, smart search and agent connections that help buyers find the right home.",
+                        "href": "/real-estate-app-development",
+                        "built": "Hometrace"
+                    }
+                ]
+            }
+        ],
+        "cta": {
+            "title": "Don't see your industry?",
+            "description": "We build custom solutions for any sector. Tell us about your idea and we'll share a free consultation, a ballpark estimate and a clear roadmap.",
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Let's build together"
+        }
+    },
+    "cta": {
+        "id": "cta",
+        "title": "Ready to Build a Mobile App That Grows Your Business?",
+        "titleAccent": "Big Product",
+        "titleRest": "Together",
+        "description": "WrathCode Technology builds secure, scalable Android and iOS apps with intuitive designs, seamless integrations, and reliable performance.",
+        "button": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Start Your Website Project "
+        }
+    },
+    "whyChoose": {
+        "id": "why-us",
+        "title": "Why Choose WrathCode for Mobile App Development?",
+        "description": "WrathCode Technology develops secure, scalable Android and iOS applications using modern technologies, intuitive UI/UX design, and seamless integrations to improve customer engagement, streamline operations, and support business growth.",
+        "cta": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Connect to an expert"
+        },
+        "highlight": {
+            "title": "Business-Focused Car Rental App Solutions",
+            "description": "We create business-focused mobile applications tailored to your goals, audience, and operational needs, enhancing customer engagement, simplifying workflows, expanding revenue opportunities, and delivering seamless experiences across supported devices.",
+            "href": "/contact",
+            "label": "Start your project",
+            "image": {
+                "src": "/home/about.jpg",
+                "alt": "The WrathCode team collaborating on a project"
+            }
+        },
+        "points": [
+            {
+                "title": "Expertise in Modern Mobile App Technologies",
+                "description": "Our developers use Kotlin, Java, Swift, and cross-platform technologies to build reliable mobile applications, prioritizing performance, maintainability, scalability, and long-term business requirements."
+            },
+            {
+                "title": "Secure and High-Performance Mobile Applications",
+                "description": "We prioritize mobile app security, speed, and stability through secure authentication, optimized code, reliable API integrations, and comprehensive testing to deliver dependable experiences across supported devices."
+            },
+            {
+                "title": "Scalable and Future-Ready App Solutions",
+                "description": "We build scalable mobile applications with flexible architecture, efficient backend integration, and modular functionality to support growing user demand, evolving requirements, and future business expansion."
+            },
+            {
+                "title": "Intuitive Mobile App UI/UX Design",
+                "description": "We design engaging mobile interfaces with intuitive navigation, consistent visuals, and accessible functionality, creating seamless user journeys that improve customer engagement, usability, and overall satisfaction."
+            },
+            {
+                "title": "Transparent Development and Quality Testing",
+                "description": "We follow a structured development process involving planning, design, coding, testing, and deployment, with regular updates, client feedback, and compatibility checks to deliver reliable applications."
+            },
+            {
+                "title": "End-to-End Mobile App Development and Support",
+                "description": "WrathCode Technology manages mobile app development from concept and UI/UX design through deployment and maintenance, providing bug fixes, security updates, performance optimization, and feature enhancements as businesses grow."
+            }
+        ]
+    },
+    "techstack": {
+        "id": "technology",
+        "title": "Get Solutions Built with the",
+        "titleStrong": "Right",
+        "titleAccent": "Technologies",
+        "note": "Not sure which stack suits your idea?",
+        "button": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Ask our experts"
+        },
+        "groups": [
+            {
+                "id": "frontend",
+                "title": "Frontend",
+                "items": [
+                    {
+                        "name": "HTML5",
+                        "mark": "5"
+                    },
+                    {
+                        "name": "CSS3",
+                        "mark": "3"
+                    },
+                    {
+                        "name": "React",
+                        "mark": "Re",
+                        "featured": true,
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/react-logo.png"
+                    },
+                    {
+                        "name": "Angular",
+                        "mark": "Ng",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/angular_logo.png"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "mark": "JS"
+                    }
+                ]
+            },
+            {
+                "id": "backend",
+                "title": "Backend",
+                "items": [
+                    {
+                        "name": "Node.js",
+                        "mark": "No",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/nodejs_logo.png"
+                    },
+                    {
+                        "name": "Python",
+                        "mark": "Py",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/python_logo.png"
+                    },
+                    {
+                        "name": "PHP",
+                        "mark": "Php",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/php_logo.png"
+                    },
+                    {
+                        "name": "Laravel",
+                        "mark": "La",
+                        "featured": true,
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/laravel_logo.png"
+                    },
+                    {
+                        "name": "CodeIgniter",
+                        "mark": "CI",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/CodeIgniter_logo.png"
+                    },
+                    {
+                        "name": "CakePHP",
+                        "mark": "Ck",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/cake_php_logo.png"
+                    },
+                    {
+                        "name": "Microsoft",
+                        "mark": "Ms",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/microsoft_logo.png"
+                    }
+                ]
+            },
+            {
+                "id": "mobile",
+                "title": "Mobile App",
+                "items": [
+                    {
+                        "name": "Android",
+                        "mark": "An",
+                        "featured": true
+                    },
+                    {
+                        "name": "iOS",
+                        "mark": "iOS",
+                        "featured": true
+                    }
+                ]
+            },
+            {
+                "id": "database",
+                "title": "Database",
+                "items": [
+                    {
+                        "name": "MySQL",
+                        "mark": "My"
+                    },
+                    {
+                        "name": "PostgreSQL",
+                        "mark": "Pg",
+                        "featured": true
+                    },
+                    {
+                        "name": "MongoDB",
+                        "mark": "Mo"
+                    }
+                ]
+            },
+            {
+                "id": "cms",
+                "title": "CMS & E-commerce",
+                "items": [
+                    {
+                        "name": "WordPress",
+                        "mark": "Wp",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/wordpress_logo.png"
+                    },
+                    {
+                        "name": "Shopify",
+                        "mark": "Sh",
+                        "featured": true,
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/shopify_logo.png"
+                    },
+                    {
+                        "name": "Magento",
+                        "mark": "Mg",
+                        "logo": "https://wrathcode.com/wp-content/uploads/2025/05/magento_logo.png"
+                    }
+                ]
+            }
+        ]
+    },
+    "testimonials": {
+        "id": "client-stories",
+        "title": "Empowered by Our",
+        "titleRest": "Clients'",
+        "titleAccent": "Stories",
+        "description": "Every project we ship starts as someone's idea. Hear how founders and teams across the globe turned theirs into live products with WrathCode.",
+        "button": {
+            "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
+            "label": "Start your project"
+        },
+        "video": {
+            "href": "https://www.youtube.com/watch?v=kxwuXiJPt2U",
+            "label": "Watch: Wrathcode Technology",
+            "duration": ""
+        },
+        "stats": [
+            {
+                "value": "550+",
+                "label": "Projects delivered"
+            },
+            {
+                "value": "10+",
+                "label": "Countries"
+            },
+            {
+                "value": "35",
+                "label": "Startups launched"
+            },
+            {
+                "value": "5+",
+                "label": "Years of experience"
+            }
+        ],
+        "reviewsTitle": "Verified Words from",
+        "reviewsTitleStrong": "Real Clients",
+        "work": {
+            "href": "https://wrathcode.com/portfolio",
+            "label": "View our work"
+        },
+        "reviews": [
+            {
+                "tag": "Custom ERP",
+                "quote": "WrathCode's custom-built ERP system revolutionized our business operations. Their team is incredibly skilled and reliable.",
+                "name": "Rohan Mehta",
+                "location": "India",
+                "initials": "RM"
+            },
+            {
+                "tag": "AI marketing",
+                "quote": "Their AI-driven insights helped us optimize our digital marketing campaigns. A game-changer for our brand!",
+                "name": "Priya Sharma",
+                "location": "India",
+                "initials": "PS"
+            },
+            {
+                "tag": "E-learning",
+                "quote": "We trusted WrathCode for our e-learning platform, and they delivered a feature-rich, scalable solution on time.",
+                "name": "Amit Rajput",
+                "location": "India",
+                "initials": "AR"
+            },
+            {
+                "tag": "Health-tech app",
+                "quote": "Our mobile app for health tech was developed flawlessly by WrathCode. Their attention to detail is commendable!",
+                "name": "Neha Kapoor",
+                "location": "India",
+                "initials": "NK"
+            },
+            {
+                "tag": "Fintech dashboard",
+                "quote": "They built our fintech dashboard with seamless UI/UX and strong backend security. Highly impressed with their work!",
+                "name": "Vikram Desai",
+                "location": "India",
+                "initials": "VD"
+            },
+            {
+                "tag": "Fintech platform",
+                "quote": "WrathCode delivered a seamless and innovative solution for our fintech platform. Their expertise in blockchain and AI-driven software is outstanding!",
+                "name": "William Conaghan",
+                "location": "United States",
+                "initials": "WC"
+            },
+            {
+                "tag": "E-commerce",
+                "quote": "The team at WrathCode exceeded our expectations. Their ReactJS expertise helped us scale our e-commerce business effortlessly!",
+                "name": "Sophia Müller",
+                "location": "Germany",
+                "initials": "SM"
+            },
+            {
+                "tag": "Analytics tool",
+                "quote": "From concept to execution, WrathCode was exceptional. Their AI-powered social media analytics tool has transformed our marketing strategies.",
+                "name": "Daniel Smith",
+                "location": "United Kingdom",
+                "initials": "DS"
+            },
+            {
+                "tag": "Crypto exchange",
+                "quote": "We needed a secure crypto exchange platform, and WrathCode built a robust and user-friendly system. Highly recommended!",
+                "name": "Maria Rodríguez",
+                "location": "Spain",
+                "initials": "MR"
+            },
+            {
+                "tag": "On-demand app",
+                "quote": "Their mobile app development expertise helped us launch a successful on-demand service app. A fantastic experience!",
+                "name": "James Wilson",
+                "location": "Australia",
+                "initials": "JW"
+            }
+        ]
+    },
+    "faq": {
+        "id": "faq",
+        "title": "Frequently Asked",
+        "titleAccent": "Questions",
+        "footer": "Still have questions?",
+        "button": {
+            "href": "mailto:sales@wrathcode.com",
+            "label": "Talk to our team"
+        },
+        "items": [
+            {
+                "question": "What mobile app development services does WrathCode Technology offer?",
+                "answer": "WrathCode Technology offers custom mobile app development, Android and iOS applications, business mobile apps, eCommerce apps, on-demand platforms, UI/UX design, API integration, testing, deployment, and maintenance tailored to your business goals and technical requirements."
+            },
+            {
+                "question": "How much does it cost to develop a mobile app?",
+                "answer": "Mobile app development costs depend on application complexity, features, design, backend infrastructure, and integrations. Basic apps generally cost less than advanced platforms with real-time features or payment processing. Contact WrathCode Technology for a project-specific estimate."
+            },
+            {
+                "question": "How long does it take to develop a mobile application?",
+                "answer": "Development timelines depend on project scope, functionality, design requirements, and technical complexity. Basic applications may take several weeks, while feature-rich platforms can require several months. We establish realistic timelines after evaluating your requirements."
+            },
+            {
+                "question": "Which technologies do you use for mobile app development?",
+                "answer": "We use Kotlin, Java, Swift, and suitable cross-platform frameworks based on your project requirements. Our development process also includes backend technologies, databases, REST APIs, and third-party integrations to create secure, scalable mobile applications."
+            },
+            {
+                "question": "Can you develop a custom mobile app for my business?",
+                "answer": "Yes. We develop custom mobile applications for startups, small businesses, and enterprises across various industries. From business management and eCommerce platforms to booking applications and workflow automation, we tailor features to your operational needs and business objectives."
+            },
+            {
+                "question": "Can you integrate APIs and payment gateways into a mobile app?",
+                "answer": "Yes. We integrate mobile applications with REST APIs, backend systems, databases, authentication services, payment gateways, maps, and third-party platforms, focusing on secure data communication, reliable functionality, and seamless user experiences."
+            },
+            {
+                "question": "Will my mobile application be secure and scalable?",
+                "answer": "We follow security-conscious development practices and scalable architecture principles. Depending on your requirements, our approach may include secure API communication, authentication, access controls, data protection, input validation, and performance testing."
+            },
+            {
+                "question": "Do you develop both Android and iOS applications?",
+                "answer": "Yes. We develop Android applications for Android devices and iOS applications for Apple devices. Based on your target audience, budget, features, and business goals, we recommend a suitable development approach for a consistent, user-friendly mobile experience."
+            },
+            {
+                "question": "Do you help publish apps on the Google Play Store and Apple App Store?",
+                "answer": "Yes. We assist with production builds, app signing, release configuration, store listing assets, and submission requirements for the Google Play Store and Apple App Store. Publication depends on meeting platform policies and approval requirements."
+            },
+            {
+                "question": "Do you provide mobile app maintenance and support after launch?",
+                "answer": "Yes. We provide ongoing mobile app maintenance, including bug fixes, performance optimization, security improvements, operating system compatibility updates, and feature development to keep your application reliable and aligned with evolving business requirements."
+            },
+            {
+                "question": "Can you upgrade or improve an existing mobile application?",
+                "answer": "Yes. We improve existing Android and iOS applications through UI/UX redesign, technical troubleshooting, performance optimization, new feature integration, code modernization, and compatibility improvements based on your goals and technical requirements."
+            },
+            {
+                "question": "Do you develop mobile apps for startups and small businesses?",
+                "answer": "Yes. We work with startups, small businesses, and established enterprises to create applications aligned with their budgets, priorities, and growth plans. We identify essential features and establish development priorities to support future expansion."
+            },
+            {
+                "question": "How can I start a mobile app development project with WrathCode Technology?",
+                "answer": "Contact WrathCode Technology to discuss your app idea, target audience, required features, budget, and timeline. Our team evaluates your requirements, recommends a suitable development approach, and outlines the next steps for your custom mobile app development project."
+            }
+        ]
+    },
+    "JsonLdData": [
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://wrathcode.com/#localbusiness",
+            "name": "WrathCode Technology Pvt Ltd",
+            "image": "https://wrathcode.com/home/banner_img.webp",
+            "url": "https://wrathcode.com/custom-software-development/",
+            "telephone": "+91-9982-14-1988",
+            "email": "sales@wrathcode.com",
+            "priceRange": "$$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1st Floor, JDA Complex, Plot No. 11, Sector 4, Vidhyadhar Nagar",
+                "addressLocality": "Jaipur",
+                "addressRegion": "Rajasthan",
+                "postalCode": "302039",
+                "addressCountry": "IN"
+            },
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday"
+                ],
+                "opens": "10:00",
+                "closes": "19:00"
+            },
+            "sameAs": [
+                "https://www.linkedin.com/company/wrathcode-technology/"
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "@id": "https://wrathcode.com/#organization",
+            "name": "WrathCode Technology Pvt Ltd",
+            "alternateName": "WrathCode",
+            "url": "https://wrathcode.com/",
+            "description": "WrathCode Technology Pvt Ltd provides custom software development, enterprise applications, SaaS platforms, CRM and ERP systems, and business process automation.",
+            "email": "sales@wrathcode.com",
+            "telephone": [
+                "+91-8000-83-6145",
+                "+91-9982-14-1988",
+                "+91-6376-74-7457"
+            ],
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1st Floor, JDA Complex, Plot No. 11, Sector 4, Vidhyadhar Nagar",
+                "addressLocality": "Jaipur",
+                "addressRegion": "Rajasthan",
+                "postalCode": "302039",
+                "addressCountry": "IN"
+            },
+            "sameAs": [
+                "https://www.linkedin.com/company/wrathcode-technology/"
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "Service",
+            "@id": "https://wrathcode.com/plumber-app-development/#service",
+            "name": "Plumber App Development Services",
+            "serviceType": [
+                "Custom Plumber App Development",
+                "Plumbing Service Booking App Development",
+                "Plumber App UI/UX Design",
+                "Plumbing Workforce Management Software",
+                "Plumber Search and Matching Development",
+                "GPS Tracking and Location Integration",
+                "Plumber App Payment and Billing Integration",
+                "Plumber App Admin Panel Development",
+                "Plumber App Security and Verification",
+                "Plumber App Testing and Quality Assurance",
+                "Plumber App Maintenance and Support"
+            ],
+            "provider": {
+                "@id": "https://wrathcode.com/#organization"
+            },
+            "description": "WrathCode Technology provides custom plumber app development services for startups and businesses, including plumbing service bookings, appointment scheduling, plumber management, job assignments, GPS tracking, secure payment processing, digital invoicing, administration dashboards, and scalable plumbing platform development.",
+            "url": "https://wrathcode.com/plumber-app-development/",
+            "areaServed": "Worldwide"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://wrathcode.com/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Plumber App Development",
+                    "item": "https://wrathcode.com/plumber-app-development/"
+                }
+            ]
+        }
+    ]
+}
