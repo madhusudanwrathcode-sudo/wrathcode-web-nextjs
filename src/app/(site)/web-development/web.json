@@ -31,7 +31,7 @@
         "kicker": "Our Services",
         "title": "Custom Web Development Services",
         "titleAccent": "built to grow your business",
-        "description": "At WrathCode, we deliver custom web development services that help businesses build a powerful online presence and achieve measurable growth. Our team creates responsive websites, scalable web applications, eCommerce platforms, and business management systems using modern technologies and proven development practices. From intuitive UI/UX design to performance optimization and SEO-friendly architecture, we build secure, reliable, and future-ready digital solutions tailored to your business goals.",
+        "description": "WrathCode delivers scalable, responsive, and SEO-friendly websites, eCommerce platforms, and web applications tailored to business goals and growth.",
         "exploreLabel": "Explore service",
         "bookLabel": "Book a call",
         "bookHref": "https://api.whatsapp.com/send?phone=919982141988&text=Hello,WrathCode",
@@ -43,7 +43,7 @@
                 "title": "Custom Website Development",
                 "chip": "Web Development",
                 "icon": "web",
-                "description": "Establish a strong online presence with custom website development services from WrathCode. We design and develop professional, responsive, and SEO-friendly websites that reflect your brand identity, deliver seamless user experiences, and help convert visitors into customers. Every website is built around your business objectives, target audience, and long-term growth plans.",
+                "description": "WrathCode builds responsive, SEO-friendly websites that strengthen brands, enhance user experiences, and drive business growth.",
                 "points": [
                     "Custom business website design and development",
                     "Responsive websites for desktop, tablet, and mobile",
@@ -68,7 +68,7 @@
                 "title": "Web Application Development",
                 "chip": "Web Development",
                 "icon": "code",
-                "description": "Transform complex business requirements into powerful digital products with our custom web application development services. WrathCode builds interactive, data-driven, and scalable web applications with intuitive interfaces, secure authentication, reliable backend systems, and seamless API integrations to streamline operations and improve business efficiency.",
+                "description": "WrathCode develops scalable web applications with intuitive interfaces, secure authentication, seamless integrations, and efficient backend systems for businesses.",
                 "points": [
                     "Custom web application design and development",
                     "Interactive dashboards and data-driven interfaces",
@@ -93,7 +93,7 @@
                 "title": "eCommerce Website Development",
                 "chip": "eCommerce",
                 "icon": "shopping",
-                "description": "Launch and scale your online store with custom eCommerce website development from WrathCode. We create user-friendly online shopping experiences with product catalogs, secure payment integrations, inventory management, and streamlined checkout processes. Our eCommerce solutions help businesses improve customer engagement, simplify store operations, and support sustainable online sales growth.",
+                "description": "WrathCode builds user-friendly eCommerce websites with secure payments, inventory management, seamless checkout, and scalable features to boost sales.",
                 "points": [
                     "Custom online store design and development",
                     "Product catalogs, categories, and inventory management",
@@ -118,7 +118,7 @@
                 "title": "Enterprise Web Development",
                 "chip": "Business Solutions",
                 "icon": "layers",
-                "description": "Support complex business operations with enterprise web development solutions designed for reliability, security, and scalability. WrathCode develops custom business portals, internal platforms, workflow management systems, and enterprise applications that connect teams, automate processes, and improve operational visibility through integrated digital solutions.",
+                "description": "WrathCode develops secure, scalable enterprise web solutions that automate workflows, connect teams, streamline operations, and improve business efficiency.",
                 "points": [
                     "Enterprise portals and business web platforms",
                     "Custom workflow and process automation",
@@ -143,7 +143,7 @@
                 "title": "SaaS Product Development",
                 "chip": "Digital Products",
                 "icon": "cloud",
-                "description": "Turn your product vision into a scalable software-as-a-service platform with WrathCode. We develop custom SaaS applications featuring subscription management, multi-tenant architecture, user administration, analytics, and third-party integrations. Our development approach focuses on maintainability, performance, and flexible architecture to support your product as your customer base grows.",
+                "description": "WrathCode develops scalable SaaS platforms with subscription management, multi-tenant architecture, analytics, integrations, and flexible systems supporting growth.",
                 "points": [
                     "SaaS product strategy and technical development",
                     "Multi-tenant application architecture",
@@ -168,7 +168,7 @@
                 "title": "CMS Development",
                 "chip": "Web Development",
                 "icon": "file",
-                "description": "Manage your digital content more efficiently with custom content management system development from WrathCode. We build flexible CMS-powered websites and content platforms that enable teams to publish, update, and organize information without unnecessary technical complexity. Our solutions support content workflows, search optimization, and consistent brand experiences across devices.",
+                "description": "WrathCode develops flexible CMS platforms that simplify content management, streamline publishing workflows, improve SEO, and maintain consistent brand experiences.",
                 "points": [
                     "Custom content management system development",
                     "WordPress and headless CMS implementation",
@@ -186,57 +186,8 @@
                     "PHP"
                 ],
                 "href": "/cms-development"
-            },
-            {
-                "id": "api",
-                "index": "07",
-                "title": "API Development and Integration",
-                "chip": "Backend Development",
-                "icon": "code",
-                "description": "Connect your digital platforms and simplify data exchange with custom API development and integration services. WrathCode builds reliable backend services, RESTful APIs, and third-party integrations that enable websites and applications to communicate securely with payment providers, business systems, external platforms, and other digital services.",
-                "points": [
-                    "Custom REST API development",
-                    "Third-party API integration and configuration",
-                    "Payment gateway and external service integration",
-                    "Authentication and authorization implementation",
-                    "API testing, documentation, and versioning",
-                    "Performance optimization and secure data exchange"
-                ],
-                "tags": [
-                    "Node.js",
-                    "Express",
-                    "Python",
-                    "REST API",
-                    "PostgreSQL",
-                    "OAuth"
-                ],
-                "href": "/api-development"
-            },
-            {
-                "id": "redesign",
-                "index": "08",
-                "title": "Website Redesign and Optimization",
-                "chip": "Website Improvement",
-                "icon": "monitor",
-                "description": "Give your existing website a modern look and better performance with WrathCode's website redesign and optimization services. We improve user experience, responsive layouts, navigation, accessibility, and technical performance while aligning your website with current business goals and search engine best practices.",
-                "points": [
-                    "Website redesign and user experience improvements",
-                    "Responsive layouts and mobile usability enhancements",
-                    "Core Web Vitals and loading performance optimization",
-                    "Technical SEO and website structure improvements",
-                    "Accessibility and cross-browser compatibility",
-                    "Legacy website modernization and code improvements"
-                ],
-                "tags": [
-                    "Next.js",
-                    "React",
-                    "JavaScript",
-                    "CSS3",
-                    "Lighthouse",
-                    "Core Web Vitals"
-                ],
-                "href": "/website-redesign"
             }
+           
         ]
     },
     "about": {
