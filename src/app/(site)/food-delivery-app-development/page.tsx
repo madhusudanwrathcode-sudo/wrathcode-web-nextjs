@@ -15,15 +15,16 @@ export default function Index() {
   return (
     <>
 
-      <title>Dating App Development Company | WrathCode Technology</title>
+      <title>Food Delivery App Development Company | WrathCode Technology</title>
+
       <meta
         name="description"
-        content="WrathCode Technology builds custom dating apps with smart matchmaking, real-time chat, video calling, secure payments, and scalable features for business growth."
+        content="WrathCode Technology builds custom food delivery apps with online ordering, restaurant management, secure payments, real-time tracking, and scalable features for business growth."
       />
 
       <meta
         name="keywords"
-        content="dating app development, dating app development company, custom dating app development, matchmaking app development, dating app developers, dating app solutions"
+        content="food delivery app development, food delivery app development company, custom food delivery app development, restaurant app development, food delivery app developers, food delivery app solutions"
       />
 
       <meta name="author" content="WrathCode Technology" />
@@ -40,22 +41,22 @@ export default function Index() {
 
       <link
         rel="canonical"
-        href="https://wrathcode.com/dating-app-development/"
+        href="https://wrathcode.com/food-delivery-app-development/"
       />
 
       <meta
         property="og:title"
-        content="Dating App Development Company | WrathCode Technology"
+        content="Food Delivery App Development Company | WrathCode Technology"
       />
 
       <meta
         property="og:description"
-        content="Launch a custom dating app with smart matchmaking, real-time messaging, video calling, intuitive UI/UX, and secure, scalable technology from WrathCode Technology."
+        content="Launch a custom food delivery app with restaurant discovery, online ordering, real-time tracking, secure payments, and scalable technology from WrathCode Technology."
       />
 
       <meta
         property="og:url"
-        content="https://wrathcode.com/dating-app-development/"
+        content="https://wrathcode.com/food-delivery-app-development/"
       />
 
       <meta property="og:type" content="website" />
@@ -72,19 +73,19 @@ export default function Index() {
 
       <meta
         property="og:image:alt"
-        content="Dating app development services by WrathCode Technology"
+        content="Food delivery app development services by WrathCode Technology"
       />
 
       <meta name="twitter:card" content="summary_large_image" />
 
       <meta
         name="twitter:title"
-        content="Dating App Development Company | WrathCode Technology"
+        content="Food Delivery App Development Company | WrathCode Technology"
       />
 
       <meta
         name="twitter:description"
-        content="Build a custom dating app with matchmaking, chat, video calling, and secure features. Explore dating app development services by WrathCode Technology."
+        content="Build a custom food delivery app with online ordering, restaurant management, real-time tracking, and secure payments. Explore food delivery app development services by WrathCode Technology."
       />
 
       <meta
@@ -94,7 +95,7 @@ export default function Index() {
 
       <meta
         name="twitter:image:alt"
-        content="Dating app development services by WrathCode Technology"
+        content="Food delivery app development services by WrathCode Technology"
       />
 
       {Data.JsonLdData.map((schema) => (
