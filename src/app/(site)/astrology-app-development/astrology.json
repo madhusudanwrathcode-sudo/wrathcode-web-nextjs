@@ -1,10 +1,9 @@
 {
     "herosection": {
         "id": "home-hero",
-        "eyebrow": "Web / App Development",
+        "eyebrow": "",
         "title": "Custom Astrology App Development Company",
-        "description": "WrathCode delivers custom astrology app development solutions featuring horoscope predictions, birth chart analysis, astrologer consultations, kundli matching, and live chat to create engaging, personalized, and scalable astrology platforms..",
-        "brand": "WrathCode",
+        "description": "WrathCode delivers custom astrology app development solutions featuring horoscope predictions, birth chart analysis, astrologer consultations, kundli matching, and live chat to create engaging, personalized, and scalable astrology platforms.",
         "image": {
             "src": "/home/banner_img.webp",
             "width": 1600,

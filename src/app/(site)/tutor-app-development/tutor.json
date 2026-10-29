@@ -1,9 +1,9 @@
 {
     "herosection": {
         "id": "home-hero",
-        "eyebrow": "Web / App Development",
-        "title": "Custom Astrology App Development Company",
-        "description": "WrathCode delivers custom astrology app development solutions featuring horoscope predictions, birth chart analysis, astrologer consultations, kundli matching, and live chat to create engaging, personalized, and scalable astrology platforms..",
+        "eyebrow": "",
+        "title": "Custom Tutor App Development Services",
+        "description": "WrathCode develops custom tutor apps with live classes, interactive learning, tutor profiles, secure payments, scheduling, and progress tracking to connect students and educators through seamless digital learning experiences.",
         "brand": "WrathCode",
         "image": {
             "src": "/home/banner_img.webp",
@@ -29,9 +29,9 @@
     "services": {
         "id": "services",
         "kicker": "Our Services",
-        "title": "Astrology App Development Services We Offer",
+        "title": "Comprehensive Tutor App Development Services",
         "titleAccent": "built to grow your business",
-        "description": "We develop feature-rich astrology applications with personalized horoscopes, birth chart analysis, kundli matching, live astrologer consultations, compatibility reports, secure payments, and AI-powered predictions for seamless user experiences.",
+        "description": "WrathCode delivers tutor app development services, including custom e-learning platforms, live video classes, tutor management, booking systems, secure payments, interactive assessments, and student progress tracking for businesses.",
         "exploreLabel": "Explore service",
         "bookLabel": "Book a call",
         "bookHref": "https://api.whatsapp.com/send?phone=919982141988&text=Hello,WrathCode",
@@ -40,120 +40,120 @@
             {
                 "id": "custom",
                 "index": "01",
-                "title": "Custom Astrology App Development",
-                "description": "Build a personalized astrology platform tailored to your business goals, target audience, and service model. WrathCode Technology develops scalable astrology applications with intuitive interfaces, personalized user experiences, and reliable backend architecture to support your digital astrology business.",
+                "title": "Custom Tutor App Development",
+                "description": "Build a personalized tutoring platform tailored to your business goals, target audience, and teaching model. WrathCode develops scalable tutor applications with intuitive interfaces, personalized learning experiences, and reliable backend architecture to connect students and educators.",
                 "points": [
-                    "Custom astrology app design and development",
-                    "Personalized user profiles and preferences",
-                    "Horoscope and birth chart features",
+                    "Custom tutor app design and development",
+                    "Student and tutor profiles",
                     "Secure user registration and authentication",
+                    "Personalized learning dashboards",
                     "Scalable backend development and API integration"
                 ],
-                "href": "/custom-astrology-app-development"
+                "href": "/custom-tutor-app-development"
             },
             {
-                "id": "horoscope",
+                "id": "online-tutoring",
                 "index": "02",
-                "title": "Horoscope App Development",
-                "description": "Deliver personalized astrological insights with horoscope app development services. We create applications that provide daily, weekly, monthly, and yearly horoscope predictions based on zodiac signs and individual user preferences, helping businesses deliver engaging astrology experiences.",
+                "title": "Online Tutoring App Development",
+                "description": "Deliver seamless online learning experiences with custom tutoring app development services. We create applications that connect students with qualified tutors through virtual classrooms, interactive lessons, flexible learning schedules, and personalized educational experiences.",
                 "points": [
-                    "Daily, weekly, and monthly horoscopes",
-                    "Zodiac sign profiles and compatibility",
-                    "Personalized horoscope recommendations",
-                    "Push notifications for horoscope updates",
-                    "Zodiac-based insights and predictions"
+                    "Online tutoring sessions",
+                    "Live video classes",
+                    "Tutor search and discovery",
+                    "Interactive learning tools",
+                    "Student learning progress tracking"
                 ],
-                "href": "/horoscope-app-development"
+                "href": "/online-tutoring-app-development"
             },
             {
                 "id": "uiux",
                 "index": "03",
-                "title": "Astrology App UI/UX Design",
-                "description": "Create engaging astrology applications with intuitive UI/UX design. We design user-friendly interfaces that simplify horoscope discovery, birth chart access, astrologer consultations, and account management across mobile devices, delivering seamless navigation and an engaging user experience.",
+                "title": "Tutor App UI/UX Design",
+                "description": "Create engaging tutoring applications with intuitive UI/UX design. We design user-friendly interfaces that simplify tutor discovery, class scheduling, lesson access, and account management across mobile devices, delivering seamless navigation and an engaging learning experience.",
                 "points": [
-                    "Astrology app user research and wireframes",
+                    "Tutor app user research and wireframes",
                     "Interactive prototypes and modern interface design",
                     "Simple onboarding and profile management",
-                    "Intuitive horoscope and kundli navigation",
+                    "Intuitive course and lesson navigation",
                     "Usability testing and responsive design"
                 ],
-                "href": "/astrology-app-ui-ux-design"
+                "href": "/tutor-app-ui-ux-design"
             },
             {
-                "id": "kundli",
+                "id": "virtual-classroom",
                 "index": "04",
-                "title": "Kundli and Birth Chart App Development",
-                "description": "Help users explore their astrological profiles through customized kundli and birth chart applications. We develop features that generate charts from birth details, display planetary positions, and provide personalized astrological interpretations for a comprehensive astrology experience.",
+                "title": "E-Learning and Virtual Classroom App Development",
+                "description": "Enhance digital education with customized e-learning and virtual classroom applications. We develop platforms that support live classes, recorded lessons, interactive whiteboards, learning materials, and real-time collaboration to make online education more accessible and effective.",
                 "points": [
-                    "Online kundli generation",
-                    "Birth date, time, and location inputs",
-                    "Planetary positions and birth chart visualization",
-                    "Kundli matching and compatibility reports",
-                    "Personalized astrological analysis"
+                    "Virtual classroom development",
+                    "Live video and audio sessions",
+                    "Interactive digital whiteboards",
+                    "Recorded lessons and video libraries",
+                    "File sharing and learning resources"
                 ],
-                "href": "/kundli-birth-chart-app-development"
+                "href": "/e-learning-virtual-classroom-app-development"
             },
             {
-                "id": "consultation",
+                "id": "booking",
                 "index": "05",
-                "title": "Live Astrologer Consultation App Development",
-                "description": "Connect users with professional astrologers through interactive consultation platforms. We build astrology applications with real-time communication, appointment scheduling, and flexible consultation options to help businesses deliver convenient and personalized astrology services.",
+                "title": "Tutor Booking App Development",
+                "description": "Simplify tutor discovery and lesson scheduling with a dedicated booking application. We develop platforms that allow students to find suitable tutors, check availability, schedule sessions, manage appointments, and receive timely notifications for convenient learning experiences.",
                 "points": [
-                    "Live audio and video consultations",
-                    "Real-time astrologer chat",
-                    "Astrologer profiles and availability",
-                    "Appointment booking and scheduling",
-                    "Consultation history and session management"
+                    "Tutor availability and scheduling",
+                    "Online lesson booking",
+                    "Calendar and appointment management",
+                    "Automated booking reminders",
+                    "Session cancellation and rescheduling"
                 ],
-                "href": "/live-astrologer-consultation-app-development"
+                "href": "/tutor-booking-app-development"
             },
             {
                 "id": "ai",
                 "index": "06",
-                "title": "AI-Powered Astrology App Development",
-                "description": "Enhance astrology applications with AI-powered features that deliver personalized insights and interactive user experiences. We integrate intelligent recommendation systems and conversational tools to help users explore astrology-related information through engaging, preference-based digital experiences.",
+                "title": "AI-Powered Tutor App Development",
+                "description": "Enhance learning experiences with AI-powered tutoring applications that deliver personalized educational support. We integrate intelligent learning recommendations, AI tutoring assistants, adaptive learning features, and automated assessments to help students learn according to their individual needs.",
                 "points": [
-                    "AI-powered horoscope recommendations",
-                    "Personalized astrology insights",
-                    "AI astrology chatbot integration",
-                    "Conversational astrology assistance",
-                    "User preference-based content suggestions"
+                    "AI-powered virtual tutoring assistants",
+                    "Personalized learning recommendations",
+                    "Adaptive learning paths",
+                    "AI-based quizzes and assessments",
+                    "Intelligent student performance analysis"
                 ],
-                "href": "/ai-astrology-app-development"
+                "href": "/ai-tutor-app-development"
             },
             {
                 "id": "payments",
                 "index": "07",
-                "title": "Astrology App Payment Integration",
-                "description": "Simplify transactions and create flexible revenue opportunities with secure astrology app payment integration. We implement payment gateways and monetization features that help businesses manage consultations, premium reports, subscriptions, and digital services through convenient and reliable payment experiences.",
+                "title": "Tutor App Payment Integration",
+                "description": "Simplify transactions and create flexible revenue opportunities with secure tutor app payment integration. We implement payment gateways and monetization features that help businesses manage lesson fees, tutor subscriptions, packages, and transactions through convenient payment experiences.",
                 "points": [
                     "Secure payment gateway integration",
-                    "Paid astrologer consultations",
-                    "Subscription and membership plans",
-                    "Premium horoscope and kundli reports",
+                    "Online tutoring session payments",
+                    "Tutor subscription and membership plans",
+                    "Lesson packages and premium features",
                     "Transaction history and refund management"
                 ],
-                "href": "/astrology-app-payment-integration"
+                "href": "/tutor-app-payment-integration"
             },
             {
                 "id": "marketplace",
                 "index": "08",
-                "title": "Astrology Marketplace App Development",
-                "description": "Launch an astrology marketplace that connects users with astrologers through a centralized digital platform. We develop solutions that support astrologer registration, service discovery, appointment management, and business administration to streamline operations and support marketplace growth.",
+                "title": "Tutor Marketplace App Development",
+                "description": "Launch a tutoring marketplace that connects students with qualified educators through a centralized digital platform. We develop solutions that support tutor registration, subject-based discovery, booking management, payments, and administrative controls to streamline operations and support business growth.",
                 "points": [
-                    "Astrologer registration and verification workflows",
-                    "Astrologer profiles and service listings",
-                    "Search, filters, and astrologer discovery",
-                    "Appointment and consultation management",
+                    "Tutor registration and profile verification",
+                    "Tutor listings and subject categories",
+                    "Search filters and tutor discovery",
+                    "Booking and consultation management",
                     "Admin dashboard and commission management"
                 ],
-                "href": "/astrology-marketplace-app-development"
+                "href": "/tutor-marketplace-app-development"
             },
             {
                 "id": "maintenance",
                 "index": "09",
-                "title": "Astrology App Maintenance and Optimization",
-                "description": "Keep your astrology application secure, reliable, and up to date with ongoing maintenance and optimization services from WrathCode Technology. We improve application performance, resolve technical issues, maintain compatibility, and support new features as your astrology business grows.",
+                "title": "Tutor App Maintenance and Optimization",
+                "description": "Keep your tutoring application secure, reliable, and up to date with ongoing maintenance and optimization services from WrathCode Technology. We improve performance, resolve technical issues, maintain compatibility, and support new features as your education business grows.",
                 "points": [
                     "Bug fixing and troubleshooting",
                     "App speed and performance optimization",
@@ -161,22 +161,22 @@
                     "Android and iOS compatibility updates",
                     "Feature enhancements and ongoing technical support"
                 ],
-                "href": "/astrology-app-maintenance"
+                "href": "/tutor-app-maintenance"
             }
         ]
     },
     "about": {
         "id": "about",
-        "title": "Building Custom Astrology Apps for Personalized Cosmic Insights",
-        "lead": "WrathCode Technology is a Jaipur-based astrology app development company creating personalized astrology platforms with horoscope predictions, kundli matching, birth chart analysis, and secure astrologer consultations.",
-        "detail": "We develop scalable astrology applications featuring AI-powered predictions, personalized horoscopes, live consultations, compatibility reports, secure payments, intuitive UI/UX, and ongoing support to help astrology businesses grow.",
+        "title": "Building Custom Tutor Apps for Personalized Learning Experiences",
+        "lead": "WrathCode Technology develops custom tutor apps featuring live classes, tutor profiles, online bookings, secure payments, and interactive learning tools to connect students with educators through seamless digital experiences.",
+        "detail": "We build scalable tutoring platforms with virtual classrooms, AI-powered learning, progress tracking, intuitive UI/UX, and ongoing support to help education businesses improve engagement, accessibility, and student learning outcomes.",
         "checks": [
-            "Custom Astrology App Design and Development",
-            "Horoscope Predictions and Personalized Astrology Insights",
-            "Kundli Matching and Birth Chart Analysis",
-            "Secure Astrologer Consultations and Real-Time Communication",
-            "AI-Powered Astrology Features and API Integration",
-            "Application Testing, Maintenance, and Ongoing Support"
+            " Custom Tutor App Design and Development",
+            "Live Online Classes and Virtual Classroom Integration",
+            "Tutor Profiles, Search, and Discovery Features",
+            "Online Lesson Booking and Scheduling Management",
+            "Secure Payments and Subscription Integration",
+            "AI-Powered Learning Tools and Student Progress Tracking"
         ],
         "primary": {
             "href": "/about",
@@ -209,13 +209,13 @@
     },
     "process": {
         "id": "process",
-        "title": "Our Astrology App Development Process",
-        "description": "Our astrology app development process transforms your vision into a scalable digital platform through strategic planning, intuitive design, feature development, rigorous testing, secure deployment, and ongoing support.",
+        "title": "Our Tutor App Development Process",
+        "description": "Our tutor app development process transforms your vision into a scalable learning platform through strategic planning, intuitive design, feature development, rigorous testing, secure deployment, and ongoing technical support.",
         "points": [
-            " Clear astrology app project scope, features, timelines, and development costs.",
-            "Transparent communication throughout the astrology app development lifecycle.",
+            "Clear tutor app project scope, features, timelines, and development costs.",
+            "Transparent communication throughout the tutor app development lifecycle.",
             "Regular progress updates, app demos, and client feedback.",
-            "Ongoing astrology app maintenance, security updates, and technical support."
+            "Ongoing tutor app maintenance, security updates, and technical support."
         ],
         "cta": {
             "href": "/contact",
@@ -225,38 +225,38 @@
         "steps": [
             {
                 "stage": "Discover",
-                "title": "Astrology App Discovery & Requirement Analysis",
-                "description": "We understand your astrology app concept, business goals, target audience, and monetization strategy while identifying essential features, market opportunities, and user expectations to establish a clear development roadmap."
+                "title": "Tutor App Discovery & Requirement Analysis",
+                "description": "We understand your tutoring app concept, business goals, target audience, and monetization strategy while identifying essential features, learning requirements, market opportunities, and user expectations to establish a clear development roadmap."
             },
             {
                 "stage": "Planning",
-                "title": "Astrology App Planning & Technical Strategy",
-                "description": "We create a detailed development roadmap covering project scope, features, user journeys, technology selection, architecture, database structure, astrology integrations, and delivery milestones to build a secure, scalable application.."
+                "title": "Tutor App Planning & Technical Strategy",
+                "description": "We create a detailed development roadmap covering project scope, features, user journeys, technology selection, architecture, database structure, third-party integrations, and delivery milestones to build a secure, scalable tutoring application."
             },
             {
                 "stage": "Design",
-                "title": "Astrology App UI/UX Design & Prototyping",
-                "description": "Our designers create intuitive astrology app interfaces using wireframes, interactive prototypes, and user journey mapping to simplify horoscope discovery, kundli generation, astrologer consultations, navigation, and accessibility across mobile devices."
+                "title": "Tutor App UI/UX Design & Prototyping",
+                "description": "Our designers create intuitive tutor app interfaces using wireframes, interactive prototypes, and user journey mapping to simplify tutor discovery, class scheduling, lesson access, navigation, and accessibility across mobile devices."
             },
             {
                 "stage": "Development",
-                "title": "Custom Astrology App Development",
-                "description": "We build feature-rich astrology applications with horoscope predictions, kundli matching, birth chart analysis, real-time consultations, secure payments, and backend integrations using modern technologies and scalable development practices."
+                "title": "Custom Tutor App Development",
+                "description": "We build feature-rich tutoring applications with live classes, tutor profiles, online booking, virtual classrooms, secure payments, interactive learning tools, and backend integrations using modern technologies and scalable development practices."
             },
             {
                 "stage": "Testing",
-                "title": "Astrology App Testing & Quality Assurance",
-                "description": "We thoroughly test astrology calculations, kundli matching, consultation features, payment workflows, security controls, and application responsiveness to identify issues and ensure reliable functionality across supported devices before launch."
+                "title": "Tutor App Testing & Quality Assurance",
+                "description": "We thoroughly test live classes, booking workflows, payment processing, user authentication, performance, and security to identify issues and ensure reliable functionality across supported devices before launching your tutoring application."
             },
             {
                 "stage": "Launch",
-                "title": "Astrology App Deployment & Launch",
-                "description": "We prepare your astrology application for launch through production builds, release configuration, app signing, store listing preparation, and Google Play Store or Apple App Store submission support."
+                "title": "Tutor App Deployment & Launch",
+                "description": "We prepare your tutoring application for launch through production builds, release configuration, app signing, store listing preparation, and Google Play Store or Apple App Store submission support."
             },
             {
                 "stage": "Support",
-                "title": " Astrology App Maintenance & Continuous Improvement",
-                "description": "We provide ongoing bug fixes, security updates, performance optimization, compatibility improvements, and feature enhancements to improve user engagement, maintain application reliability, and support your astrology business's long-term growth."
+                "title": "Tutor App Maintenance & Continuous Improvement",
+                "description": "We provide ongoing bug fixes, security updates, performance optimization, compatibility improvements, and feature enhancements to improve user engagement, maintain application reliability, and support your tutoring business's long-term growth."
             }
         ]
     },
@@ -371,10 +371,10 @@
     },
     "cta": {
         "id": "cta",
-        "title": "Ready to Build a Dating App That Connects People?",
+        "title": "Ready to Build Your Own Tutor App?",
         "titleAccent": "Big Product",
         "titleRest": "Together",
-        "description": "WrathCode builds secure, scalable dating apps featuring smart matchmaking, real-time chat, intuitive design, and personalized user experiences.",
+        "description": "WrathCode builds scalable tutor apps with live classes, smart tutor matching, secure payments, and personalized learning experiences.",
         "button": {
             "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
             "label": "Start Your Website Project "
@@ -382,15 +382,15 @@
     },
     "whyChoose": {
         "id": "why-us",
-        "title": "Why Choose WrathCode for Astrology App Development?",
-        "description": "WrathCode Technology delivers custom astrology app development solutions featuring personalized horoscopes, kundli matching, AI-powered predictions, secure consultations, intuitive UI/UX, and scalable architecture to support business growth.",
+        "title": "Why Choose WrathCode for Tutor App Development?",
+        "description": "WrathCode Technology develops custom tutor apps featuring live classes, intelligent learning tools, secure payments, intuitive UI/UX, and scalable architecture to improve student engagement and support education business growth.",
         "cta": {
             "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
             "label": "Connect to an expert"
         },
         "highlight": {
-            "title": "Business-Focused Astrology App Solutions",
-            "description": "We develop custom astrology apps with horoscope predictions, birth chart analysis, kundli matching, live consultations, and premium subscriptions to enhance user engagement, personalize experiences, and drive sustainable business growth.",
+            "title": "Business-Focused Tutor App Solutions",
+            "description": "We develop custom tutor apps with virtual classrooms, tutor booking, interactive lessons, progress tracking, and subscription features to enhance learning experiences, simplify management, and support sustainable business growth.",
             "href": "/contact",
             "label": "Start your project",
             "image": {
@@ -400,28 +400,28 @@
         },
         "points": [
             {
-                "title": "Expertise in Modern Astrology App Technologies",
-                "description": "Our developers build scalable astrology applications with horoscope predictions, kundli generation, birth chart analysis, AI-powered insights, and real-time consultations to deliver personalized user experiences."
+                "title": "Expertise in Modern Tutor App Technologies",
+                "description": "Our developers build scalable tutor applications with live classes, virtual classrooms, interactive learning tools, AI-powered assistance, and real-time communication to deliver personalized educational experiences."
             },
             {
                 "title": "Secure and High-Performance Applications",
-                "description": "We build secure astrology apps with robust authentication, data encryption, privacy controls, protected user profiles, and secure payment integrations to safeguard personal information and build user trust."
+                "description": "We build secure tutor apps with robust authentication, data encryption, privacy controls, protected user profiles, and reliable payment integrations to safeguard personal information and build user trust."
             },
             {
-                "title": "Scalable and Future-Ready Astrology Apps",
-                "description": "We develop scalable astrology platforms with flexible architecture, personalized predictions, consultation management, subscription features, and seamless integrations to support business expansion and evolving user requirements."
+                "title": "Scalable and Future-Ready Tutor Apps",
+                "description": "We develop scalable tutoring platforms with flexible architecture, tutor management, online scheduling, subscription features, and seamless integrations to support business expansion and evolving educational requirements."
             },
             {
-                "title": "Intuitive Astrology App UI/UX Design",
-                "description": "We design intuitive astrology app interfaces with seamless onboarding, personalized horoscopes, interactive birth charts, easy kundli access, and user-friendly navigation to improve engagement and customer satisfaction."
+                "title": "Intuitive Tutor App UI/UX Design",
+                "description": "We design intuitive tutor app interfaces with seamless onboarding, easy tutor discovery, convenient booking, interactive lessons, and user-friendly navigation to improve student engagement and customer satisfaction."
             },
             {
                 "title": "Structured Development and Quality Testing",
-                "description": "We follow a structured astrology app development process covering planning, UI/UX design, development, testing, and deployment to ensure accurate functionality, reliable performance, and seamless user experiences."
+                "description": "We follow a structured tutor app development process covering planning, UI/UX design, development, testing, and deployment to ensure reliable performance, smooth functionality, and seamless learning experiences."
             },
             {
-                "title": "End-to-End Astrology App Development and Support",
-                "description": "WrathCode Technology delivers end-to-end astrology app development, including planning, UI/UX design, mobile development, backend integration, deployment, and maintenance to optimize performance and support long-term business growth."
+                "title": "End-to-End Tutor App Development and Support",
+                "description": "WrathCode Technology delivers end-to-end tutor app development, including planning, UI/UX design, mobile development, backend integration, deployment, and maintenance to optimize performance and support long-term business growth."
             }
         ]
     },
@@ -689,44 +689,52 @@
         },
         "items": [
             {
-                "question": "What is astrology app development?",
-                "answer": "Astrology app development involves creating mobile or web applications that provide horoscope predictions, kundli generation, birth chart analysis, zodiac compatibility, and online astrologer consultations. WrathCode Technology develops customized astrology applications tailored to your business goals and target audience."
+                "question": "What is tutor app development?",
+                "answer": "Tutor app development involves creating mobile or web applications that connect students with tutors through live classes, online booking, virtual classrooms, interactive learning tools, and secure payment systems."
             },
             {
-                "question": "What features should an astrology app include?",
-                "answer": "An astrology app can include daily horoscopes, kundli matching, birth chart generation, zodiac compatibility, astrologer chat, audio and video consultations, push notifications, secure payments, and subscription plans. We customize features according to your business model and user requirements."
+                "question": "How much does it cost to develop a tutor app?",
+                "answer": "The cost of tutor app development depends on features, platform requirements, UI/UX design, integrations, and project complexity. Basic applications cost less, while AI-powered tutoring platforms require a larger investment."
             },
             {
-                "question": "How much does it cost to develop an astrology app?",
-                "answer": "The cost of astrology app development depends on app complexity, platform selection, design requirements, feature integrations, and backend infrastructure. Basic astrology apps generally cost less than advanced platforms with AI-powered predictions and live consultations. Contact WrathCode Technology for a customized project estimate."
+                "question": "How long does it take to develop a tutor app?",
+                "answer": "Tutor app development typically takes 2–6 months, depending on the application's complexity, required features, platform selection, third-party integrations, and testing requirements."
             },
             {
-                "question": "How long does it take to develop an astrology app?",
-                "answer": "Astrology app development timelines depend on project scope, design complexity, integrations, and testing requirements. A basic application may take a few weeks to several months, while advanced platforms with AI features, kundli calculations, and live consultations can require additional development time."
+                "question": "What features should a tutor app include?",
+                "answer": "A tutor app should include student and tutor profiles, tutor search, online booking, live video classes, secure payments, notifications, learning materials, progress tracking, and an administrative dashboard."
             },
             {
-                "question": "Can you develop an AI-powered astrology app?",
-                "answer": "Yes, WrathCode Technology develops AI-powered astrology applications with personalized recommendations, conversational chatbots, automated horoscope insights, and intelligent content delivery based on user preferences and available astrological data."
+                "question": "Can you develop a tutor app for Android and iOS?",
+                "answer": "Yes, WrathCode develops tutor applications for Android and iOS, along with web platforms. We recommend suitable native or cross-platform technologies based on your business requirements, budget, and target audience."
             },
             {
-                "question": "Can an astrology app support live astrologer consultations?",
-                "answer": "Yes, astrology applications can include real-time chat, audio calls, video consultations, appointment scheduling, astrologer profiles, availability management, and secure payment options. We build consultation features that help users connect conveniently with astrologers online."
+                "question": "Can you integrate live video classes into a tutor app?",
+                "answer": "Yes, we integrate live video classes, audio calls, real-time chat, screen sharing, and interactive whiteboards to support engaging online tutoring and virtual classroom experiences."
             },
             {
-                "question": "Can you develop astrology apps for Android and iOS?",
-                "answer": "Yes, we develop astrology applications for Android and iOS using native or cross-platform technologies, depending on your business requirements, budget, performance expectations, and target audience. Our solutions focus on reliable performance, intuitive interfaces, and scalable architecture."
+                "question": "Can I monetize my tutor app?",
+                "answer": "Yes, you can monetize your tutor app through paid tutoring sessions, monthly subscriptions, premium learning materials, course packages, commission-based bookings, and other flexible revenue models."
             },
             {
-                "question": "How can an astrology app generate revenue?",
-                "answer": "Astrology apps can generate revenue through paid consultations, premium horoscope reports, subscription plans, kundli analysis, compatibility reports, in-app purchases, and other paid astrology services. We integrate suitable monetization features based on your business model."
+                "question": "Can you integrate AI features into a tutor app?",
+                "answer": "Yes, we can integrate AI-powered tutoring assistants, personalized learning recommendations, adaptive learning paths, automated quizzes, and student performance analysis to create more personalized educational experiences."
             },
             {
-                "question": "Is it possible to integrate kundli matching and birth chart calculations?",
-                "answer": "Yes, we can integrate kundli matching, birth chart generation, planetary position calculations, and compatibility reports using suitable astrology calculation engines, APIs, or custom-developed solutions. These features can be tailored to your application's requirements and user experience."
+                "question": "Is tutor app development suitable for startups and educational institutions?",
+                "answer": "Yes, custom tutor app development supports startups, individual tutors, coaching centers, educational institutions, and established businesses looking to expand their services through digital learning platforms."
             },
             {
-                "question": "Do you provide astrology app maintenance and support?",
-                "answer": "Yes, WrathCode Technology provides ongoing astrology app maintenance and support, including bug fixes, security updates, performance optimization, compatibility improvements, and feature enhancements to keep your astrology application reliable, secure, and up to date."
+                "question": "Do you provide tutor app maintenance and support?",
+                "answer": "Yes, WrathCode provides ongoing maintenance, bug fixes, security updates, performance optimization, compatibility improvements, and feature enhancements to keep your tutoring application reliable and up to date."
+            },
+            {
+                "question": "Can you develop a tutor marketplace app?",
+                "answer": "Yes, we develop tutor marketplace applications with tutor registration, profile verification, subject-based search, scheduling, payments, reviews, commission management, and administrative tools to connect students with educators."
+            },
+            {
+                "question": "Why choose WrathCode for tutor app development?",
+                "answer": "WrathCode Technology delivers custom tutor app solutions with intuitive UI/UX, scalable architecture, secure integrations, modern technologies, and ongoing technical support tailored to your educational business goals."
             }
         ]
     },
