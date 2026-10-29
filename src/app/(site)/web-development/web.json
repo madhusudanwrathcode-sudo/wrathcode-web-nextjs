@@ -31,7 +31,7 @@
         "kicker": "Our Services",
         "title": "Custom Web Development Services",
         "titleAccent": "built to grow your business",
-        "description": "WrathCode delivers scalable, responsive, and SEO-friendly websites, eCommerce platforms, and web applications tailored to business goals and growth.",
+        "description": "WrathCode delivers custom web development services, creating responsive websites, scalable applications, eCommerce platforms, and business systems with secure architecture, modern technologies, intuitive designs, and SEO-friendly features.",
         "exploreLabel": "Explore service",
         "bookLabel": "Book a call",
         "bookHref": "https://api.whatsapp.com/send?phone=919982141988&text=Hello,WrathCode",
@@ -240,7 +240,7 @@
     "process": {
         "id": "process",
         "title": "Our Website Development Process",
-        "description": "At WrathCode Technology, we follow a structured website development process to transform your business ideas into high-performing, secure, and scalable digital experiences. From initial discovery and strategic planning to UI/UX design, custom web development, quality testing, and deployment, every stage is focused on your business goals, user experience, and long-term digital growth.",
+        "description": "WrathCode follows a structured development process, delivering secure, scalable websites aligned with business goals and growth.",
         "points": [
             "Clear project scope, timelines, and costs",
             "Transparent communication at every stage",
