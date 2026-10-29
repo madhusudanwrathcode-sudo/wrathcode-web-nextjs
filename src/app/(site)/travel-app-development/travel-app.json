@@ -2,8 +2,8 @@
     "herosection": {
         "id": "home-hero",
         "eyebrow": "Web / App Development",
-        "title": "Dating App Development Services for Meaningful Digital Connections",
-        "description": "WrathCode Technology delivers custom dating app development with secure authentication, real-time chat, smart matching algorithms, intuitive UI/UX, location-based discovery, and scalable features to enhance engagement and meaningful connections.",
+        "title": "Custom Travel App Development Company",
+        "description": "WrathCode builds innovative travel apps with seamless booking, real-time flight updates, personalized itineraries, secure payments, and smart navigation to simplify travel experiences and accelerate business growth.",
         "brand": "WrathCode",
         "image": {
             "src": "/home/banner_img.webp",
@@ -29,9 +29,9 @@
     "services": {
         "id": "services",
         "kicker": "Our Services",
-        "title": "Custom Dating App Development Services",
+        "title": "Comprehensive Travel App Development Services",
         "titleAccent": "built to grow your business",
-        "description": "WrathCode Technology offers custom dating app development services, delivering secure, scalable dating applications with smart matchmaking, real-time chat, intuitive UI/UX, location-based discovery, and privacy-focused features for business growth.",
+        "description": "We deliver end-to-end travel app development services, including flight and hotel booking, itinerary planning, real-time tracking, secure payments, and personalized recommendations to enhance traveler experiences and business growth.",
         "exploreLabel": "Explore service",
         "bookLabel": "Book a call",
         "bookHref": "https://api.whatsapp.com/send?phone=919982141988&text=Hello,WrathCode",
@@ -70,7 +70,7 @@
                 "id": "uiux",
                 "index": "03",
                 "title": "Travel App UI/UX Design",
-                "description": "Deliver engaging digital travel experiences with professional travel app UI/UX design services. We design intuitive interfaces that simplify destination discovery, trip planning, booking, and itinerary management. Our design process prioritizes usability, accessibility, visual consistency, and conversion-focused user journeys to help travelers navigate your application effortlessly across mobile devices.",
+                "description": "Deliver engaging digital travel experiences with professional travel app UI/UX design services. We design intuitive interfaces that simplify destination discovery, booking, trip planning, and itinerary management. Our design process prioritizes usability, accessibility, visual consistency, and conversion-focused user journeys to help travelers navigate your application effortlessly across mobile devices.",
                 "points": [
                     "Travel app user research and journey mapping",
                     "Wireframes and interactive prototypes",
@@ -175,14 +175,14 @@
     },
     "about": {
         "id": "about",
-        "title": "Building Custom Dating Apps That Create Meaningful Connections",
-        "lead": "WrathCode Technology is a Jaipur-based dating app development company delivering custom dating apps with smart matchmaking, real-time chat, location-based discovery, secure architecture, and engaging user experiences for business growth.",
-        "detail": "WrathCode develops custom dating applications featuring smart matchmaking, user profiles, real-time messaging, video calling, secure payments, intuitive UI/UX, and ongoing support to deliver scalable platforms for business growth.",
+        "title": "Building Innovative Travel Apps for Seamless Journey Planning",
+        "lead": "WrathCode Technology is a Jaipur-based travel app development company creating innovative travel applications with seamless bookings, smart itineraries, real-time updates, secure payments, and personalized experiences for business growth.",
+        "detail": "We develop custom travel apps featuring flight and hotel bookings, trip planning, GPS navigation, travel notifications, payment integration, intuitive UI/UX, and scalable solutions to simplify journeys and grow businesses.",
         "checks": [
-            " Custom Dating App Design and Development",
-            "Smart Matchmaking and Compatibility Features",
-            "Secure User Profiles and Real-Time Communication",
-            "API Integration, Testing, and Ongoing Support"
+            " Custom Travel App Design and Development",
+            "Flight, Hotel Booking, and Holiday Package Integration",
+            "Smart Itinerary Planning and GPS Navigation",
+            "Secure Payment Integration, Testing, and Ongoing Support"
         ],
         "primary": {
             "href": "/about",
@@ -215,13 +215,13 @@
     },
     "process": {
         "id": "process",
-        "title": "Our Dating App Development Process",
+        "title": "Our Travel App Development Process",
         "description": "WrathCode Technology follows a structured dating app development process, covering market research, matchmaking strategy, UI/UX design, secure development, testing, and deployment to deliver scalable, engaging dating platforms.",
         "points": [
             "Clear project scope, timelines, features, and development costs.",
             "Transparent communication throughout the development lifecycle.",
-            "Regular progress updates, demos, and client feedback.",
-            "Ongoing dating app maintenance, security updates, and technical support."
+            "Regular progress updates, product demos, and client feedback.",
+            "Ongoing travel app maintenance, security updates, and technical support."
         ],
         "cta": {
             "href": "/contact",
@@ -231,38 +231,38 @@
         "steps": [
             {
                 "stage": "Discover",
-                "title": "Dating App Discovery & Requirement Analysis",
-                "description": "We begin by understanding your dating app concept, business goals, target audience, and monetization strategy. Our team identifies essential features such as user profiles, matchmaking, real-time chat, location-based discovery, and premium memberships. We also evaluate market opportunities and user expectations to establish a clear development strategy for your dating application."
+                "title": "Travel App Discovery & Requirement Analysis",
+                "description": "We analyze your travel app concept, business goals, target audience, and revenue model, identifying essential features, market trends, and traveler expectations to establish a clear development strategy."
             },
             {
                 "stage": "Planning",
-                "title": "Dating App Planning & Technical Strategy",
-                "description": "We create a detailed dating app development roadmap covering features, user journeys, project scope, technology selection, and delivery milestones. Our team plans the application architecture, database structure, backend infrastructure, matchmaking logic, and third-party integrations to establish a secure, scalable foundation for your dating platform."
+                "title": "Travel App Planning & Technical Strategy",
+                "description": "We create a dating app development roadmap covering features, user journeys, project scope, technology selection, architecture, database structure, matchmaking logic, backend infrastructure, integrations, and delivery milestones."
             },
             {
                 "stage": "Design",
-                "title": "Dating App UI/UX Design & Prototyping",
-                "description": "Our designers create intuitive, attractive, and user-friendly dating app interfaces that simplify profile creation, match discovery, and communication. Through wireframes, interactive prototypes, and user journey mapping, we refine navigation, visual consistency, and accessibility to deliver engaging user experiences across supported mobile devices."
+                "title": "Travel App UI/UX Design & Prototyping",
+                "description": "Our designers craft intuitive travel app interfaces that simplify destination discovery, bookings, and itinerary management through wireframes, interactive prototypes, and user journey mapping, ensuring accessible, seamless mobile experiences."
             },
             {
                 "stage": "Development",
-                "title": "Custom Dating App Development",
-                "description": "We transform approved designs into functional dating applications using modern mobile technologies and scalable development practices. Our developers implement user registration, profile management, matchmaking algorithms, real-time messaging, location-based discovery, push notifications, and premium features. We also integrate backend APIs and third-party services to deliver a reliable, secure, and maintainable dating platform."
+                "title": "Custom Travel App Development",
+                "description": "We transform approved designs into scalable travel applications featuring flight and hotel bookings, itinerary planning, GPS navigation, user accounts, secure payments, push notifications, and travel API integrations."
             },
             {
                 "stage": "Testing",
-                "title": "Dating App Testing & Quality Assurance",
-                "description": "We thoroughly test your dating application to ensure reliable functionality, smooth navigation, and consistent performance across supported devices. Our quality assurance process evaluates matchmaking functionality, messaging reliability, payment workflows, data protection, and application responsiveness. We also test reporting, blocking, and privacy controls to help deliver a safer user experience before launch."
+                "title": "Travel App Testing & Quality Assurance",
+                "description": "We thoroughly test travel applications for reliable functionality, smooth navigation, and consistent performance, evaluating booking workflows, payment transactions, API integrations, responsiveness, and security before launch."
             },
             {
                 "stage": "Launch",
-                "title": "Dating App Deployment & Launch",
-                "description": "Once development and testing are complete, we prepare your dating application for deployment. Our team assists with production builds, app signing, release configuration, store listing preparation, and Google Play Store or Apple App Store submission requirements. We also help configure analytics and monitoring tools to track application performance and support a successful launch."
+                "title": "Travel App Deployment & Launch",
+                "description": "We prepare your travel application for launch through production builds, release configuration, app store listing preparation, Google Play and Apple App Store submissions, analytics setup, and performance monitoring."
             },
             {
                 "stage": "Support",
-                "title": "Dating App Maintenance & Continuous Improvement",
-                "description": "Our support continues after your dating app launches. We provide bug fixes, security updates, performance optimization, compatibility improvements, and new feature development as your business grows. We also help refine matchmaking functionality, improve user engagement, and maintain platform reliability to meet evolving user expectations and support long-term business success."
+                "title": "Travel App Maintenance & Continuous Improvement",
+                "description": "Our support continues after launch with bug fixes, security updates, performance optimization, API maintenance, and feature enhancements, ensuring reliable bookings and adapting your travel application to evolving business needs."
             }
         ]
     },
@@ -377,10 +377,10 @@
     },
     "cta": {
         "id": "cta",
-        "title": "Ready to Build a Dating App That Connects People?",
+        "title": "Ready to Build Your Next Travel App?",
         "titleAccent": "Big Product",
         "titleRest": "Together",
-        "description": "WrathCode builds secure, scalable dating apps featuring smart matchmaking, real-time chat, intuitive design, and personalized user experiences.",
+        "description": "Partner with WrathCode to develop innovative travel apps that simplify bookings, enhance experiences, and accelerate business growth.",
         "button": {
             "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
             "label": "Start Your Website Project "
@@ -388,15 +388,15 @@
     },
     "whyChoose": {
         "id": "why-us",
-        "title": "Why Choose WrathCode for Dating App Development?",
-        "description": "WrathCode Technology specializes in custom dating app development, offering smart matchmaking, real-time chat, intuitive UI/UX, secure architecture, and scalable solutions that enhance engagement, privacy, retention, and business growth.",
+        "title": "Why Choose WrathCode for Travel App Development?",
+        "description": "WrathCode Technology delivers custom travel app development solutions featuring seamless bookings, real-time travel updates, GPS navigation, secure payments, and scalable architecture to enhance traveler experiences and accelerate business growth.",
         "cta": {
             "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
             "label": "Connect to an expert"
         },
         "highlight": {
-            "title": "Business-Focused Dating App Solutions",
-            "description": "We develop custom dating apps with smart matchmaking, real-time chat, location-based discovery, and premium subscriptions to boost engagement, meaningful connections, and sustainable business growth.",
+            "title": "Business-Focused Travel App Solutions",
+            "description": "We develop custom travel apps with flight and hotel bookings, smart itineraries, location-based discovery, and secure payments to streamline travel planning, improve customer satisfaction, and drive business growth.",
             "href": "/contact",
             "label": "Start your project",
             "image": {
@@ -406,28 +406,28 @@
         },
         "points": [
             {
-                "title": "Expertise in Modern Android Technologies",
-                "description": "Our developers build scalable dating apps with modern technologies, smart matchmaking, real-time messaging, location-based discovery, and personalized recommendations for seamless user experiences."
+                "title": "Expertise in Modern Travel App Technologies",
+                "description": "Our developers build feature-rich travel apps using modern technologies, booking APIs, GPS integration, real-time updates, and third-party services to deliver seamless travel experiences across mobile platforms."
             },
             {
-                "title": "Secure and High-Performance Applications",
-                "description": "We build secure dating apps with robust authentication, data encryption, privacy controls, profile visibility settings, blocking, and reporting features to protect users and foster trustworthy connections."
+                "title": "Secure and High-Performance Travel Applications",
+                "description": "We develop secure travel apps with encrypted transactions, reliable authentication, protected customer information, and optimized booking workflows to improve application performance and build traveler confidence."
             },
             {
-                "title": "Scalable and Future-Ready Android Apps",
-                "description": "We develop scalable dating apps with flexible architecture, advanced matchmaking, real-time communication, subscription management, and seamless integrations to support business growth and evolving user demands."
+                "title": "Scalable and Future-Ready Travel Apps",
+                "description": "We create scalable travel applications with flexible architecture, integrated booking systems, multiple service options, and efficient infrastructure to support business expansion and evolving traveler expectations."
             },
             {
-                "title": "Intuitive Android UI/UX Design",
-                "description": "We design intuitive dating app interfaces with seamless onboarding, personalized profiles, smart match discovery, and user-friendly navigation to enhance engagement and meaningful connections."
+                "title": "Intuitive Travel App UI/UX Design",
+                "description": "We design intuitive travel app interfaces with seamless onboarding, easy destination discovery, simplified booking journeys, and personalized recommendations to improve user engagement and booking conversions."
             },
             {
                 "title": "Structured Development and Quality Testing",
-                "description": "We follow a structured dating app development process, covering planning, UI/UX design, development, testing, and deployment to ensure secure functionality, reliable matchmaking, and seamless performance."
+                "description": "We follow a structured travel app development process covering planning, UI/UX design, development, testing, and deployment to ensure reliable bookings, smooth navigation, secure transactions, and consistent performance."
             },
             {
-                "title": "End-to-End Android App Development and Support",
-                "description": "WrathCode Technology delivers end-to-end dating app development, including planning, UI/UX design, mobile development, backend integration, deployment, and maintenance to optimize performance and support business growth."
+                "title": "End-to-End Travel App Development and Support",
+                "description": "WrathCode Technology delivers end-to-end travel app development, including planning, design, mobile development, booking API integration, deployment, and maintenance to optimize performance and support long-term business growth."
             }
         ]
     },
@@ -695,52 +695,52 @@
         },
         "items": [
             {
-                "question": "What dating app development services does WrathCode Technology offer?",
-                "answer": "WrathCode Technology offers custom dating app development, matchmaking app development, dating app UI/UX design, real-time chat integration, video calling, location-based discovery, subscription management, payment integration, testing, and ongoing maintenance. We build dating platforms tailored to your business goals and target audience."
+                "question": "What travel app development services does WrathCode Technology offer?",
+                "answer": "WrathCode Technology offers custom travel app development, flight and hotel booking integration, travel itinerary planning, GPS navigation, location-based discovery, payment integration, UI/UX design, testing, deployment, and ongoing maintenance. We build travel applications tailored to your business goals and target audience."
             },
             {
-                "question": "How much does it cost to develop a dating app?",
-                "answer": "The cost of dating app development depends on your app's features, design complexity, matchmaking algorithms, backend infrastructure, and third-party integrations. A basic dating app typically costs less than an advanced platform with real-time messaging, video calling, personalized recommendations, and premium subscriptions. Contact WrathCode Technology for a customized project estimate."
+                "question": "How much does it cost to develop a travel app?",
+                "answer": "The cost of travel app development depends on your app's features, design complexity, booking integrations, backend infrastructure, and third-party APIs. A basic travel app generally costs less than an advanced platform with real-time tracking, multiple booking services, and personalized recommendations. Contact WrathCode Technology for a customized project estimate."
             },
             {
-                "question": "How long does it take to develop a dating app?",
-                "answer": "Dating app development timelines depend on the project's scope, features, design requirements, and technical complexity. A basic dating application may take several weeks to a few months, while a feature-rich platform may require several months or longer. We define realistic timelines after evaluating your requirements."
+                "question": "How long does it take to develop a travel app?",
+                "answer": "Travel app development timelines depend on project scope, feature requirements, design complexity, and integrations. A basic travel application may take several weeks to a few months, while a feature-rich platform may require several months or longer. We establish realistic timelines after evaluating your requirements."
             },
             {
-                "question": "What features can you include in a custom dating app?",
-                "answer": "We develop dating apps with user registration, profile creation, smart matchmaking, swipe-based discovery, advanced filters, real-time messaging, push notifications, location-based matching, video calling, and premium memberships. We customize the features according to your business model, target audience, and platform requirements."
+                "question": "What features can you include in a custom travel app?",
+                "answer": "We develop travel apps with user registration, destination discovery, flight and hotel booking, itinerary planning, GPS navigation, travel notifications, secure payments, reviews, and personalized recommendations. We customize features according to your business model, target audience, and operational requirements."
             },
             {
-                "question": "Can you develop a dating app for both Android and iOS?",
-                "answer": "Yes. We develop dating applications for Android and iOS using native or cross-platform technologies, depending on your requirements. Our solutions focus on consistent user experiences, reliable performance, secure integrations, and maintainable architecture across supported mobile devices."
+                "question": "Can you develop a travel app for both Android and iOS?",
+                "answer": "Yes. We develop travel applications for Android and iOS using native or cross-platform technologies, depending on your requirements. Our solutions focus on intuitive user experiences, reliable performance, secure integrations, and maintainable architecture across supported mobile devices."
             },
             {
-                "question": "Can you integrate smart matchmaking algorithms into a dating app?",
-                "answer": "Yes. We implement custom matchmaking systems based on user preferences, interests, location, profile information, and compatibility factors. Depending on your requirements, we can also develop personalized recommendation features that improve match discovery and help users find more relevant connections."
+                "question": "Can you integrate flight and hotel booking APIs into a travel app?",
+                "answer": "Yes. We integrate suitable third-party APIs to support flight searches, hotel availability, pricing, reservations, and booking management. Integration capabilities depend on the selected provider, API access permissions, commercial agreements, and your application's requirements."
             },
             {
-                "question": "Can you integrate real-time chat and video calling into a dating app?",
-                "answer": "Yes. We integrate real-time messaging, media sharing, typing indicators, message status, audio calling, and video calling into dating applications. We can also implement communication controls, including blocking and reporting, to help users manage unwanted interactions."
+                "question": "Can you integrate real-time tracking and travel notifications?",
+                "answer": "Yes. We can integrate real-time flight status, booking updates, push notifications, travel reminders, and GPS-based features. Depending on available data providers, these capabilities can help travelers receive timely information about schedule changes, reservations, and their journeys."
             },
             {
-                "question": "How do you protect user privacy and security in a dating app?",
-                "answer": "We follow security-conscious development practices, including secure authentication, protected API communication, access controls, and appropriate data protection measures. Depending on your requirements, we can implement profile visibility settings, location privacy controls, blocking, reporting, and account management features to support a safer dating experience."
+                "question": "How do you protect user data and payment information in a travel app?",
+                "answer": "We follow security-conscious development practices, including secure authentication, encrypted communication, access controls, and appropriate data protection measures. We can also integrate trusted payment providers and implement secure transaction workflows to help protect customer information and support reliable booking experiences."
             },
             {
-                "question": "Can you integrate subscription plans and premium dating app features?",
-                "answer": "Yes. We integrate premium memberships, recurring subscriptions, in-app purchases, profile boosts, advanced filters, and other paid features. Our team tailors monetization functionality to your business model and implements appropriate payment processing and subscription management workflows."
+                "question": "Can you integrate multiple payment methods and currencies into a travel app?",
+                "answer": "Yes. We can integrate suitable payment gateways that support cards, digital wallets, and other payment methods depending on provider availability. Multi-currency support, refunds, cancellation workflows, and transaction management can also be implemented according to your business requirements and payment provider capabilities."
             },
             {
-                "question": "Can you develop a niche dating app for a specific audience?",
-                "answer": "Yes. We develop niche dating applications for specific communities, interests, age groups, or relationship preferences, subject to applicable laws and platform policies. We customize profile fields, discovery filters, matchmaking rules, and user experiences to align with your target audience."
+                "question": "Can you develop a travel app for a tour or travel agency?",
+                "answer": "Yes. We develop custom travel applications for travel agencies, tour operators, holiday package providers, and travel businesses. Features can include tour listings, customized packages, booking management, customer inquiries, promotional offers, and administrative dashboards to streamline operations and improve customer experiences."
             },
             {
-                "question": "Do you provide dating app maintenance and support after launch?",
-                "answer": "Yes. We provide ongoing dating app maintenance and technical support, including bug fixes, performance optimization, security updates, compatibility improvements, and new feature development. Our team helps keep your dating platform reliable, secure, and adaptable as your business and user base grow."
+                "question": "Do you provide travel app maintenance and support after launch?",
+                "answer": "Yes. We provide ongoing travel app maintenance and technical support, including bug fixes, performance optimization, security updates, API maintenance, compatibility improvements, and new feature development. Our team helps keep your travel platform reliable and adaptable as your business grows."
             },
             {
-                "question": "How can I start a dating app development project with WrathCode Technology?",
-                "answer": "You can contact WrathCode Technology at sales@wrathcode.com to discuss your dating app idea, target audience, essential features, budget, and expected timeline. Our team will evaluate your requirements, recommend an appropriate development approach, and help you plan the next steps toward launching your dating platform."
+                "question": "How can I start a travel app development project with WrathCode Technology?",
+                "answer": "You can contact WrathCode Technology at sales@wrathcode.com to discuss your travel app idea, target audience, required features, budget, and expected timeline. Our team will evaluate your requirements, recommend a suitable development approach, and help you plan the next steps toward launching your travel application."
             }
         ]
     },

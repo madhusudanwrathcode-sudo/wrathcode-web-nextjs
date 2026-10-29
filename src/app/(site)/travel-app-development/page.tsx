@@ -18,88 +18,90 @@ export default function Index() {
   return (
     <>
 
-      <title>Dating App Development Company | WrathCode Technology</title>
+     
+<title>Travel App Development Company | WrathCode Technology</title>
 
-      <meta
-        name="description"
-        content="WrathCode Technology builds custom dating apps with smart matchmaking, real-time chat, video calling, secure payments, and scalable features for business growth."
-      />
+<meta
+  name="description"
+  content="WrathCode Technology builds custom travel apps with flight and hotel booking, itinerary planning, GPS navigation, secure payments, and scalable features for business growth."
+/>
 
-      <meta
-        name="keywords"
-        content="dating app development, dating app development company, custom dating app development, matchmaking app development, dating app developers, dating app solutions"
-      />
+<meta
+  name="keywords"
+  content="travel app development, travel app development company, custom travel app development, flight booking app development, hotel booking app development, travel app developers, travel app solutions"
+/>
 
-      <meta name="author" content="WrathCode Technology" />
+<meta name="author" content="WrathCode Technology" />
 
-      <meta
-        name="robots"
-        content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      />
+<meta
+  name="robots"
+  content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+/>
 
-      <meta
-        name="googlebot"
-        content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
-      />
+<meta
+  name="googlebot"
+  content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+/>
 
-      <link
-        rel="canonical"
-        href="https://wrathcode.com/dating-app-development/"
-      />
+<link
+  rel="canonical"
+  href="https://wrathcode.com/travel-app-development/"
+/>
 
-      <meta
-        property="og:title"
-        content="Dating App Development Company | WrathCode Technology"
-      />
+<meta
+  property="og:title"
+  content="Travel App Development Company | WrathCode Technology"
+/>
 
-      <meta
-        property="og:description"
-        content="Launch a custom dating app with smart matchmaking, real-time messaging, video calling, intuitive UI/UX, and secure, scalable technology from WrathCode Technology."
-      />
+<meta
+  property="og:description"
+  content="Launch a custom travel app with flight and hotel bookings, trip planning, GPS navigation, intuitive UI/UX, and secure, scalable technology from WrathCode Technology."
+/>
 
-      <meta
-        property="og:url"
-        content="https://wrathcode.com/dating-app-development/"
-      />
+<meta
+  property="og:url"
+  content="https://wrathcode.com/travel-app-development/"
+/>
 
-      <meta property="og:type" content="website" />
-      <meta property="og:site_name" content="WrathCode Technology" />
-      <meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="WrathCode Technology" />
+<meta property="og:locale" content="en_US" />
 
-      <meta
-        property="og:image"
-        content="https://wrathcode.com/home/banner_img.webp"
-      />
+<meta
+  property="og:image"
+  content="https://wrathcode.com/home/banner_img.webp"
+/>
 
-      <meta property="og:image:width" content="1600" />
-      <meta property="og:image:height" content="637" />
+<meta property="og:image:width" content="1600" />
+<meta property="og:image:height" content="637" />
 
-      <meta
-        property="og:image:alt"
-        content="Dating app development services by WrathCode Technology"
-      />
+<meta
+  property="og:image:alt"
+  content="Travel app development services by WrathCode Technology"
+/>
 
-      <meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:card" content="summary_large_image" />
 
-      <meta
-        name="twitter:title"
-        content="Dating App Development Company | WrathCode Technology"
-      />
+<meta
+  name="twitter:title"
+  content="Travel App Development Company | WrathCode Technology"
+/>
 
-      <meta
-        name="twitter:description"
-        content="Build a custom dating app with matchmaking, chat, video calling, and secure features. Explore dating app development services by WrathCode Technology."
-      />
+<meta
+  name="twitter:description"
+  content="Build a custom travel app with flight bookings, itinerary planning, GPS navigation, and secure payments. Explore travel app development services by WrathCode Technology."
+/>
 
-      <meta
-        name="twitter:image"
-        content="https://wrathcode.com/home/banner_img.webp"
-      />
+<meta
+  name="twitter:image"
+  content="https://wrathcode.com/home/banner_img.webp"
+/>
 
-      <meta
-        name="twitter:image:alt"
-        content="Dating app development services by WrathCode Technology"
-      />
+<meta
+  name="twitter:image:alt"
+  content="Travel app development services by WrathCode Technology"
+/>
+
 
 
 
