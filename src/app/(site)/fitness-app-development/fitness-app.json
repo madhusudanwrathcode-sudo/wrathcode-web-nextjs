@@ -2,8 +2,8 @@
     "herosection": {
         "id": "home-hero",
         "eyebrow": "Web / App Development",
-        "title": "Custom Astrology App Development Company",
-        "description": "WrathCode delivers custom astrology app development solutions featuring horoscope predictions, birth chart analysis, astrologer consultations, kundli matching, and live chat to create engaging, personalized, and scalable astrology platforms..",
+        "title": "Custom Fitness App Development Company",
+        "description": "WrathCode Technology develops custom fitness apps featuring personalized workout plans, activity tracking, nutrition management, real-time progress monitoring, wearable integration, and engaging experiences that support healthier lifestyles and business growth.",
         "brand": "WrathCode",
         "image": {
             "src": "/home/banner_img.webp",
@@ -29,9 +29,9 @@
     "services": {
         "id": "services",
         "kicker": "Our Services",
-        "title": "Astrology App Development Services We Offer",
+        "title": "built to grow your fitness business",
         "titleAccent": "built to grow your business",
-        "description": "We develop feature-rich astrology applications with personalized horoscopes, birth chart analysis, kundli matching, live astrologer consultations, compatibility reports, secure payments, and AI-powered predictions for seamless user experiences.",
+        "description": "WrathCode Technology develops custom fitness applications with workout planning, activity tracking, nutrition management, wearable integration, personal training, progress monitoring, and secure payments to deliver engaging fitness experiences.",
         "exploreLabel": "Explore service",
         "bookLabel": "Book a call",
         "bookHref": "https://api.whatsapp.com/send?phone=919982141988&text=Hello,WrathCode",
@@ -40,142 +40,156 @@
             {
                 "id": "custom",
                 "index": "01",
-                "title": "Custom Astrology App Development",
-                "description": "Build a personalized astrology platform tailored to your business goals, target audience, and service model. WrathCode Technology develops scalable astrology applications with intuitive interfaces, personalized user experiences, and reliable backend architecture to support your digital astrology business.",
+                "title": "Custom Fitness App Development",
+                "description": "Build a fitness application tailored to your business goals, target audience, and service model. We develop scalable fitness apps with personalized dashboards, workout management, user profiles, and reliable backend architecture to support your growing fitness business.",
                 "points": [
-                    "Custom astrology app design and development",
-                    "Personalized user profiles and preferences",
-                    "Horoscope and birth chart features",
+                    "Custom fitness app design and development",
+                    "Personalized user profiles and dashboards",
+                    "Workout and exercise management",
                     "Secure user registration and authentication",
                     "Scalable backend development and API integration"
                 ],
-                "href": "/custom-astrology-app-development"
+                "href": "/custom-fitness-app-development"
             },
             {
-                "id": "horoscope",
+                "id": "workout",
                 "index": "02",
-                "title": "Horoscope App Development",
-                "description": "Deliver personalized astrological insights with horoscope app development services. We create applications that provide daily, weekly, monthly, and yearly horoscope predictions based on zodiac signs and individual user preferences, helping businesses deliver engaging astrology experiences.",
+                "title": "Workout App Development",
+                "description": "Help users achieve their fitness goals with customized workout applications. We develop apps featuring structured exercise routines, personalized training plans, video demonstrations, and workout tracking to deliver convenient and engaging training experiences.",
                 "points": [
-                    "Daily, weekly, and monthly horoscopes",
-                    "Zodiac sign profiles and compatibility",
-                    "Personalized horoscope recommendations",
-                    "Push notifications for horoscope updates",
-                    "Zodiac-based insights and predictions"
+                    "Personalized workout plans and routines",
+                    "Exercise libraries and video demonstrations",
+                    "Strength training and cardio programs",
+                    "Workout timers and activity tracking",
+                    "Progress reports and workout reminders"
                 ],
-                "href": "/horoscope-app-development"
+                "href": "/workout-app-development"
             },
             {
                 "id": "uiux",
                 "index": "03",
-                "title": "Astrology App UI/UX Design",
-                "description": "Create engaging astrology applications with intuitive UI/UX design. We design user-friendly interfaces that simplify horoscope discovery, birth chart access, astrologer consultations, and account management across mobile devices, delivering seamless navigation and an engaging user experience.",
+                "title": "Fitness App UI/UX Design",
+                "description": "Create intuitive fitness applications with engaging and user-friendly interfaces. Our UI/UX design services simplify workout navigation, exercise discovery, fitness tracking, and account management to improve usability, engagement, and the overall user experience.",
                 "points": [
-                    "Astrology app user research and wireframes",
+                    "Fitness app user research and wireframes",
                     "Interactive prototypes and modern interface design",
                     "Simple onboarding and profile management",
-                    "Intuitive horoscope and kundli navigation",
+                    "Intuitive workout and nutrition navigation",
                     "Usability testing and responsive design"
                 ],
-                "href": "/astrology-app-ui-ux-design"
+                "href": "/fitness-app-ui-ux-design"
             },
             {
-                "id": "kundli",
+                "id": "trainer",
                 "index": "04",
-                "title": "Kundli and Birth Chart App Development",
-                "description": "Help users explore their astrological profiles through customized kundli and birth chart applications. We develop features that generate charts from birth details, display planetary positions, and provide personalized astrological interpretations for a comprehensive astrology experience.",
+                "title": "Personal Trainer App Development",
+                "description": "Connect fitness enthusiasts with professional trainers through personalized training applications. We develop platforms that support trainer profiles, customized workout programs, appointment scheduling, and progress monitoring to help businesses deliver flexible personal training services.",
                 "points": [
-                    "Online kundli generation",
-                    "Birth date, time, and location inputs",
-                    "Planetary positions and birth chart visualization",
-                    "Kundli matching and compatibility reports",
-                    "Personalized astrological analysis"
+                    "Personal trainer profiles and verification",
+                    "Customized training plans",
+                    "Trainer-client communication",
+                    "Appointment booking and scheduling",
+                    "Client progress tracking and management"
                 ],
-                "href": "/kundli-birth-chart-app-development"
+                "href": "/personal-trainer-app-development"
             },
             {
-                "id": "consultation",
+                "id": "nutrition",
                 "index": "05",
-                "title": "Live Astrologer Consultation App Development",
-                "description": "Connect users with professional astrologers through interactive consultation platforms. We build astrology applications with real-time communication, appointment scheduling, and flexible consultation options to help businesses deliver convenient and personalized astrology services.",
+                "title": "Nutrition and Diet Planning App Development",
+                "description": "Help users maintain healthier lifestyles with personalized nutrition and diet planning applications. We build fitness apps that support meal planning, calorie tracking, nutritional analysis, and dietary recommendations based on individual preferences and fitness objectives.",
                 "points": [
-                    "Live audio and video consultations",
-                    "Real-time astrologer chat",
-                    "Astrologer profiles and availability",
-                    "Appointment booking and scheduling",
-                    "Consultation history and session management"
+                    "Personalized diet and meal plans",
+                    "Calorie and macronutrient tracking",
+                    "Food database and nutrition information",
+                    "Water intake tracking and reminders",
+                    "Dietary preference and goal management"
                 ],
-                "href": "/live-astrologer-consultation-app-development"
+                "href": "/nutrition-diet-planning-app-development"
             },
             {
                 "id": "ai",
                 "index": "06",
-                "title": "AI-Powered Astrology App Development",
-                "description": "Enhance astrology applications with AI-powered features that deliver personalized insights and interactive user experiences. We integrate intelligent recommendation systems and conversational tools to help users explore astrology-related information through engaging, preference-based digital experiences.",
+                "title": "AI-Powered Fitness App Development",
+                "description": "Enhance fitness experiences with AI-powered features that deliver personalized recommendations and adaptive training plans. We integrate intelligent tools that analyze user activity, support fitness goal tracking, and provide tailored workout and nutrition suggestions.",
                 "points": [
-                    "AI-powered horoscope recommendations",
-                    "Personalized astrology insights",
-                    "AI astrology chatbot integration",
-                    "Conversational astrology assistance",
-                    "User preference-based content suggestions"
+                    "AI-powered workout recommendations",
+                    "Personalized fitness insights",
+                    "Adaptive training plans",
+                    "AI fitness assistant and chatbot integration",
+                    "Activity-based recommendations and progress analysis"
                 ],
-                "href": "/ai-astrology-app-development"
+                "href": "/ai-fitness-app-development"
+            },
+            {
+                "id": "wearable",
+                "index": "07",
+                "title": "Fitness App Wearable Integration",
+                "description": "Connect fitness applications with wearable devices to help users monitor physical activity and health-related metrics. We integrate supported wearable platforms and fitness APIs to synchronize activity data and provide a more connected fitness tracking experience.",
+                "points": [
+                    "Smartwatch and wearable device integration",
+                    "Step and distance tracking",
+                    "Heart rate data integration where supported",
+                    "Calorie expenditure and activity monitoring",
+                    "Apple Health and Health Connect integration"
+                ],
+                "href": "/fitness-app-wearable-integration"
+            },
+            {
+                "id": "online-training",
+                "index": "08",
+                "title": "Online Fitness Training App Development",
+                "description": "Launch an online fitness platform that connects trainers with users through digital training sessions. We develop applications with live classes, on-demand workout videos, subscription plans, and interactive communication to expand your fitness services beyond the gym.",
+                "points": [
+                    "Live workout classes and video sessions",
+                    "On-demand fitness video libraries",
+                    "Trainer profiles and class scheduling",
+                    "Membership and subscription management",
+                    "Live session and training progress tracking"
+                ],
+                "href": "/online-fitness-training-app-development"
             },
             {
                 "id": "payments",
-                "index": "07",
-                "title": "Astrology App Payment Integration",
-                "description": "Simplify transactions and create flexible revenue opportunities with secure astrology app payment integration. We implement payment gateways and monetization features that help businesses manage consultations, premium reports, subscriptions, and digital services through convenient and reliable payment experiences.",
+                "index": "09",
+                "title": "Fitness App Payment Integration",
+                "description": "Create flexible revenue opportunities with secure payment and monetization features. We integrate payment gateways and subscription systems that help fitness businesses manage premium workouts, coaching sessions, memberships, and digital fitness programs through convenient transactions.",
                 "points": [
                     "Secure payment gateway integration",
-                    "Paid astrologer consultations",
-                    "Subscription and membership plans",
-                    "Premium horoscope and kundli reports",
+                    "Premium workout program purchases",
+                    "Monthly and annual subscriptions",
+                    "Trainer consultation payments",
                     "Transaction history and refund management"
                 ],
-                "href": "/astrology-app-payment-integration"
-            },
-            {
-                "id": "marketplace",
-                "index": "08",
-                "title": "Astrology Marketplace App Development",
-                "description": "Launch an astrology marketplace that connects users with astrologers through a centralized digital platform. We develop solutions that support astrologer registration, service discovery, appointment management, and business administration to streamline operations and support marketplace growth.",
-                "points": [
-                    "Astrologer registration and verification workflows",
-                    "Astrologer profiles and service listings",
-                    "Search, filters, and astrologer discovery",
-                    "Appointment and consultation management",
-                    "Admin dashboard and commission management"
-                ],
-                "href": "/astrology-marketplace-app-development"
+                "href": "/fitness-app-payment-integration"
             },
             {
                 "id": "maintenance",
-                "index": "09",
-                "title": "Astrology App Maintenance and Optimization",
-                "description": "Keep your astrology application secure, reliable, and up to date with ongoing maintenance and optimization services from WrathCode Technology. We improve application performance, resolve technical issues, maintain compatibility, and support new features as your astrology business grows.",
+                "index": "10",
+                "title": "Fitness App Maintenance and Optimization",
+                "description": "Keep your fitness application secure, reliable, and up to date with ongoing maintenance and optimization services. We improve performance, resolve technical issues, maintain device compatibility, and introduce new features as your fitness business evolves.",
                 "points": [
-                    "Bug fixing and troubleshooting",
+                    "Bug fixing and technical troubleshooting",
                     "App speed and performance optimization",
                     "Security updates and dependency maintenance",
                     "Android and iOS compatibility updates",
                     "Feature enhancements and ongoing technical support"
                 ],
-                "href": "/astrology-app-maintenance"
+                "href": "/fitness-app-maintenance"
             }
         ]
     },
     "about": {
         "id": "about",
-        "title": "Building Custom Astrology Apps for Personalized Cosmic Insights",
-        "lead": "WrathCode Technology is a Jaipur-based astrology app development company creating personalized astrology platforms with horoscope predictions, kundli matching, birth chart analysis, and secure astrologer consultations.",
-        "detail": "We develop scalable astrology applications featuring AI-powered predictions, personalized horoscopes, live consultations, compatibility reports, secure payments, intuitive UI/UX, and ongoing support to help astrology businesses grow.",
+        "title": "Building Custom Fitness Apps for Smarter and Healthier Lifestyles",
+        "lead": "WrathCode Technology is a Jaipur-based fitness app development company creating personalized fitness platforms with workout planning, activity tracking, nutrition management, personal training, and fitness progress monitoring.",
+        "detail": "We develop scalable fitness applications featuring AI-powered workout recommendations, personalized training plans, diet tracking, wearable integration, live fitness sessions, secure payments, intuitive UI/UX, and ongoing support to help fitness businesses grow.",
         "checks": [
-            "Custom Astrology App Design and Development",
-            "Horoscope Predictions and Personalized Astrology Insights",
-            "Kundli Matching and Birth Chart Analysis",
-            "Secure Astrologer Consultations and Real-Time Communication",
-            "AI-Powered Astrology Features and API Integration",
+            "Custom Fitness App Design and Development",
+            "Workout Planning and Personalized Training Programs",
+            "Nutrition Management and Calorie Tracking",
+            "Personal Trainer Booking and Live Fitness Sessions",
+            "AI-Powered Fitness Features and Wearable Integration",
             "Application Testing, Maintenance, and Ongoing Support"
         ],
         "primary": {
@@ -209,13 +223,13 @@
     },
     "process": {
         "id": "process",
-        "title": "Our Astrology App Development Process",
-        "description": "Our astrology app development process transforms your vision into a scalable digital platform through strategic planning, intuitive design, feature development, rigorous testing, secure deployment, and ongoing support.",
+        "title": "Our Fitness App Development Process",
+        "description": "Our fitness app development process transforms your vision into a scalable digital platform through strategic planning, intuitive design, feature development, rigorous testing, secure deployment, and ongoing support.",
         "points": [
-            " Clear astrology app project scope, features, timelines, and development costs.",
-            "Transparent communication throughout the astrology app development lifecycle.",
+            "Clear fitness app project scope, features, timelines, and development costs.",
+            "Transparent communication throughout the fitness app development lifecycle.",
             "Regular progress updates, app demos, and client feedback.",
-            "Ongoing astrology app maintenance, security updates, and technical support."
+            "Ongoing fitness app maintenance, security updates, and technical support."
         ],
         "cta": {
             "href": "/contact",
@@ -225,38 +239,38 @@
         "steps": [
             {
                 "stage": "Discover",
-                "title": "Astrology App Discovery & Requirement Analysis",
-                "description": "We understand your astrology app concept, business goals, target audience, and monetization strategy while identifying essential features, market opportunities, and user expectations to establish a clear development roadmap."
+                "title": "Fitness App Discovery & Requirement Analysis",
+                "description": "We understand your fitness app concept, business goals, target audience, and monetization strategy while identifying essential features such as workout tracking, personalized training, nutrition planning, and activity monitoring to establish a clear development roadmap."
             },
             {
                 "stage": "Planning",
-                "title": "Astrology App Planning & Technical Strategy",
-                "description": "We create a detailed development roadmap covering project scope, features, user journeys, technology selection, architecture, database structure, astrology integrations, and delivery milestones to build a secure, scalable application.."
+                "title": "Fitness App Planning & Technical Strategy",
+                "description": "We create a detailed development roadmap covering project scope, features, user journeys, technology selection, application architecture, database structure, third-party integrations, and delivery milestones to build a secure, scalable fitness application."
             },
             {
                 "stage": "Design",
-                "title": "Astrology App UI/UX Design & Prototyping",
-                "description": "Our designers create intuitive astrology app interfaces using wireframes, interactive prototypes, and user journey mapping to simplify horoscope discovery, kundli generation, astrologer consultations, navigation, and accessibility across mobile devices."
+                "title": "Fitness App UI/UX Design & Prototyping",
+                "description": "Our designers create intuitive fitness app interfaces using wireframes, interactive prototypes, and user journey mapping to simplify workout discovery, exercise tracking, nutrition management, progress monitoring, and navigation across mobile devices."
             },
             {
                 "stage": "Development",
-                "title": "Custom Astrology App Development",
-                "description": "We build feature-rich astrology applications with horoscope predictions, kundli matching, birth chart analysis, real-time consultations, secure payments, and backend integrations using modern technologies and scalable development practices."
+                "title": "Custom Fitness App Development",
+                "description": "We build feature-rich fitness applications with personalized workout plans, diet tracking, trainer consultations, wearable integration, real-time activity monitoring, secure payments, and backend integrations using modern technologies and scalable development practices."
             },
             {
                 "stage": "Testing",
-                "title": "Astrology App Testing & Quality Assurance",
-                "description": "We thoroughly test astrology calculations, kundli matching, consultation features, payment workflows, security controls, and application responsiveness to identify issues and ensure reliable functionality across supported devices before launch."
+                "title": "Fitness App Testing & Quality Assurance",
+                "description": "We thoroughly test workout features, activity tracking, payment workflows, wearable integrations, data security, and application responsiveness to identify issues and ensure reliable functionality across supported devices before launch."
             },
             {
                 "stage": "Launch",
-                "title": "Astrology App Deployment & Launch",
-                "description": "We prepare your astrology application for launch through production builds, release configuration, app signing, store listing preparation, and Google Play Store or Apple App Store submission support."
+                "title": "Fitness App Deployment & Launch",
+                "description": "We prepare your fitness application for launch through production builds, release configuration, app signing, store listing preparation, and Google Play Store or Apple App Store submission support."
             },
             {
                 "stage": "Support",
-                "title": " Astrology App Maintenance & Continuous Improvement",
-                "description": "We provide ongoing bug fixes, security updates, performance optimization, compatibility improvements, and feature enhancements to improve user engagement, maintain application reliability, and support your astrology business's long-term growth."
+                "title": "Fitness App Maintenance & Continuous Improvement",
+                "description": "We provide ongoing bug fixes, security updates, performance optimization, device compatibility improvements, and feature enhancements to improve user engagement, maintain application reliability, and support your fitness business's long-term growth."
             }
         ]
     },
@@ -371,10 +385,10 @@
     },
     "cta": {
         "id": "cta",
-        "title": "Ready to Build a Dating App That Connects People?",
+        "title": "Ready to Build a Fitness App That Inspires Healthier Lifestyles?",
         "titleAccent": "Big Product",
         "titleRest": "Together",
-        "description": "WrathCode builds secure, scalable dating apps featuring smart matchmaking, real-time chat, intuitive design, and personalized user experiences.",
+        "description": "WrathCode builds secure, scalable fitness apps featuring personalized workout plans, activity tracking, nutrition management, wearable integration, and engaging user experiences. ",
         "button": {
             "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
             "label": "Start Your Website Project "
@@ -382,15 +396,15 @@
     },
     "whyChoose": {
         "id": "why-us",
-        "title": "Why Choose WrathCode for Astrology App Development?",
-        "description": "WrathCode Technology delivers custom astrology app development solutions featuring personalized horoscopes, kundli matching, AI-powered predictions, secure consultations, intuitive UI/UX, and scalable architecture to support business growth.",
+        "title": "Why Choose WrathCode for Fitness App Development?",
+        "description": "WrathCode Technology delivers custom fitness app development solutions featuring personalized workouts, activity tracking, nutrition management, wearable integration, intuitive UI/UX, and scalable architecture to support business growth.",
         "cta": {
             "href": "https://api.whatsapp.com/send?phone=919982141988&text=Hi+Wrathcode+Family%2C+I%27m+interested+in+starting+a+project+with+you.",
             "label": "Connect to an expert"
         },
         "highlight": {
-            "title": "Business-Focused Astrology App Solutions",
-            "description": "We develop custom astrology apps with horoscope predictions, birth chart analysis, kundli matching, live consultations, and premium subscriptions to enhance user engagement, personalize experiences, and drive sustainable business growth.",
+            "title": "Business-Focused Fitness App Solutions",
+            "description": "We develop custom fitness apps with workout planning, diet tracking, personal training, wearable integration, and progress monitoring to enhance user engagement, personalize fitness experiences, and drive sustainable business growth.",
             "href": "/contact",
             "label": "Start your project",
             "image": {
@@ -400,28 +414,28 @@
         },
         "points": [
             {
-                "title": "Expertise in Modern Astrology App Technologies",
-                "description": "Our developers build scalable astrology applications with horoscope predictions, kundli generation, birth chart analysis, AI-powered insights, and real-time consultations to deliver personalized user experiences."
+                "title": "Expertise in Modern Fitness App Technologies",
+                "description": "Our developers build scalable fitness applications with personalized workout plans, activity tracking, nutrition management, AI-powered recommendations, and wearable integration to deliver personalized fitness experiences."
             },
             {
                 "title": "Secure and High-Performance Applications",
-                "description": "We build secure astrology apps with robust authentication, data encryption, privacy controls, protected user profiles, and secure payment integrations to safeguard personal information and build user trust."
+                "description": "We build secure fitness apps with robust authentication, data encryption, privacy controls, protected user profiles, and secure payment integrations to safeguard personal information and build user trust."
             },
             {
-                "title": "Scalable and Future-Ready Astrology Apps",
-                "description": "We develop scalable astrology platforms with flexible architecture, personalized predictions, consultation management, subscription features, and seamless integrations to support business expansion and evolving user requirements."
+                "title": "Scalable and Future-Ready Fitness Apps",
+                "description": "We develop scalable fitness platforms with flexible architecture, personalized training plans, subscription features, activity tracking, and seamless integrations to support business expansion and evolving user requirements."
             },
             {
-                "title": "Intuitive Astrology App UI/UX Design",
-                "description": "We design intuitive astrology app interfaces with seamless onboarding, personalized horoscopes, interactive birth charts, easy kundli access, and user-friendly navigation to improve engagement and customer satisfaction."
+                "title": "Intuitive Fitness App UI/UX Design",
+                "description": "We design intuitive fitness app interfaces with seamless onboarding, easy workout discovery, interactive progress dashboards, nutrition tracking, and user-friendly navigation to improve engagement and customer satisfaction."
             },
             {
                 "title": "Structured Development and Quality Testing",
-                "description": "We follow a structured astrology app development process covering planning, UI/UX design, development, testing, and deployment to ensure accurate functionality, reliable performance, and seamless user experiences."
+                "description": "We follow a structured fitness app development process covering planning, UI/UX design, development, testing, and deployment to ensure reliable functionality, consistent performance, and seamless user experiences."
             },
             {
-                "title": "End-to-End Astrology App Development and Support",
-                "description": "WrathCode Technology delivers end-to-end astrology app development, including planning, UI/UX design, mobile development, backend integration, deployment, and maintenance to optimize performance and support long-term business growth."
+                "title": "End-to-End Fitness App Development and Support",
+                "description": "WrathCode Technology delivers end-to-end fitness app development, including planning, UI/UX design, mobile development, backend integration, deployment, and maintenance to optimize performance and support long-term business growth."
             }
         ]
     },
@@ -689,44 +703,52 @@
         },
         "items": [
             {
-                "question": "What is astrology app development?",
-                "answer": "Astrology app development involves creating mobile or web applications that provide horoscope predictions, kundli generation, birth chart analysis, zodiac compatibility, and online astrologer consultations. WrathCode Technology develops customized astrology applications tailored to your business goals and target audience."
+                "question": "What is fitness app development?",
+                "answer": "Fitness app development involves creating mobile applications that help users manage workouts, track physical activity, monitor nutrition, follow personalized training plans, and achieve their fitness goals."
             },
             {
-                "question": "What features should an astrology app include?",
-                "answer": "An astrology app can include daily horoscopes, kundli matching, birth chart generation, zodiac compatibility, astrologer chat, audio and video consultations, push notifications, secure payments, and subscription plans. We customize features according to your business model and user requirements."
+                "question": "How much does it cost to develop a fitness app?",
+                "answer": "The cost of fitness app development depends on features, design complexity, platform selection, third-party integrations, and backend requirements. WrathCode Technology provides customized solutions based on your business goals and budget."
             },
             {
-                "question": "How much does it cost to develop an astrology app?",
-                "answer": "The cost of astrology app development depends on app complexity, platform selection, design requirements, feature integrations, and backend infrastructure. Basic astrology apps generally cost less than advanced platforms with AI-powered predictions and live consultations. Contact WrathCode Technology for a customized project estimate."
+                "question": "How long does it take to develop a fitness app?",
+                "answer": "Fitness app development timelines depend on the project's scope, features, and technical complexity. A basic app may take a few months, while advanced platforms with AI, wearable integration, and live training require additional development time."
             },
             {
-                "question": "How long does it take to develop an astrology app?",
-                "answer": "Astrology app development timelines depend on project scope, design complexity, integrations, and testing requirements. A basic application may take a few weeks to several months, while advanced platforms with AI features, kundli calculations, and live consultations can require additional development time."
+                "question": "What features can you include in a custom fitness app?",
+                "answer": "We develop fitness apps with workout planning, activity tracking, calorie monitoring, nutrition management, trainer booking, progress reports, push notifications, subscription management, and wearable device integration."
             },
             {
-                "question": "Can you develop an AI-powered astrology app?",
-                "answer": "Yes, WrathCode Technology develops AI-powered astrology applications with personalized recommendations, conversational chatbots, automated horoscope insights, and intelligent content delivery based on user preferences and available astrological data."
+                "question": "Can you develop fitness apps for Android and iOS?",
+                "answer": "Yes. WrathCode Technology develops fitness applications for Android and iOS using native and cross-platform technologies, helping businesses reach users across mobile platforms with reliable performance and intuitive experiences."
             },
             {
-                "question": "Can an astrology app support live astrologer consultations?",
-                "answer": "Yes, astrology applications can include real-time chat, audio calls, video consultations, appointment scheduling, astrologer profiles, availability management, and secure payment options. We build consultation features that help users connect conveniently with astrologers online."
+                "question": "Can you integrate wearable devices into a fitness app?",
+                "answer": "Yes. We can integrate supported wearable devices and platforms, including Apple Health and Android Health Connect, to synchronize activity data, steps, workout information, and other available fitness metrics."
             },
             {
-                "question": "Can you develop astrology apps for Android and iOS?",
-                "answer": "Yes, we develop astrology applications for Android and iOS using native or cross-platform technologies, depending on your business requirements, budget, performance expectations, and target audience. Our solutions focus on reliable performance, intuitive interfaces, and scalable architecture."
+                "question": "Can you develop an AI-powered fitness app?",
+                "answer": "Yes. We can integrate AI-powered features such as personalized workout recommendations, adaptive training plans, fitness assistants, and activity-based insights to create more personalized user experiences."
             },
             {
-                "question": "How can an astrology app generate revenue?",
-                "answer": "Astrology apps can generate revenue through paid consultations, premium horoscope reports, subscription plans, kundli analysis, compatibility reports, in-app purchases, and other paid astrology services. We integrate suitable monetization features based on your business model."
+                "question": "Can you develop a fitness app with diet and nutrition tracking?",
+                "answer": "Yes. We develop nutrition-focused features such as calorie tracking, meal planning, food databases, macronutrient monitoring, water intake reminders, and personalized dietary preferences to support users' fitness goals."
             },
             {
-                "question": "Is it possible to integrate kundli matching and birth chart calculations?",
-                "answer": "Yes, we can integrate kundli matching, birth chart generation, planetary position calculations, and compatibility reports using suitable astrology calculation engines, APIs, or custom-developed solutions. These features can be tailored to your application's requirements and user experience."
+                "question": "How can a fitness app generate revenue?",
+                "answer": "A fitness app can generate revenue through premium subscriptions, paid workout programs, personal training sessions, in-app purchases, nutrition plans, and membership packages tailored to your business model."
             },
             {
-                "question": "Do you provide astrology app maintenance and support?",
-                "answer": "Yes, WrathCode Technology provides ongoing astrology app maintenance and support, including bug fixes, security updates, performance optimization, compatibility improvements, and feature enhancements to keep your astrology application reliable, secure, and up to date."
+                "question": "Do you provide fitness app maintenance and support?",
+                "answer": "Yes. WrathCode Technology provides ongoing maintenance, bug fixes, security updates, performance optimization, compatibility improvements, and feature enhancements to keep your fitness application reliable and up to date."
+            },
+            {
+                "question": "Can you develop an app for personal trainers and gyms?",
+                "answer": "Yes. We build custom applications for personal trainers, gyms, fitness studios, and wellness businesses with trainer profiles, class scheduling, membership management, workout programs, client tracking, and payment integration."
+            },
+            {
+                "question": "Why should I choose WrathCode for fitness app development?",
+                "answer": "WrathCode Technology delivers customized fitness app solutions with intuitive UI/UX, scalable architecture, secure integrations, modern technologies, and ongoing technical support to help businesses launch and grow their digital fitness platforms."
             }
         ]
     },
